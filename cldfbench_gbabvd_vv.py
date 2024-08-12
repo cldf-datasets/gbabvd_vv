@@ -7,6 +7,7 @@ cldfbench gbabvd_vv.gbabvdvv_analyse
 from pathlib import Path
 from collections import defaultdict
 from git import Repo, GitCommandError
+import unicodedata
 
 import pycldf
 
@@ -17,6 +18,8 @@ from cldfzenodo.record import GithubRepos
 
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec, Metadata
+
+from segments import Profile, Tokenizer
 
 
 class Dataset(BaseDataset):
@@ -163,8 +166,14 @@ class Dataset(BaseDataset):
 
             seen_params = set()
             seen_form_ids = set()
+
+            prf = Profile.from_file(self.etc_dir / 'orthography.tsv', form='NFC')
+            tok = Tokenizer(profile=prf)
+            ign = ['..']
             for form in abvd.objects('FormTable'):
                 if form.cldf.languageReference in abvd_ids:
+                    if form.cldf.form in ign:
+                        continue
                     if form.cldf.parameterReference not in seen_params:
                         p = abvd.objects('ParameterTable')[form.cldf.parameterReference]
                         ds.objects['ParameterTable'].append({
@@ -172,12 +181,16 @@ class Dataset(BaseDataset):
                             'Name': p.cldf.name,
                         })
                         seen_params.add(form.cldf.parameterReference)
+                    frm = unicodedata.normalize('NFC', form.cldf.form)
+                    if frm == 'naᵐ batina':
+                        frm = 'na ᵐbatina'
                     ds.objects['FormTable'].append({
                         'ID': form.cldf.id,
                         'Language_ID': form.cldf.languageReference,
                         'Parameter_ID': form.cldf.parameterReference,
                         'Value': form.cldf.value,
-                        'Form': form.cldf.form,
+                        'Form': frm,
+                        'Segments': tok(frm, column='IPA', form='NFC').split(' '),
                         'Source': ['Greenhilletal2008'],
                         'Cognacy': form.data['Cognacy'],
                         'Loan': form.data['Loan'],
