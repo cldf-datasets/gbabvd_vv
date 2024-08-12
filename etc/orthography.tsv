@@ -1,0 +1,836 @@
+Grapheme	IPA
+$	NULL
+-	+
+-$	NULL
+-͡s	+ s
+B	β
+I$	ɪ
+L$	l
+N$	ŋ
+R	ʀ
+^	NULL
+^-	NULL
+__	+
+-_	+
+^ŋ͡ma	ŋ m a
+ŋ͡ma	ŋ m a
+naᵐ_b	n a ⁿb
+^-mᵐẽ	m ẽ
+^a	a
+^a:	aː
+^aa	aː
+^aː	aː
+^a͡u	au
+^b	b
+^bw	bʷ
+^bʷ	bʷ
+^c	c
+^d	d
+^e	e
+^e$	e
+^f	f
+^fʲ	fʲ
+^fʷ	fʷ
+^g	g
+^gs	g s
+^gʷ	gʷ
+^h	h
+^hw	hʷ
+^hʲ	hʲ
+^hʷ	hʷ
+^i	i
+^i$	i
+^ii	i i
+^ii$	iː
+^iː	iː
+^iˑ	iˑ
+^j	j
+^k	k
+^kh	kʰ
+^kw	kʷ
+^kʰ	kʰ
+^kʷ	kʷ
+^l	l
+^lː	lː
+^m	m
+^mm	mː
+^ms	m s
+^mw	mʷ
+^mʷ	mʷ
+^mː	mː
+^mᵐ	m
+^mᵚ	mʷ
+^m⁽ʷ⁾	mʷ
+^n	n
+^n-n	n + n
+^ns	n s
+^nʲ	nʲ
+^nʷ	nʷ
+^n̩	n
+^n̼	n̼
+^o	o
+^o$	o
+^p	p
+^ps	p s
+^pw	pʷ
+^pʷ	pʷ
+^r	r
+^rs	r s
+^rː	rː
+^s	s
+^sw	sʷ
+^sʷ	sʷ
+^t	t
+^tw	tʷ
+^tʰ	tʰ
+^t̚n	tⁿ
+^t͡s	ts
+^t͡sʰ	tsʰ
+^t͡ʃ	tʃ
+^tᵐb	t ⁿb
+^tⁿd	t ⁿd
+^u	u
+^u:	uː
+^uu	uː
+^v	v
+^vs	v s
+^vw	vʷ
+^vʷ	vʷ
+^w	w
+^x	x
+^xs	x s
+^xʷ	xʷ
+^y	j
+^z	z
+^ã	ã
+^æ	æ
+^ð	ð
+^ð̼	ð̼
+^ð̼̼	ð̼
+^õ	õ
+^ĩ	ĩ
+^ĩ$	ĩ
+^ŋ	ŋ
+^ŋʲ	ŋʲ
+^ŋʷ	ŋʷ
+^š	ʃ
+^ɒ	ɒ
+^ɔ	ɔ
+^ə	ə
+^əⁿt͡s	ə ⁿts
+^ɛ	ɛ
+^ɛ:	ɛː
+^ɡ	g
+^ɡʷ	gʷ
+^ɣ	ɣ
+^ɦ	ɦ
+^ɪ	ɪ
+^ɬ	ɬ
+^ɰʷ	ɰʷ
+^ɲ	ɲ
+^ɳ	ɳ
+^ɸ	ɸ
+^ɸʲ	ɸʲ
+^ɸʷ	ɸʷ
+^ɾ	ɾ
+^ʃ	ʃ
+^ʉ	ʉ
+^ʊ	ʊ
+^ʋ	ʋ
+^ʒ	ʒ
+^ʔ	ʔ
+^ʙ	ʙ
+^ʧ	tʃ
+^β	β
+^βʷ	βʷ
+^χ	χ
+^ᴩ	p
+^ᵏpʷ	kpʷ
+^ᵐb	ⁿb
+^ᵐbs	ⁿb s
+^ᵐbw	ⁿbʷ
+^ᵐbʷ	ⁿbʷ
+^ᵐbᵐbʷ	ⁿb ⁿbʷ
+^ᵐm	ⁿm
+^ᵐʙ	ⁿʙ
+^ᵑa	ᵑ/ŋ a
+^ᵑg	ⁿg
+^ᵑgʷ	ⁿgʷ
+^ᵑɡ	ⁿg
+^ᵑɡuⁿɡu	ⁿg u ⁿg u
+^ᵑɡʷ	ⁿgʷ
+^ᶰd	ⁿd
+^ẽ	ẽ
+^ⁿb	ⁿb
+^ⁿd	ⁿd
+^ⁿdʳ	ⁿdʳ
+^ⁿd͡ʒ	ⁿdʒ
+^ⁿg	ⁿg
+^ⁿgw	ⁿgʷ
+^ⁿp	ⁿp
+^ⁿs	ⁿs
+^ⁿt	ⁿt
+^ⁿt͡s	ⁿts
+^ⁿt͡ɕ	ⁿtɕ
+^ⁿt͡ʃ	ⁿtʃ
+^ⁿz	ⁿz
+^ⁿɡ	ⁿg
+^ⁿʒ	ⁿʒ
+^ⁿʧ	ⁿtʃ
+^►$	NULL
+_	+
+_ᵏpʷ	+ kpʷ
+_ⁿd	+ ⁿd
+_ⁿdʳ	+ ⁿdʳ
+a	a
+a$	a
+a:	aː
+a:$	aː
+aa	aː
+aiʲ	ai j
+aʰ$	a ʰ/h
+aˀ	a ˀ/ʔ
+aˀ$	a ˀ/ʔ
+aː	aː
+aˑ	aˑ
+a͂	ã
+a͂$	ã
+a͡m	a m
+a͡t$	a t
+a͡ul	au l
+a͡ŋ	a ŋ
+b	b
+b$	b
+bs	b s
+bw	bʷ
+bʷ	bʷ
+b˺$	b̚/b
+bⁿd	b ⁿd
+c	c
+ch	cʰ
+d	d
+d$	d
+dʲ	dʲ
+dʳ	dʳ
+dʳ$	dʳ
+dᵗ$	dᵗ/d
+e	e
+e$	e
+e:	eː
+e:$	eː
+e:ⁿd	eː ⁿd
+ee	eː
+ee$	eː
+eiʲ	ei
+eʰ$	e ʰ/h
+eʲ	eʲ/ei̯
+eˀᵐb	e ˀ/ʔ ⁿb
+eː	eː
+eˑ$	eˑ
+e̥$	e̥
+e͡	e
+f	f
+f$	f
+fW	fʷ
+fs	f s
+fʷ	fʷ
+fᵗ$	fᵗ/f
+g	g
+g$	g
+gs	g s
+gw	gʷ
+gʰ$	gʰ
+gʷ	gʷ
+h	h
+h$	h
+hs	h s
+hʰ$	h
+hʷ	hʷ
+i	i
+i$	i
+i:$	iː
+ii	iː
+iʰ$	i ʰ/h
+iˀ	i ˀ/ʔ
+iː	iː
+iː$	iː
+iˑ$	iˑ
+i̥$	i̥
+j	j
+j$	j
+k	k
+k$	k
+keiʲõ	k ei j o
+kh	kʰ
+ks	k s
+ks$	k s
+kw	kʷ
+kʒ	k ʒ
+kʰ	kʰ
+kʰ$	kʰ
+kʷ	kʷ
+k˺$	k̚
+k̚	k̚
+k̚$	k̚
+l	l
+l$	l
+lh	lʰ
+ll	lː
+ls	l s
+lw	lʷ
+lʃ	l ʃ
+lʰ$	lʰ
+l̩$	l̩
+lᵗ$	l ᵗ/t
+m	m
+m$	m
+mm	mː
+mm$	mː
+ms	m s
+ms$	m s
+mw	mʷ
+mʷ	mʷ
+mᴮ$	m
+mᵇ	ⁿb
+mᵇ$	ⁿb
+mᵇs	mᵇ/ⁿb s
+mᵖ	ⁿp
+mᵖ$	ⁿp
+mᵗs	m ᵗ/t s
+m’ⁿd	m ⁿd
+n	n
+n$	n
+nD	ⁿð
+nh	nʰ
+nn	n n
+nn$	nː
+ns	n s
+ns$	n s
+nw	nʷ
+nʃ	n ʃ
+nʒ	ⁿʒ
+nʰ$	nʰ
+n̩$	n̩
+n̪	n̪
+n̼	n̼
+nᵗ$	nᵗ/ⁿt
+o	o
+o$	o
+o:	oː
+oo	oː
+oo$	oː
+oʰ$	o ʰ/h
+oʷ	o ʷ/w
+oʷ$	oʷ/ou̯
+oˀ	o ˀ/ʔ
+oˀ$	o ˀ/ʔ
+oː	oː
+oˑ$	oˑ
+o̥$	o̥
+o͂$	õ
+o͡i	oi
+p	p
+p$	p
+ph	pʰ
+pp$	pː
+ps	p s
+pw	pʷ
+pʰ	pʰ
+pʰ$	pʰ
+pʷ	pʷ
+p˺$	p̚
+p̚	p̚
+p̚$	p̚
+p̚w	p̚ w
+p̼	p
+p̼$	p
+pⁿ$	pⁿ/p
+q	q
+q$	q
+r	r
+r$	r
+rh	rʰ
+rr	rː
+rr$	rː
+rs	r s
+rs$	r s
+rw	rʷ
+rʃ	r ʃ
+rʒ	r ʒ
+rʲ	rʲ
+rᵑ	rⁿ
+s	s
+s$	s
+s:$	sː
+sh	sʰ
+ss	sː
+sw	sʷ
+t	t
+t$	t
+t-͡sɪplen	t + s ɪ p l e n
+th	tʰ
+ts	ts
+tt	tː
+tt͡s	t ts
+tw	tʷ
+tʃ	tʃ
+tʰ	tʰ
+tʰ$	tʰ
+tʷ	tʷ
+t˺$	t̚
+t̚$	t̚
+t̚w	t̚ w
+t̪$	t̪
+t̪ʰ$	t̪ʰ
+t̻	t̻
+t͡s	ts
+t͡s$	ts
+t͡sʰ	tsʰ
+t͡sʰ$	tsʰ
+t͡ʃ	tʃ
+t͡ʃ$	tʃ
+tᵏ	tk
+tⁿ$	ⁿt
+u	u
+u$	u
+u:	uː
+u:$	uː
+uu	uː
+uʰ$	u ʰ/h
+uː	uː
+uˑ$	uˑ
+u̥$	u̥
+u͂	ũ
+u͂$	ũ
+v	v
+v$	v
+vh	vʰ
+vs	v s
+vw	vʷ
+vʃ	v ʃ
+vʷ	vʷ
+w	w
+w$	w
+wʰ$	wʰ
+x	x
+x$	x
+xs	x s
+xs$	x s
+xw	xʷ
+xʃ	x ʃ
+xʷ	xʷ
+xᵐb	x ⁿb
+xⁱ	xʲ
+ly	l y
+iya	i j a
+z	z
+z$	z
+zw	zʷ
+ß	β
+ß$	β
+ã	ã
+ã$	ã
+ã:$	ãː
+æ	æ
+æ$	æ
+æ:$	æː
+æˑ	æˑ
+æ̃$	æ̃
+ð	ð
+ð$	ð
+ð̼	ð̼
+ð̼̼	ð̼
+ð̼̼a	ð̼ a
+õ	õ
+õ$	õ
+ă	ă
+ă$	ă
+ĕ$	ĕ
+ĩ	ĩ
+ĩ$	ĩ
+ĭ	ĭ
+ĭ$	ĭ
+ŋ	ŋ
+ŋ$	ŋ
+ŋs	ŋ s
+ŋs$	ŋ s
+ŋw	ŋʷ
+ŋʃ	ŋ ʃ
+ŋʲ	ŋʲ
+ŋʷ	ŋʷ
+ŋ̆$	ŋ
+ŏ$	ŏ
+œ	œ
+œ$	œ
+š	ʃ
+š$	ʃ
+ũ	ũ
+ũ$	ũ
+ŭ	ŭ
+ŭ$	ŭ
+ɐ	ɐ
+ɐ$	ɐ
+ɑ	ɑ
+ͻ	ɔ
+ɔ	ɔ
+ɔ$	ɔ
+ɔʰ	ɔ ʰ/h
+ɔ͂$	ɔ̃
+ɘ	ɘ
+ə	ə
+ə$	ə
+əʰ$	ə ʰ/h
+əː	əː
+ə̆	ə̆
+ə̥	ə̥
+ə̥$	ə̥
+ɛ	ɛ
+ɛ$	ɛ
+ɛ:$	ɛː
+ɛɛ	ɛː
+ɛɛ$	ɛː
+ɛʰ$	ɛ ʰ/h
+ɛʲ$	ɛʲ/ɛi̯
+ɛˀ$	ɛ ˀ/ʔ
+ɛˑ	ɛˑ
+ɛ̃	ɛ̃
+ɛ̃$	ɛ̃
+ɛ̃:$	ɛ̃ː
+ɛ͂$	ɛ̃
+ɞ	ɞ
+ɞ$	ɞ
+ɡ	g
+ɡ$	g
+ɡʷ	gʷ
+ɣ	ɣ
+ɣ$	ɣ
+ɣs	ɣ s
+ɣw	ɣʷ
+ɣʃ	ɣ ʃ
+ɣʷ	ɣʷ
+ɣ̆	ɣ
+ɣ̞	ɣ̞
+ɣⁱ	ɣʲ
+ɤ	ɤ
+ɪ	ɪ
+ɪ$	ɪ
+ɪɪ	ɪː
+ɪʰ$	ɪ ʰ/h
+ɪ̆	ɪ̆
+ɪ̥	ɪ̥
+ɪ̥$	ɪ̥
+ɫ$	lˠ
+ɬ	ɬ
+ɬ$	ɬ
+ɯ	ɯ
+ɰ	ɰ
+ɰs	ɰ s
+ɰʷ	ɰʷ
+ɲ	ɲ
+ɳ	ɳ
+ɵ	ɵ
+ɵ$	ɵ
+ɵ͡l$	ɵ l
+ɸ	ɸ
+ɸ$	ɸ
+ɸw	ɸʷ
+ɸʷ	ɸʷ
+ɸ̆	ɸ
+ɹ	ɹ
+ɺ	ɺ
+ɺ$	ɺ
+ɺw	ɺʷ
+ɾ	ɾ
+ɾ$	ɾ
+ɾh	ɾʰ
+ɾs	ɾ s
+ɾw	ɾʷ
+ʁ	ʁ
+ʁ$	ʁ
+ʃ	ʃ
+ʃ$	ʃ
+^ʃ_ʰovi	ʃʰ o v i
+uʷa	u w a
+t̚	t̚
+vy	v y
+ʉ	ʉ
+ʉ$	ʉ
+ʊ	ʊ
+ʊ$	ʊ
+ʊ̥$	ʊ̥
+ʋ	ʋ
+ʋʷ	ʋ
+ʌ	ʌ
+ʒ	ʒ
+ʒ$	ʒ
+ʔ	ʔ
+ʔ$	ʔ
+ʙ	ʙ
+ʙ$	ʙ
+ʙs	ʙ s
+ʧ	tʃ
+ʧ$	tʃ
+β	β
+β$	β
+βh	βʰ
+βs	β s
+βs$	β s
+βw	βʷ
+βʲ	βʲ
+βʷ	βʷ
+β̆$	β
+θ	θ
+θ$	θ
+χ	χ
+χ$	χ
+ᴘ	p
+ᴩ	p
+ᴩ$	p
+ᵏpʷ	kpʷ
+ᵐb	ⁿb
+ᵐbs	ⁿb s
+ᵐbʳ	ⁿbʳ
+ᵐbʷ	ⁿbʷ
+ᵐbⁿ$	ⁿb
+ᵐd	ⁿd
+ᵐm	ⁿm
+ᵐp	ⁿp
+ᵐt͡s	ⁿts
+ᵐv	ⁿv
+ᵐʙ	ⁿʙ
+ᵐʙs	ⁿʙ s
+ᵐβ	ⁿβ
+ᵐᴩ	ⁿp
+ᵑd	ⁿd
+ᵑg	ⁿg
+ᵑgs	ⁿg s
+ᵑgw	ⁿgʷ
+ᵑgʷ	ⁿgʷ
+ᵑk	ⁿk
+ᵑk$	ⁿk
+ᵑɡ	ⁿg
+ᵑɡʷ	ⁿgʷ
+ẽ	ẽ
+ẽ$	ẽ
+ẽ:$	ẽː
+ẽʲ$	ẽʲ/ẽi̯
+’	NULL
+ⁿ	ⁿ/n
+ⁿd	ⁿd
+ⁿd$	ⁿd
+ⁿdʲ	ⁿdʲ
+ⁿdʳ	ⁿdʳ
+ⁿdʳ$	ⁿdʳ
+ⁿg	ⁿg
+ⁿgw	ⁿgʷ
+ⁿm	ⁿm
+ⁿt	ⁿt
+ⁿt͡s	ⁿts
+ⁿt͡ʃ	ⁿtʃ
+ⁿɡ	ⁿg
+ⁿʒ	ⁿʒ
+ⁿʧ	ⁿtʃ
+^aʰu	a h u
+^aʰuː	a h uː
+^aʷi	a w i
+^by	b y
+^e:	eː
+^eː	eː
+^i:	iː
+^iya	i j a
+^key	k ei̯
+^k͡p	kp
+^kᵚ	kʷ
+^m̼	n̼
+^ng̊	n g̊
+^oloʰyliyli	o l o h y l i y l i
+^oʰi	o h i
+^oʰu	o h u
+^oː	oː
+^ñ	ɲ
+^ŋg̊	ŋ g̊
+^əʲa	ə j a
+^ɾ̚	ɾ̚
+^ʃ͏_ʰ	ʃʰ
+^ʷi	w i
+^ᵐj	ⁿj
+^ᵐr	ⁿr
+^ɪ:	ɪː
+ayi	a j i
+aʰu	a h u
+aʰuʷa	a h u w a
+aʷe	a w e
+aʷi	a w i
+aʷə	a w ə
+byl	b y l
+t_̚_	t
+k_̚	k
+p_̚	p
+______	+
+____	+
+^naᵐ_batina	n a ⁿb a t i n a
+^ne-βulʉ-	n e + β u l ʉ
+d̚	d̚
+eʰu	e h u
+eʰy	e h y
+eᵃj	ei̯
+i:	iː
+iʰu	i h u
+iʲa	i j a
+iʲe	i j e
+iʷi	i w i
+iᵐn	ĩ n
+k͡p	kp
+kᵚ	kʷ
+l:	lː
+m̚	m̚
+m̼	n̼
+m̼b̼	n̼ d̼
+mᵚ	mʷ
+ng̊o	n g̊ o
+nʲ	nʲ
+n᷈a	n a
+oʰi	o h i
+oʰu	o h u
+o᷈ŋ	o ŋ
+tyl	t y l
+uʰe	u h e
+uʷaʲe	u w a j e
+uʷaː	u w aː
+uʷe	u w e
+ñ	ɲ
+ø	ø
+ŋg̊	ŋ g̊
+æ:	æː
+ɑ:j	ɑːi̯
+ɔ:j	ɔːi̯
+ŋg̥a	ŋ g̊ a
+r:aru	rː a r u
+ŋ͡mo	ŋ m o
+ŋ͡be	ŋ b e
+ŋ͡bo	ŋ b o
+ŋ͡ba	ŋ b a
+ŋ͡mw	ŋ mʷ
+ɸ_̚	ɸ
+ɐːj	ɐːi̯
+ɑː	ɑː
+ɒ	ɒ
+ɒːj	ɒːi̯
+ɔ̃	ɔ̃
+əʰi	ə h i
+əʲe	ə j e
+əʷa	ə w a
+ɛ:	ɛː
+ɛː	ɛː
+ɜ	ɜ
+ɥ	ɥ
+ɨ	ɨ
+ɪʲa	ɪ j a
+ɪʲe	ɪ j e
+ɶ	ɶ
+ɸ̚	ɸ̚
+ɾ̚	ɾ̚
+ʉ:	ʉː
+ʊ:	ʊː
+ʊʷe	ʊ w e
+ʍ	ʍ
+ʙʳ	ʙʳ
+ʝ	ʝ
+ʰ	h
+ʰo	h o
+ʱ	ɦ
+ʲ	j
+ʷ	w
+ʷl	ʷl
+ˤ	ʕ
+ᵈ	d
+ᵉ	e
+ᵐj	ⁿj
+ᵐk	ⁿk
+ᵐl	ⁿl
+ᵐpʰ	ⁿpʰ
+ᵐs	ⁿs
+ᵘ	u
+ᶯ	ɳ
+ᶰd	ⁿd
+ᶰs	ⁿs
+ⁱ	i
+ɪ:	ɪː
+ᵃ	a
+m̃	m
+m̈	m
+p̃	p
+y	j
+č	tʃ
+ˀ	ʔ
+'	ʔ
+&	ʔ
+tˢ	ts
+v̈	v
+a·	a·
+ⁿḍ	ⁿḍ
+|	|
+ā	aː
+í	i
+...	+
+i·	i·
+ü	u
+p̈	p
+u̥	u
+nǰ	nʲ
+r̥	r̥
+n̥	n̥
+ŋ̥	ŋ
+m̥	m
+nw̥	nʷ
+m̥ʷ	mʷ
+ṁ	m
+l̥	l̥
+w̥	w
+r̃	r̃
+e·	e·
+e*	e·
+#	ʔ
+u·	u·
+ṭ	ṭ
+o·	o·
+ɔ·	ɔ·
+uˑ	uˑ
+ä	a
+na-ːmi	n a + m i
+t˺	t̚
+p˺	p̚
+0mial	+ m i a l
+Y	j
+ʤ	dʒ
+T	t
+b̃	b
+ū	uː
+ì	i
+æ̃	æ̃
+o̥	o̥
+e̥	e̥
+i̥	i̥
+ã:	ãː
+ɛ̃:	ɛ̃ː
+ú	u
+ɛɛ:	ɛː
+^naᵐ$	na
+batina	ⁿb a t i n a
+ʀ	ʀ
+ō	oː
+ī	iː
+ē	eː
+̃pur	p u r
+lʊlʊ	l ʊ l ʊ
+Vb1	NULL
+ê	eː
+ô	oː
+ŋ͡mʷ	ŋmʷ
+ŋ​͡mʷ	ŋmʷ
+k​͡pʷ	kpʷ
+ó	o
+óó	oː
+éé	eː
+é	e
++	+
