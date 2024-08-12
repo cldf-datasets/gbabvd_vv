@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gbabvd_vv",
             "rdf:type": "prov:Entity",
-            "dc:created": "b17fad9",
+            "dc:created": "483f31b",
             "dc:title": "Repository"
         },
         {
@@ -257,7 +257,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 13035,
+            "dc:extent": 13030,
             "tableSchema": {
                 "columns": [
                     {
