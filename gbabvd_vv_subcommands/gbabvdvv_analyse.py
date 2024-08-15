@@ -25,19 +25,13 @@ def run(args):
     for fm in ds['FormTable']:
         form_ids[fm['ID']] = fm
 
-    abvd_lg_ids = {}
-    abvd_gc_ids = {}
-    for fm in ds['LanguageTable']:
-        abvd_lg_ids[fm['ABVD_ID']] = fm
-        abvd_gc_ids[fm['Glottocode']] = fm['ABVD_ID']
-
     lids = {}
     pids = {}
     for c in ds['CognateTable']:
         fid = c['Form_ID']
         lid = form_ids[fid]['Language_ID']
         pids[c['Cognateset_ID']] = form_ids[fid]['Parameter_ID']
-        lids[c['ID']] = abvd_lg_ids[lid]['ID']
+        lids[c['ID']] = lid
 
     gb_params = [p['ID'] for p in ds['ParameterTable'] if p['ID'].startswith('GB')]
     abvd_cogset_ids = sorted(list(set([c['Cognateset_ID'] for c in ds['CognateTable']])))
@@ -82,7 +76,7 @@ def run(args):
                 fs = []
                 for f in form_ids.values():
                     # find at least one other lexeme which is not set to the current cognate
-                    if f['Parameter_ID'] == pid and f['Language_ID'] == abvd_gc_ids[gc]:
+                    if f['Parameter_ID'] == pid and f['Language_ID'] == gc:
                         fs.append(f['Form'])
                 if len(fs) == 0:
                     out_data[gc].append(NA_MARKER)

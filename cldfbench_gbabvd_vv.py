@@ -170,6 +170,7 @@ class Dataset(BaseDataset):
             prf = Profile.from_file(self.etc_dir / 'orthography.tsv', form='NFC')
             tok = Tokenizer(profile=prf)
             ign = ['..']
+            seen_fids = set()
             for form in abvd.objects('FormTable'):
                 if form.cldf.languageReference in abvd_ids:
                     if form.cldf.form in ign:
@@ -184,9 +185,16 @@ class Dataset(BaseDataset):
                     frm = unicodedata.normalize('NFC', form.cldf.form)
                     if frm == 'naᵐ batina':
                         frm = 'na ᵐbatina'
+                    lid = gb_abvd_map[form.cldf.languageReference]
+                    fid = f'{lid}-{form.cldf.parameterReference}'
+                    fid_cnt = 1
+                    while f'{fid}-{fid_cnt}' in seen_fids:
+                        fid_cnt += 1
+                    nfid = f'{fid}-{fid_cnt}'
+                    seen_fids.add(nfid)
                     ds.objects['FormTable'].append({
-                        'ID': form.cldf.id,
-                        'Language_ID': form.cldf.languageReference,
+                        'ID': nfid,
+                        'Language_ID': lid,
                         'Parameter_ID': form.cldf.parameterReference,
                         'Value': form.cldf.value,
                         'Form': frm,
@@ -195,13 +203,18 @@ class Dataset(BaseDataset):
                         'Cognacy': form.data['Cognacy'],
                         'Loan': form.data['Loan'],
                     })
-                    seen_form_ids.add(form.cldf.id)
+                    seen_form_ids.add(nfid)
 
             for c in abvd.objects('CognateTable'):
-                if c.data['Form_ID'] in seen_form_ids:
+                fids = c.data['Form_ID'].split('-')
+                if fids[0] not in gb_abvd_map:
+                    continue
+                fids[0] = gb_abvd_map[fids[0]]
+                fid = '-'.join(fids)
+                if fid in seen_form_ids:
                     ds.objects['CognateTable'].append({
-                        'ID': c.data['Form_ID'],
-                        'Form_ID': c.data['Form_ID'],
+                        'ID': fid,
+                        'Form_ID': fid,
                         'Cognateset_ID': c.data['Cognateset_ID'],
                         'Doubt': c.data['Doubt'],
                         'Source': ['Greenhilletal2008'],
