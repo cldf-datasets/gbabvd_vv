@@ -128,6 +128,7 @@ class Dataset(BaseDataset):
             ds.cldf.add_component('FormTable')
             ds.cldf.add_component('CognateTable')
             ds.cldf.add_columns('LanguageTable', 'ABVD_ID')
+            ds.cldf.add_columns('ParameterTable', 'Concepticon_ID')
             ds.cldf.add_columns('FormTable', 'Cognacy')
             ds.cldf.add_columns('FormTable', 'Loan')
             ds.cldf.add_columns('CognateTable', 'Doubt')
@@ -180,6 +181,7 @@ class Dataset(BaseDataset):
                         ds.objects['ParameterTable'].append({
                             'ID': p.cldf.id,
                             'Name': p.cldf.name,
+                            'Concepticon_ID': p.cldf.concepticonReference
                         })
                         seen_params.add(form.cldf.parameterReference)
                     frm = unicodedata.normalize('NFC', form.cldf.form)
