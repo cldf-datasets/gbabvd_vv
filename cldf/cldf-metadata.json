@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gbabvd_vv",
             "rdf:type": "prov:Entity",
-            "dc:created": "92a8a53",
+            "dc:created": "623a078",
             "dc:title": "Repository"
         },
         {
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "ccff2bc",
+            "dc:created": "7549366",
             "dc:title": "Repository"
         }
     ],
@@ -171,6 +171,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
                         "required": false,
                         "name": "ColumnSpec"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Concepticon_ID"
                     }
                 ],
                 "primaryKey": [
@@ -257,7 +261,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 13030,
+            "dc:extent": 12923,
             "tableSchema": {
                 "columns": [
                     {
@@ -354,7 +358,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 14058,
+            "dc:extent": 14341,
             "tableSchema": {
                 "columns": [
                     {
