@@ -13,8 +13,8 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-nc/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/gbabvd_vv
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/gbabvd_vv/tree/623a078">cldf-datasets/gbabvd_vv 623a078</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/grambank/grambank/tree/0202015">grambank/grambank v1.0.3-8-g0202015</a></li><li><a href="https://github.com/lexibank/abvd/tree/7549366">lexibank/abvd 7549366</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.13</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/gbabvd_vv/tree/bdac5c5">cldf-datasets/gbabvd_vv bdac5c5</a></li><li><a href="https://github.com/glottolog/glottolog/tree/be35f1980c">Glottolog v5.2.1-2-gbe35f1980c</a></li><li><a href="https://github.com/grambank/grambank/tree/abba55f">grambank/grambank v1.0.3-13-gabba55f</a></li><li><a href="https://github.com/lexibank/abvd/tree/79a8979">lexibank/abvd 79a8979</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.13.1</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | gbabvd_vv
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -83,7 +83,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 12923
+[dc:extent](http://purl.org/dc/terms/extent) | 12921
 
 
 ### Columns
@@ -105,7 +105,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognateTable](http://cldf.clld.org/v1.0/terms.rdf#CognateTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 14341
+[dc:extent](http://purl.org/dc/terms/extent) | 14917
 
 
 ### Columns

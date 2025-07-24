@@ -15,32 +15,32 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gbabvd_vv",
             "rdf:type": "prov:Entity",
-            "dc:created": "623a078",
+            "dc:created": "bdac5c5",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.2.1-2-gbe35f1980c",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/grambank/grambank",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.3-8-g0202015",
+            "dc:created": "v1.0.3-13-gabba55f",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "7549366",
+            "dc:created": "79a8979",
             "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.13"
+            "dc:description": "3.13.1"
         },
         {
             "dc:title": "python-packages",
@@ -261,7 +261,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 12923,
+            "dc:extent": 12921,
             "tableSchema": {
                 "columns": [
                     {
@@ -358,7 +358,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 14341,
+            "dc:extent": 14917,
             "tableSchema": {
                 "columns": [
                     {
