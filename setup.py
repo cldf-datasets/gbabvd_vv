@@ -1,5 +1,5 @@
 import json
-from setuptools import setup
+from setuptools import setup, find_packages
 
 with open("metadata.json", encoding="utf-8") as fp:
     metadata = json.load(fp)
@@ -12,6 +12,7 @@ setup(
     py_modules=['cldfbench_gbabvd_vv'],
     include_package_data=True,
     zip_safe=False,
+    packages=find_packages(where='.'),
     entry_points={
         'cldfbench.dataset': [
             'gbabvd_vv=cldfbench_gbabvd_vv:Dataset',
@@ -26,6 +27,7 @@ setup(
         'clldutils',
         'gitdb',
         'cldfzenodo',
+        'segments'
     ],
     extras_require={
         'test': [

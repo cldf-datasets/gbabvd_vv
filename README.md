@@ -5,8 +5,7 @@
 ```sh
 cldfbench download ./cldfbench_gbabvd_vv.py
 cldfbench makecldf --with-zenodo --with-cldfreadme --communities lexibank ./cldfbench_gbabvd_vv.py
-cldfbench readme ./cldfbench_gbabvd_vv.py
-cldfbench gbabvd_vv.gbabvdvv_analyse
+cldfbench gbabvd_vv.gbabvdvv_analyse > output/gbabvd_vv_matrix_`date -I`.csv
 ```
 
 ## How to cite
