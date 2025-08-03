@@ -164,4 +164,5 @@ cython_debug/
 # macOS
 .DS_Store
 __MACOSX
-
+raw/abvd
+raw/grambank

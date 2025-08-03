@@ -9,7 +9,6 @@ ID,Name,Description,ColumnSpec,Concepticon_ID
 107_wormearthworm,worm (earthworm),,,1219
 108_louse,louse,,,1392
 109_mosquito,mosquito,,,1509
-10_dirty,dirty,,,1230
 110_spider,spider,,,843
 111_fish,fish,,,227
 112_rotten,rotten,,,1728
@@ -56,14 +55,11 @@ ID,Name,Description,ColumnSpec,Concepticon_ID
 14_belly,belly,,,1251
 150_yellow,yellow,,,1424
 151_green,green,,,1425
-152_small,small,,,1246
 153_big,big,,,1202
 154_short,short,,,1645
 155_long,long,,,1203
 156_thin,thin,,,2308
 157_thick,thick,,,1244
-158_narrow,narrow,,,1267
-159_wide,wide,,,1243
 15_bone,bone,,,1394
 160_painfulsick,"painful, sick",,,2103
 161_shyashamed,"shy, ashamed",,,3805
@@ -80,7 +76,6 @@ ID,Name,Description,ColumnSpec,Concepticon_ID
 171_tohide,to hide,,,2486
 172_toclimb,to climb,,,1102
 173_at,at,,,1461
-174_ininside,"in, inside",,,1460
 175_above,above,,,1741
 176_below,below,,,1485
 177_this,this,,,1214
@@ -92,16 +87,12 @@ ID,Name,Description,ColumnSpec,Concepticon_ID
 182_i,I,,,1209
 183_thou,thou,,,1215
 184_heshe,he/she,,,2642
-185_we,we,,,1212
 186_you,you,,,1213
 187_they,they,,,817
 188_what,what?,,,1236
 189_who,who?,,,1235
 18_breast,breast,,,1402
-190_other,other,,,197
-191_all,all,,,98
 192_and,and,,,1577
-193_if,if,,,1459
 194_how,how?,,,1239
 195_nonot,"no, not",,,2279
 196_tocount,to count,,,1420
@@ -197,7 +188,6 @@ ID,Name,Description,ColumnSpec,Concepticon_ID
 87_toswell,to swell,,,1573
 88_tosqueeze,to squeeze,,,1414
 89_tohold,to hold,,,1448
-8_toturn,to turn,,,1588
 90_todig,to dig,,,1418
 91_tobuy,to buy,,,1869
 92_toopenuncover,"to open, uncover",,,1156

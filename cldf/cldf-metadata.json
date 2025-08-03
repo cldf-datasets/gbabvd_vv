@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/gbabvd_vv",
             "rdf:type": "prov:Entity",
-            "dc:created": "bdac5c5",
+            "dc:created": "b3d8b53",
             "dc:title": "Repository"
         },
         {
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 12870,
+            "dc:extent": 12090,
             "tableSchema": {
                 "columns": [
                     {
@@ -142,7 +142,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 405,
+            "dc:extent": 395,
             "tableSchema": {
                 "columns": [
                     {
@@ -185,7 +185,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 66,
+            "dc:extent": 62,
             "tableSchema": {
                 "columns": [
                     {
@@ -261,7 +261,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 12921,
+            "dc:extent": 11387,
             "tableSchema": {
                 "columns": [
                     {
@@ -358,7 +358,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 14917,
+            "dc:extent": 13375,
             "tableSchema": {
                 "columns": [
                     {
