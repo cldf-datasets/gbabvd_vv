@@ -103,14 +103,6 @@ ID,Name,Description,ColumnSpec,Concepticon_ID
 1_hand,hand,,,1277
 200_four,Four,,,1500
 201_five,Five,,,493
-202_six,Six,,,1703
-203_seven,Seven,,,1704
-204_eight,Eight,,,1705
-205_nine,Nine,,,1483
-206_ten,Ten,,,1515
-207_twenty,Twenty,,,1710
-208_fifty,Fifty,,,1717
-209_onehundred,One Hundred,,,1634
 20_toknowbeknowledgeable,"to know, be knowledgeable",,,1410
 210_onethousand,One Thousand,,,1843
 21_tothink,to think,,,2271
@@ -175,7 +167,6 @@ ID,Name,Description,ColumnSpec,Concepticon_ID
 75_todiebedead,"to die, be dead",,,2101
 76_tolivebealive,"to live, be alive",,,1422
 77_toscratch,to scratch,,,1436
-78_tocuthack,"to cut, hack",,,3889
 79_stickwood,stick/wood,,,1295
 7_tocome,to come,,,1446
 80_tosplit,to split,,,1437

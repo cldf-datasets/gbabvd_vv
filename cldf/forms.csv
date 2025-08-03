@@ -5,7 +5,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1010-103_meatflesh-1,akei1237,103_meatflesh,api,a p i,,Greenhilletal2008,,False
 1010-104_fatgrease-1,akei1237,104_fatgrease,rui-,r u i +,,Greenhilletal2008,44,False
 1010-105_tail-1,akei1237,105_tail,βiki-,β i k i +,,Greenhilletal2008,76,False
-1010-106_snake-1,akei1237,106_snake,asi pəraβu,a s i # p ə r a β u,,Greenhilletal2008,,False
+1010-106_snake-1,akei1237,106_snake,asi pəraβu,a s i # p ə r a β u,,Greenhilletal2008,12,False
 1010-108_louse-1,akei1237,108_louse,ˀutu,ʔ u t u,,Greenhilletal2008,1,False
 1010-109_mosquito-1,akei1237,109_mosquito,muˀi,m u ʔ i,,Greenhilletal2008,"1,80",False
 1010-111_fish-1,akei1237,111_fish,matˢi,m a ts i,,Greenhilletal2008,53,False
@@ -82,11 +82,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1010-1_hand-1,akei1237,1_hand,pisui lima-,p i s u i # l i m a +,,Greenhilletal2008,"1, 64",False
 1010-200_four-1,akei1237,200_four,βati,β a t i,,Greenhilletal2008,"1,65",False
 1010-201_five-1,akei1237,201_five,lima,l i m a,,Greenhilletal2008,1,False
-1010-202_six-1,akei1237,202_six,lima-raβe,l i m a + r a β e,,Greenhilletal2008,35,False
-1010-203_seven-1,akei1237,203_seven,raβu-rua,r a β u + r u a,,Greenhilletal2008,13,False
-1010-204_eight-1,akei1237,204_eight,raβu-tolu,r a β u + t o l u,,Greenhilletal2008,"5, 7",False
-1010-205_nine-1,akei1237,205_nine,raβa-βati,r a β a + β a t i,,Greenhilletal2008,20,False
-1010-206_ten-1,akei1237,206_ten,sanaβulu,s a n a β u l u,,Greenhilletal2008,5,False
 1010-20_toknowbeknowledgeable-1,akei1237,20_toknowbeknowledgeable,pinisia,p i n i s i a,,Greenhilletal2008,5,False
 1010-21_tothink-1,akei1237,21_tothink,komikomi,k o m i k o m i,,Greenhilletal2008,61,False
 1010-22_tofear-1,akei1237,22_tofear,matatau,m a t a t a u,,Greenhilletal2008,1,False
@@ -142,7 +137,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1010-75_todiebedead-1,akei1237,75_todiebedead,mate,m a t e,,Greenhilletal2008,1,False
 1010-76_tolivebealive-1,akei1237,76_tolivebealive,mauri,m a u r i,,Greenhilletal2008,"1, 76",False
 1010-77_toscratch-1,akei1237,77_toscratch,karumia,k a r u m i a,,Greenhilletal2008,59,False
-1010-78_tocuthack-1,akei1237,78_tocuthack,taia,t a i a,,Greenhilletal2008,1,False
 1010-79_stickwood-1,akei1237,79_stickwood,matˢa,m a ts a,,Greenhilletal2008,24,False
 1010-7_tocome-1,akei1237,7_tocome,mai,m a i,,Greenhilletal2008,1,False
 1010-80_tosplit-1,akei1237,80_tosplit,taikala,t a i k a l a,,Greenhilletal2008,"4,6",False
@@ -236,7 +230,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 149-170_when-1,anei1239,170_when,anuhup̃an,a n u h u p a n,,Greenhilletal2008,89,False
 149-171_tohide-1,anei1239,171_tohide,atpu,a t p u,,Greenhilletal2008,1,False
 149-172_toclimb-1,anei1239,172_toclimb,ahei,a h e i,,Greenhilletal2008,2,False
-149-173_at-1,anei1239,173_at,an,a n,,Greenhilletal2008,,False
+149-173_at-1,anei1239,173_at,an,a n,,Greenhilletal2008,22,False
 149-175_above-1,anei1239,175_above,ijiñis,i j i ɲ i s,,Greenhilletal2008,26,False
 149-176_below-1,anei1239,176_below,upou,u p o u,,Greenhilletal2008,,False
 149-177_this-1,anei1239,177_this,niñki,n i ɲ k i,,Greenhilletal2008,"1,49",False
@@ -265,7 +259,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 149-1_hand-1,anei1239,1_hand,nijma-,n i j m a +,,Greenhilletal2008,"1, 64",False
 149-200_four-1,anei1239,200_four,emanohowan,e m a n o h o w a n,,Greenhilletal2008,,False
 149-201_five-1,anei1239,201_five,mijman,m i j m a n,,Greenhilletal2008,1,False
-149-202_six-1,anei1239,202_six,meleθ,m e l e θ,,Greenhilletal2008,,False
 149-20_toknowbeknowledgeable-1,anei1239,20_toknowbeknowledgeable,atou,a t o u,,Greenhilletal2008,1,False
 149-21_tothink-1,anei1239,21_tothink,ataktai,a t a k t a i,,Greenhilletal2008,62,False
 149-22_tofear-1,anei1239,22_tofear,emtaɣ,e m t a ɣ,,Greenhilletal2008,1,False
@@ -328,7 +321,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 149-75_todiebedead-1,anei1239,75_todiebedead,mas,m a s,,Greenhilletal2008,1,False
 149-76_tolivebealive-1,anei1239,76_tolivebealive,umu,u m u,,Greenhilletal2008,"1,76",False
 149-77_toscratch-1,anei1239,77_toscratch,aɣeɣei,a ɣ e ɣ e i,,Greenhilletal2008,91,False
-149-78_tocuthack-1,anei1239,78_tocuthack,atɣam̃oθ,a t ɣ a m o θ,,Greenhilletal2008,52,False
 149-79_stickwood-1,anei1239,79_stickwood,nawun|ɣai,n a w u n | ɣ a i,,Greenhilletal2008,1,False
 149-7_tocome-1,anei1239,7_tocome,apam,a p a m,,Greenhilletal2008,"1, 25",False
 149-80_tosplit-1,anei1239,80_tosplit,ahtakwai,a h t a kʷ a i,,Greenhilletal2008,41,False
@@ -474,14 +466,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 642-1_hand-1,apma1240,1_hand,lima-,l i m a +,,Greenhilletal2008,"1, 64",False
 642-200_four-1,apma1240,200_four,kaivas,k a i v a s,,Greenhilletal2008,"1,65",False
 642-201_five-1,apma1240,201_five,kailim,k a i l i m,,Greenhilletal2008,1,False
-642-202_six-1,apma1240,202_six,lapwaleh,l a pʷ a l e h,,Greenhilletal2008,15,False
-642-203_seven-1,apma1240,203_seven,laviri,l a v i r i,,Greenhilletal2008,13,False
-642-204_eight-1,apma1240,204_eight,laptil,l a p t i l,,Greenhilletal2008,"5,7",False
-642-205_nine-1,apma1240,205_nine,lavas,l a v a s,,Greenhilletal2008,20,False
-642-206_ten-1,apma1240,206_ten,sangwul,s a n gʷ u l,,Greenhilletal2008,5,False
-642-207_twenty-1,apma1240,207_twenty,ngawul kairi,n g a w u l # k a i r i,,Greenhilletal2008,9,False
-642-209_onehundred-1,apma1240,209_onehundred,wudelu,w u d e l u,,Greenhilletal2008,16,False
-642-209_onehundred-2,apma1240,209_onehundred,ngawul sangwul,n g a w u l # s a n gʷ u l,,Greenhilletal2008,17,False
 642-20_toknowbeknowledgeable-1,apma1240,20_toknowbeknowledgeable,ilil,i l i l,,Greenhilletal2008,8,False
 642-210_onethousand-1,apma1240,210_onethousand,vadaa,v a d aː,,Greenhilletal2008,13,False
 642-21_tothink-1,apma1240,21_tothink,vini,v i n i,,Greenhilletal2008,43,False
@@ -549,7 +533,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 642-75_todiebedead-1,apma1240,75_todiebedead,mat,m a t,,Greenhilletal2008,1,False
 642-76_tolivebealive-1,apma1240,76_tolivebealive,mwas,mʷ a s,,Greenhilletal2008,37,False
 642-77_toscratch-1,apma1240,77_toscratch,takari,t a k a r i,,Greenhilletal2008,"12, 28",False
-642-78_tocuthack-1,apma1240,78_tocuthack,tas,t a s,,Greenhilletal2008,29,False
 642-7_tocome-1,apma1240,7_tocome,vama,v a m a,,Greenhilletal2008,"23, 1",False
 642-81_sharp-1,apma1240,81_sharp,mamkan,m a m k a n,,Greenhilletal2008,14,False
 642-82_dullblunt-1,apma1240,82_dullblunt,mesibwi,m e s i bʷ i,,Greenhilletal2008,51,False
@@ -666,12 +649,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 465-1_hand-1,arak1252,1_hand,lim'a,l i m ʔ a,,Greenhilletal2008,"1, 64",False
 465-200_four-1,arak1252,200_four,v'arri,v ʔ a rː i,,Greenhilletal2008,"1,65",False
 465-201_five-1,arak1252,201_five,lim'a,l i m ʔ a,,Greenhilletal2008,1,False
-465-202_six-1,arak1252,202_six,hai|ono,h a i | o n o,,Greenhilletal2008,1,False
-465-203_seven-1,arak1252,203_seven,hai|p'irru,h a i | p ʔ i rː u,,Greenhilletal2008,1,False
-465-204_eight-1,arak1252,204_eight,ha|ualu,h a | u a l u,,Greenhilletal2008,3,False
-465-205_nine-1,arak1252,205_nine,hai|sua,h a i | s u a,,Greenhilletal2008,5,False
-465-206_ten-1,arak1252,206_ten,saŋavulu,s a ŋ a v u l u,,Greenhilletal2008,5,False
-465-207_twenty-1,arak1252,207_twenty,ŋavul rua,ŋ a v u l # r u a,,Greenhilletal2008,9,False
 465-20_toknowbeknowledgeable-1,arak1252,20_toknowbeknowledgeable,levse,l e v s e,,Greenhilletal2008,90,False
 465-21_tothink-1,arak1252,21_tothink,tsom'itsom'i,ts o m ʔ i ts o m ʔ i,,Greenhilletal2008,13,False
 465-22_tofear-1,arak1252,22_tofear,m'arrahu,m ʔ a rː a h u,,Greenhilletal2008,1,False
@@ -727,7 +704,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 465-75_todiebedead-1,arak1252,75_todiebedead,m'arre,m ʔ a rː e,,Greenhilletal2008,1,False
 465-76_tolivebealive-1,arak1252,76_tolivebealive,m'auru,m ʔ a u r u,,Greenhilletal2008,"1, 76",False
 465-77_toscratch-1,arak1252,77_toscratch,karu,k a r u,,Greenhilletal2008,44,False
-465-78_tocuthack-1,arak1252,78_tocuthack,rrai,rː a i,,Greenhilletal2008,1,False
 465-79_stickwood-1,arak1252,79_stickwood,ha,h a,,Greenhilletal2008,1,False
 465-7_tocome-1,arak1252,7_tocome,m'a,m ʔ a,,Greenhilletal2008,1,False
 465-83_towork-1,arak1252,83_towork,v'ev'e hina,v ʔ e v ʔ e # h i n a,,Greenhilletal2008,,False
@@ -836,13 +812,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1288-1_hand-1,aulu1238,1_hand,fari-,f a r i +,,Greenhilletal2008,16,False
 1288-200_four-1,aulu1238,200_four,i-ᵐbes,i + ⁿb e s,,Greenhilletal2008,"1,65",False
 1288-201_five-1,aulu1238,201_five,i-lma,i + l m a,,Greenhilletal2008,1,False
-1288-202_six-1,aulu1238,202_six,i-ⁿdʳovoɣol,i + ⁿdʳ o v o ɣ o l,,Greenhilletal2008,30,False
-1288-203_seven-1,aulu1238,203_seven,i-ⁿdʳorua,i + ⁿdʳ o r u a,,Greenhilletal2008,17,False
-1288-204_eight-1,aulu1238,204_eight,i-ⁿdʳɔɣtil,i + ⁿdʳ ɔ ɣ t i l,,Greenhilletal2008,"23, 7",False
-1288-205_nine-1,aulu1238,205_nine,i-ⁿdʳɔɣves,i + ⁿdʳ ɔ ɣ v e s,,Greenhilletal2008,31,False
-1288-206_ten-1,aulu1238,206_ten,ɣŋaviŋβoɣol,ɣ ŋ a v i ŋ β o ɣ o l,,Greenhilletal2008,5,False
-1288-207_twenty-1,aulu1238,207_twenty,ɣŋavʊl iⁿdʳua,ɣ ŋ a v ʊ l # i ⁿdʳ u a,,Greenhilletal2008,9,False
-1288-209_onehundred-1,aulu1238,209_onehundred,ɣŋot,ɣ ŋ o t,,Greenhilletal2008,12,False
 1288-210_onethousand-1,aulu1238,210_onethousand,ɣŋotsar,ɣ ŋ o ts a r,,Greenhilletal2008,40,False
 1288-22_tofear-1,aulu1238,22_tofear,mʷɛtax,mʷ ɛ t a x,,Greenhilletal2008,1,False
 1288-23_blood-1,aulu1238,23_blood,nɛ-ⁿdʳe,n ɛ + ⁿdʳ e,,Greenhilletal2008,1,False
@@ -899,7 +868,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1288-75_todiebedead-1,aulu1238,75_todiebedead,-mes,+ m e s,,Greenhilletal2008,1,False
 1288-76_tolivebealive-1,aulu1238,76_tolivebealive,-mɛɔr,+ m ɛ ɔ r,,Greenhilletal2008,"1, 76",False
 1288-77_toscratch-1,aulu1238,77_toscratch,-xorxore,+ x o r x o r e,,Greenhilletal2008,1?,False
-1288-78_tocuthack-1,aulu1238,78_tocuthack,-tea,+ t e a,,Greenhilletal2008,1,False
 1288-79_stickwood-1,aulu1238,79_stickwood,na-ɣe,n a + ɣ e,,Greenhilletal2008,1,False
 1288-7_tocome-1,aulu1238,7_tocome,-fʷɛne,+ fʷ ɛ n e,,Greenhilletal2008,23,False
 1288-80_tosplit-1,aulu1238,80_tosplit,-teɪᵐborea,+ t e ɪ ⁿb o r e a,,Greenhilletal2008,"1, 6",False
@@ -953,7 +921,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1398-130_star-1,axam1237,130_star,mʷaʧi,mʷ a tʃ i,,Greenhilletal2008,13,False
 1398-131_cloud-1,axam1237,131_cloud,mæroŋk,m æ r o ŋ k,,Greenhilletal2008,34,False
 1398-133_rain-1,axam1237,133_rain,na-us,n a + u s,,Greenhilletal2008,1,False
-1398-134_thunder-1,axam1237,134_thunder,na-xorve,n a + x o r v e,,Greenhilletal2008,,False
+1398-134_thunder-1,axam1237,134_thunder,na-xorve,n a + x o r v e,,Greenhilletal2008,88,False
 1398-135_lightning-1,axam1237,135_lightning,kaᵐbl,k a ⁿb l,,Greenhilletal2008,"26, 70, 71",False
 1398-136_wind-1,axam1237,136_wind,nɪ-raŋ,n ɪ + r a ŋ,,Greenhilletal2008,"1, 77",False
 1398-137_toblow-1,axam1237,137_toblow,a-uvuv,a + u v u v,,Greenhilletal2008,4,False
@@ -1012,14 +980,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1398-1_hand-1,axam1237,1_hand,na-vɾa-m,n a + v ɾ a + m,,Greenhilletal2008,16,False
 1398-200_four-1,axam1237,200_four,a-faʧ,a + f a tʃ,,Greenhilletal2008,"1,65",False
 1398-201_five-1,axam1237,201_five,a-rm,a + r m,,Greenhilletal2008,1,False
-1398-202_six-1,axam1237,202_six,rimro-ʧkai,r i m r o + tʃ k a i,,Greenhilletal2008,29,False
-1398-203_seven-1,axam1237,203_seven,rɪmraxa-ru,r ɪ m r a x a + r u,,Greenhilletal2008,"5, 2",False
-1398-204_eight-1,axam1237,204_eight,rɪmraxa-rur,r ɪ m r a x a + r u r,,Greenhilletal2008,"5, 7",False
-1398-205_nine-1,axam1237,205_nine,rɪmraxa-paʧ,r ɪ m r a x a + p a tʃ,,Greenhilletal2008,20,False
-1398-206_ten-1,axam1237,206_ten,sɪŋavur,s ɪ ŋ a v u r,,Greenhilletal2008,5,False
-1398-207_twenty-1,axam1237,207_twenty,rɛnaɣawi aʧkɛnene,r ɛ n a ɣ a w i # a tʃ k ɛ n e n e,,Greenhilletal2008,34,False
-1398-208_fifty-1,axam1237,208_fifty,rɛnɣawi aru sɪŋavur,r ɛ n ɣ a w i # a r u # s ɪ ŋ a v u r,,Greenhilletal2008,,False
-1398-209_onehundred-1,axam1237,209_onehundred,rɛnaɣawi arɪm,r ɛ n a ɣ a w i # a r ɪ m,,Greenhilletal2008,58,False
 1398-22_tofear-1,axam1237,22_tofear,mɪrax,m ɪ r a x,,Greenhilletal2008,1,False
 1398-23_blood-1,axam1237,23_blood,ⁿdʳe,ⁿdʳ e,,Greenhilletal2008,1,False
 1398-24_head-1,axam1237,24_head,ᵐbʷarə-m,ⁿbʷ a r ə + m,,Greenhilletal2008,9,False
@@ -1076,7 +1036,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1398-75_todiebedead-1,axam1237,75_todiebedead,a-mæʧ,a + m æ tʃ,,Greenhilletal2008,1,False
 1398-76_tolivebealive-1,axam1237,76_tolivebealive,a-maur,a + m a u r,,Greenhilletal2008,"1, 76",False
 1398-77_toscratch-1,axam1237,77_toscratch,-xalumʷi,+ x a l u mʷ i,,Greenhilletal2008,59,False
-1398-78_tocuthack-1,axam1237,78_tocuthack,-ʧavi,+ tʃ a v i,,Greenhilletal2008,40,False
 1398-79_stickwood-1,axam1237,79_stickwood,na-ɣai,n a + ɣ a i,,Greenhilletal2008,1,False
 1398-7_tocome-1,axam1237,7_tocome,ᵑgə-mai,ⁿg ə + m a i,,Greenhilletal2008,1,False
 1398-80_tosplit-1,axam1237,80_tosplit,-ʧapure,+ tʃ a p u r e,,Greenhilletal2008,1,False
@@ -1103,7 +1062,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1033-102_rat-1,baki1244,102_rat,sawo,s a w o,,Greenhilletal2008,"3, 74",False
 1033-103_meatflesh-1,baki1244,103_meatflesh,su-ᵐbue,s u + ⁿb u e,,Greenhilletal2008,"15, 70, 82",False
 1033-104_fatgrease-1,baki1244,104_fatgrease,čaᵐbu,tʃ a ⁿb u,,Greenhilletal2008,107,False
-1033-104_fatgrease-2,baki1244,104_fatgrease,tiñaβito,t i ɲ a β i t o,,Greenhilletal2008,,False
+1033-104_fatgrease-2,baki1244,104_fatgrease,tiñaβito,t i ɲ a β i t o,,Greenhilletal2008,110,False
 1033-105_tail-1,baki1244,105_tail,čiene,tʃ i e n e,,Greenhilletal2008,61,False
 1033-106_snake-1,baki1244,106_snake,mʷaro,mʷ a r o,,Greenhilletal2008,12,False
 1033-108_louse-1,baki1244,108_louse,sur,s u r,,Greenhilletal2008,1,False
@@ -1144,7 +1103,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1033-143_fire-1,baki1244,143_fire,seᵐbi,s e ⁿb i,,Greenhilletal2008,38,False
 1033-144_toburn-1,baki1244,144_toburn,-iseᵐbi,+ i s e ⁿb i,,Greenhilletal2008,84,False
 1033-145_smoke-1,baki1244,145_smoke,yo,j o,,Greenhilletal2008,"2,77",False
-1033-146_ashes-1,baki1244,146_ashes,ᵐbotŋo-yeβi,ⁿb o t ŋ o + j e β i,,Greenhilletal2008,,False
+1033-146_ashes-1,baki1244,146_ashes,ᵐbotŋo-yeβi,ⁿb o t ŋ o + j e β i,,Greenhilletal2008,79,False
 1033-147_black-1,baki1244,147_black,ᵐboᵐboŋio,ⁿb o ⁿb o ŋ i o,,Greenhilletal2008,79,False
 1033-148_white-1,baki1244,148_white,miuβou,m i u β o u,,Greenhilletal2008,98,False
 1033-149_red-1,baki1244,149_red,ᵐbilβil,ⁿb i l β i l,,Greenhilletal2008,18,False
@@ -1178,7 +1137,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1033-188_what-1,baki1244,188_what,βiña,β i ɲ a,,Greenhilletal2008,,False
 1033-189_who-1,baki1244,189_who,kiña,k i ɲ a,,Greenhilletal2008,64,False
 1033-18_breast-1,baki1244,18_breast,mari-yu-ku,m a r i + j u + k u,,Greenhilletal2008,47,False
-1033-194_how-1,baki1244,194_how,timaᵐbe,t i m a ⁿb e,,Greenhilletal2008,,False
+1033-194_how-1,baki1244,194_how,timaᵐbe,t i m a ⁿb e,,Greenhilletal2008,95,False
 1033-196_tocount-1,baki1244,196_tocount,-βulukio,+ β u l u k i o,,Greenhilletal2008,1,False
 1033-197_one-1,baki1244,197_one,tai,t a i,,Greenhilletal2008,14,False
 1033-197_one-2,baki1244,197_one,takorano,t a k o r a n o,,Greenhilletal2008,"14,77",False
@@ -1188,11 +1147,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1033-1_hand-1,baki1244,1_hand,čuma-ku,tʃ u m a + k u,,Greenhilletal2008,59,False
 1033-200_four-1,baki1244,200_four,βeri,β e r i,,Greenhilletal2008,"1,65",False
 1033-201_five-1,baki1244,201_five,čumo,tʃ u m o,,Greenhilletal2008,1,False
-1033-202_six-1,baki1244,202_six,ari,a r i,,Greenhilletal2008,24,False
-1033-203_seven-1,baki1244,203_seven,a-luo,a + l u o,,Greenhilletal2008,2,False
-1033-204_eight-1,baki1244,204_eight,a-rolu,a + r o l u,,Greenhilletal2008,7,False
-1033-205_nine-1,baki1244,205_nine,o-βeri,o + β e r i,,Greenhilletal2008,20,False
-1033-206_ten-1,baki1244,206_ten,luelmo,l u e l m o,,Greenhilletal2008,4,False
 1033-20_toknowbeknowledgeable-1,baki1244,20_toknowbeknowledgeable,-čikia,+ tʃ i k i a,,Greenhilletal2008,110,False
 1033-21_tothink-1,baki1244,21_tothink,-siⁿdomi,+ s i ⁿd o m i,,Greenhilletal2008,"13, 51",False
 1033-22_tofear-1,baki1244,22_tofear,-mro,+ m r o,,Greenhilletal2008,1,False
@@ -1250,7 +1204,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1033-75_todiebedead-1,baki1244,75_todiebedead,-mar,+ m a r,,Greenhilletal2008,1,False
 1033-76_tolivebealive-1,baki1244,76_tolivebealive,-meuli,+ m e u l i,,Greenhilletal2008,"1, 76",False
 1033-77_toscratch-1,baki1244,77_toscratch,-suᵐbʷar,+ s u ⁿbʷ a r,,Greenhilletal2008,73,False
-1033-78_tocuthack-1,baki1244,78_tocuthack,-teio,+ t e i o,,Greenhilletal2008,1,False
 1033-79_stickwood-1,baki1244,79_stickwood,yesi,j e s i,,Greenhilletal2008,27,False
 1033-7_tocome-1,baki1244,7_tocome,-mei,+ m e i,,Greenhilletal2008,1,False
 1033-80_tosplit-1,baki1244,80_tosplit,-teᵐbʷeio,+ t e ⁿbʷ e i o,,Greenhilletal2008,"4, 6",False
@@ -1355,11 +1308,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1007-1_hand-1,bier1244,1_hand,čumo-ᵑgu,tʃ u m o + ⁿg u,,Greenhilletal2008,59,False
 1007-200_four-1,bier1244,200_four,βeri,β e r i,,Greenhilletal2008,"1,65",False
 1007-201_five-1,bier1244,201_five,čima,tʃ i m a,,Greenhilletal2008,1,False
-1007-202_six-1,bier1244,202_six,ora,o r a,,Greenhilletal2008,24,False
-1007-203_seven-1,bier1244,203_seven,o-lua,o + l u a,,Greenhilletal2008,2,False
-1007-204_eight-1,bier1244,204_eight,o-rolu,o + r o l u,,Greenhilletal2008,7,False
-1007-205_nine-1,bier1244,205_nine,o-βeri,o + β e r i,,Greenhilletal2008,20,False
-1007-206_ten-1,bier1244,206_ten,lualima,l u a l i m a,,Greenhilletal2008,4,False
 1007-20_toknowbeknowledgeable-1,bier1244,20_toknowbeknowledgeable,-ᵑgičea,+ ⁿg i tʃ e a,,Greenhilletal2008,110,False
 1007-21_tothink-1,bier1244,21_tothink,-siⁿdomi,+ s i ⁿd o m i,,Greenhilletal2008,"13, 51",False
 1007-22_tofear-1,bier1244,22_tofear,-mira,+ m i r a,,Greenhilletal2008,1,False
@@ -1416,7 +1364,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1007-75_todiebedead-1,bier1244,75_todiebedead,-mere,+ m e r e,,Greenhilletal2008,1,False
 1007-76_tolivebealive-1,bier1244,76_tolivebealive,-mali,+ m a l i,,Greenhilletal2008,"1, 76",False
 1007-77_toscratch-1,bier1244,77_toscratch,-kuβaria,+ k u β a r i a,,Greenhilletal2008,73,False
-1007-78_tocuthack-1,bier1244,78_tocuthack,-teia,+ t e i a,,Greenhilletal2008,1,False
 1007-79_stickwood-1,bier1244,79_stickwood,čeki,tʃ e k i,,Greenhilletal2008,27?,False
 1007-7_tocome-1,bier1244,7_tocome,-βirimi,+ β i r i m i,,Greenhilletal2008,"1, 23",False
 1007-80_tosplit-1,bier1244,80_tosplit,-tepʷaia,+ t e pʷ a i a,,Greenhilletal2008,"4, 6",False
@@ -1520,12 +1467,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1169-1_hand-1,bign1238,1_hand,ləm̈a-k,l ə m a + k,,Greenhilletal2008,"1, 64",False
 1169-200_four-1,bign1238,200_four,i-v̈a,i + v a,,Greenhilletal2008,"1,65",False
 1169-201_five-1,bign1238,201_five,i-lim̈,i + l i m,,Greenhilletal2008,1,False
-1169-202_six-1,bign1238,202_six,i-lim̈-ase,i + l i m + a s e,,Greenhilletal2008,20,False
-1169-203_seven-1,bign1238,203_seven,i-sa-ru,i + s a + r u,,Greenhilletal2008,"1, 2",False
-1169-204_eight-1,bign1238,204_eight,isa-tl,i s a + t l,,Greenhilletal2008,"11, 7",False
-1169-205_nine-1,bign1238,205_nine,isa-βœt,i s a + β œ t,,Greenhilletal2008,20,False
-1169-206_ten-1,bign1238,206_ten,snal,s n a l,,Greenhilletal2008,5,False
-1169-206_ten-2,bign1238,206_ten,inal,i n a l,,Greenhilletal2008,5,False
 1169-20_toknowbeknowledgeable-1,bign1238,20_toknowbeknowledgeable,-rⁿdawe,+ r ⁿd a w e,,Greenhilletal2008,80,False
 1169-21_tothink-1,bign1238,21_tothink,-v̈aɣe,+ v a ɣ e,,Greenhilletal2008,40,False
 1169-22_tofear-1,bign1238,22_tofear,-ⁿdeⁿdʳən,+ ⁿd e ⁿdʳ ə n,,Greenhilletal2008,25,False
@@ -1581,7 +1522,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1169-75_todiebedead-1,bign1238,75_todiebedead,-m̈a,+ m a,,Greenhilletal2008,1,False
 1169-76_tolivebealive-1,bign1238,76_tolivebealive,-selœβ,+ s e l œ β,,Greenhilletal2008,57,False
 1169-77_toscratch-1,bign1238,77_toscratch,-xorxori,+ x o r x o r i,,Greenhilletal2008,12,False
-1169-78_tocuthack-1,bign1238,78_tocuthack,-tri,+ t r i,,Greenhilletal2008,1,False
 1169-79_stickwood-1,bign1238,79_stickwood,rana-nai,r a n a + n a i,,Greenhilletal2008,1,False
 1169-7_tocome-1,bign1238,7_tocome,-ma,+ m a,,Greenhilletal2008,1,False
 1169-80_tosplit-1,bign1238,80_tosplit,-v̈əl,+ v ə l,,Greenhilletal2008,82,False
@@ -1692,11 +1632,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1080-1_hand-1,cent2058,1_hand,lima-ᵑgu,l i m a + ⁿg u,,Greenhilletal2008,"1, 64",False
 1080-200_four-1,cent2058,200_four,fati,f a t i,,Greenhilletal2008,"1,65",False
 1080-201_five-1,cent2058,201_five,taβa-lima,t a β a + l i m a,,Greenhilletal2008,1,False
-1080-202_six-1,cent2058,202_six,laβ-tuɣʷale,l a β + t u ɣʷ a l e,,Greenhilletal2008,20,False
-1080-203_seven-1,cent2058,203_seven,laβ-rua,l a β + r u a,,Greenhilletal2008,13,False
-1080-204_eight-1,cent2058,204_eight,laβ-tolu,l a β + t o l u,,Greenhilletal2008,"5, 7",False
-1080-205_nine-1,cent2058,205_nine,lei-βati,l e i + β a t i,,Greenhilletal2008,20,False
-1080-206_ten-1,cent2058,206_ten,saŋaβulu,s a ŋ a β u l u,,Greenhilletal2008,5,False
 1080-20_toknowbeknowledgeable-1,cent2058,20_toknowbeknowledgeable,roŋoⁿduni,r o ŋ o ⁿd u n i,,Greenhilletal2008,"19, 91",False
 1080-21_tothink-1,cent2058,21_tothink,ⁿdoⁿdo,ⁿd o ⁿd o,,Greenhilletal2008,13,False
 1080-22_tofear-1,cent2058,22_tofear,mataxuti,m a t a x u t i,,Greenhilletal2008,1,False
@@ -1754,8 +1689,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1080-75_todiebedead-1,cent2058,75_todiebedead,mate,m a t e,,Greenhilletal2008,1,False
 1080-76_tolivebealive-1,cent2058,76_tolivebealive,ŋʷaso,ŋʷ a s o,,Greenhilletal2008,37,False
 1080-77_toscratch-1,cent2058,77_toscratch,taᵑgari,t a ⁿg a r i,,Greenhilletal2008,"12, 28",False
-1080-78_tocuthack-1,cent2058,78_tocuthack,tai,t a i,,Greenhilletal2008,1,False
-1080-78_tocuthack-2,cent2058,78_tocuthack,teβe,t e β e,,Greenhilletal2008,40,False
 1080-79_stickwood-1,cent2058,79_stickwood,xai,x a i,,Greenhilletal2008,1,False
 1080-7_tocome-1,cent2058,7_tocome,ɣuma,ɣ u m a,,Greenhilletal2008,1,False
 1080-80_tosplit-1,cent2058,80_tosplit,ⁿdara,ⁿd a r a,,Greenhilletal2008,62,False
@@ -1803,7 +1736,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 798-122_water-1,daka1243,122_water,wye,w j e,,Greenhilletal2008,2,False
 798-124_sea-1,daka1243,124_sea,tes,t e s,,Greenhilletal2008,1,False
 798-125_salt-1,daka1243,125_salt,sol,s o l,,Greenhilletal2008,60,True
-798-126_lake-1,daka1243,126_lake,bwili wye,bʷ i l i # w j e,,Greenhilletal2008,,False
+798-126_lake-1,daka1243,126_lake,bwili wye,bʷ i l i # w j e,,Greenhilletal2008,21,False
 798-127_woodsforest-1,daka1243,127_woodsforest,or,o r,,Greenhilletal2008,150,False
 798-127_woodsforest-2,daka1243,127_woodsforest,dóór,d oː r,,Greenhilletal2008,,False
 798-128_sky-1,daka1243,128_sky,tungtung,t u n g t u n g,,Greenhilletal2008,62,False
@@ -1881,7 +1814,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 798-192_and-2,daka1243,192_and,t-,t +,,Greenhilletal2008,,False
 798-192_and-3,daka1243,192_and,myane,m j a n e,,Greenhilletal2008,"2, 40",False
 798-195_nonot-1,daka1243,195_nonot,ee,eː,,Greenhilletal2008,54,False
-798-195_nonot-2,daka1243,195_nonot,to,t o,,Greenhilletal2008,,False
+798-195_nonot-2,daka1243,195_nonot,to,t o,,Greenhilletal2008,4,False
 798-196_tocount-1,daka1243,196_tocount,puluk,p u l u k,,Greenhilletal2008,1,False
 798-196_tocount-2,daka1243,196_tocount,pulukte,p u l u k t e,,Greenhilletal2008,1,False
 798-197_one-1,daka1243,197_one,swa,sʷ a,,Greenhilletal2008,5,False
@@ -1891,13 +1824,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 798-1_hand-1,daka1243,1_hand,vyaa,v y aː,,Greenhilletal2008,"16,72",False
 798-200_four-1,daka1243,200_four,vyer,v y e r,,Greenhilletal2008,"1,65",False
 798-201_five-1,daka1243,201_five,lim,l i m,,Greenhilletal2008,1,False
-798-202_six-1,daka1243,202_six,milipsyes,m i l i p s j e s,,Greenhilletal2008,33,False
-798-203_seven-1,daka1243,203_seven,milivyó,m i l i v y o,,Greenhilletal2008,13,False
-798-204_eight-1,daka1243,204_eight,milipsi,m i l i p s i,,Greenhilletal2008,5?,False
-798-205_nine-1,daka1243,205_nine,meper,m e p e r,,Greenhilletal2008,20,False
-798-206_ten-1,daka1243,206_ten,sungavi,s u n g a v i,,Greenhilletal2008,5,False
-798-207_twenty-1,daka1243,207_twenty,ung ló,u n g # l o,,Greenhilletal2008,9,False
-798-209_onehundred-1,daka1243,209_onehundred,ung sungavi,u n g # s u n g a v i,,Greenhilletal2008,17,False
 798-20_toknowbeknowledgeable-1,daka1243,20_toknowbeknowledgeable,kuowilye,k u o w i l y e,,Greenhilletal2008,"18, 85",False
 798-210_onethousand-1,daka1243,210_onethousand,ung sungavi vya sungavi,u n g # s u n g a v i # v y a # s u n g a v i,,Greenhilletal2008,33,False
 798-21_tothink-1,daka1243,21_tothink,dimye,d i m j e,,Greenhilletal2008,13,False
@@ -1968,12 +1894,10 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 798-71_tostabpierce-1,daka1243,71_tostabpierce,-tae,+ t a e,,Greenhilletal2008,,False
 798-72_tohit-1,daka1243,72_tohit,tu,t u,,Greenhilletal2008,8,False
 798-73_tosteal-1,daka1243,73_tosteal,yas,j a s,,Greenhilletal2008,20,False
-798-74_tokill-1,daka1243,74_tokill,tiye,t i j e,,Greenhilletal2008,,False
+798-74_tokill-1,daka1243,74_tokill,tiye,t i j e,,Greenhilletal2008,102,False
 798-75_todiebedead-1,daka1243,75_todiebedead,mer,m e r,,Greenhilletal2008,1,False
 798-76_tolivebealive-1,daka1243,76_tolivebealive,meu,m e u,,Greenhilletal2008,"1, 76",False
 798-77_toscratch-1,daka1243,77_toscratch,s'o'ote,s ʔ o ʔ o t e,,Greenhilletal2008,,False
-798-78_tocuthack-1,daka1243,78_tocuthack,te,t e,,Greenhilletal2008,1,False
-798-78_tocuthack-2,daka1243,78_tocuthack,ta,t a,,Greenhilletal2008,1,False
 798-79_stickwood-1,daka1243,79_stickwood,lee,l eː,,Greenhilletal2008,28,False
 798-7_tocome-1,daka1243,7_tocome,me,m e,,Greenhilletal2008,1,False
 798-80_tosplit-1,daka1243,80_tosplit,mitye,m i t j e,,Greenhilletal2008,,False
@@ -2035,7 +1959,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1592-131_cloud-1,east2443,131_cloud,ⁿdoⁿdo,ⁿd o ⁿd o,,Greenhilletal2008,90,False
 1592-132_fog-1,east2443,132_fog,tantan,t a n t a n,,Greenhilletal2008,101,False
 1592-133_rain-1,east2443,133_rain,wos,w o s,,Greenhilletal2008,1,False
-1592-134_thunder-1,east2443,134_thunder,mantak̚,m a n t a k̚,,Greenhilletal2008,,False
+1592-134_thunder-1,east2443,134_thunder,mantak̚,m a n t a k̚,,Greenhilletal2008,"37,42",False
 1592-135_lightning-1,east2443,135_lightning,fʲɛl,f j ɛ l,,Greenhilletal2008,26,False
 1592-136_wind-1,east2443,136_wind,læŋ,l æ ŋ,,Greenhilletal2008,"1,77",False
 1592-137_toblow-1,east2443,137_toblow,mɔser,m ɔ s e r,,Greenhilletal2008,26,False
@@ -2105,14 +2029,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1592-1_hand-1,east2443,1_hand,liɛm,l i ɛ m,,Greenhilletal2008,"1, 64",False
 1592-200_four-1,east2443,200_four,keβet̚,k e β e t̚,,Greenhilletal2008,"1,65",False
 1592-201_five-1,east2443,201_five,keliɛm,k e l i ɛ m,,Greenhilletal2008,1,False
-1592-202_six-1,east2443,202_six,keõ,k e õ,,Greenhilletal2008,1,False
-1592-203_seven-1,east2443,203_seven,keᵐbitu̥,k e ⁿb i t u,,Greenhilletal2008,1,False
-1592-204_eight-1,east2443,204_eight,kewol,k e w o l,,Greenhilletal2008,3,False
-1592-205_nine-1,east2443,205_nine,kesiok̚,k e s i o k̚,,Greenhilletal2008,5,False
-1592-206_ten-1,east2443,206_ten,saŋβul,s a ŋ β u l,,Greenhilletal2008,5,False
-1592-207_twenty-1,east2443,207_twenty,ŋoβulɣero,ŋ o β u l ɣ e r o,,Greenhilletal2008,,False
-1592-208_fifty-1,east2443,208_fifty,ŋoβulɣeliɛm,ŋ o β u l ɣ e l i ɛ m,,Greenhilletal2008,,False
-1592-209_onehundred-1,east2443,209_onehundred,fuⁿdolɔ,f u ⁿd o l ɔ,,Greenhilletal2008,,False
 1592-20_toknowbeknowledgeable-1,east2443,20_toknowbeknowledgeable,iolʲol,i o l j o l,,Greenhilletal2008,13,False
 1592-210_onethousand-1,east2443,210_onethousand,terβaˀtawal,t e r β a ˀ/ʔ t a w a l,,Greenhilletal2008,,False
 1592-21_tothink-1,east2443,21_tothink,lanlaⁿdo̥,l a n l a ⁿd o̥,,Greenhilletal2008,13,False
@@ -2177,7 +2093,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1592-75_todiebedead-1,east2443,75_todiebedead,mʷæt̚,mʷ æ t̚,,Greenhilletal2008,1,False
 1592-76_tolivebealive-1,east2443,76_tolivebealive,ŋʷasu̥,ŋʷ a s u,,Greenhilletal2008,37,False
 1592-77_toscratch-1,east2443,77_toscratch,tæᵑɡær,t æ ⁿg æ r,,Greenhilletal2008,"12,28",False
-1592-78_tocuthack-1,east2443,78_tocuthack,tæɪ,t æ ɪ,,Greenhilletal2008,1,False
 1592-79_stickwood-1,east2443,79_stickwood,kæ,k æ,,Greenhilletal2008,1,False
 1592-7_tocome-1,east2443,7_tocome,fænɛ,f æ n ɛ,,Greenhilletal2008,"1,23",False
 1592-80_tosplit-1,east2443,80_tosplit,tæⁿdær,t æ ⁿd æ r,,Greenhilletal2008,,False
@@ -2185,7 +2100,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1592-82_dullblunt-1,east2443,82_dullblunt,ᵑɡʷato,ⁿgʷ a t o,,Greenhilletal2008,15,False
 1592-83_towork-1,east2443,83_towork,ᵐbɔlʊk̚,ⁿb ɔ l ʊ k̚,,Greenhilletal2008,117,False
 1592-84_toplant-1,east2443,84_toplant,rifu̥,r i f u,,Greenhilletal2008,9,False
-1592-85_tochoose-1,east2443,85_tochoose,ⁿdɛⁿdɛk,ⁿd ɛ ⁿd ɛ k,,Greenhilletal2008,,False
+1592-85_tochoose-1,east2443,85_tochoose,ⁿdɛⁿdɛk,ⁿd ɛ ⁿd ɛ k,,Greenhilletal2008,51,False
 1592-86_togrow-1,east2443,86_togrow,mauri̥,m a u r i̥,,Greenhilletal2008,15,False
 1592-87_toswell-1,east2443,87_toswell,luluoŋ,l u l u o ŋ,,Greenhilletal2008,67,False
 1592-88_tosqueeze-1,east2443,88_tosqueeze,kʷɔr,kʷ ɔ r,,Greenhilletal2008,97,False
@@ -2291,13 +2206,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1541-1_hand-1,hano1246,1_hand,lima-,l i m a +,,Greenhilletal2008,"1, 64",False
 1541-200_four-1,hano1246,200_four,gai vasi,g a i # v a s i,,Greenhilletal2008,"1,65",False
 1541-201_five-1,hano1246,201_five,lima,l i m a,,Greenhilletal2008,1,False
-1541-202_six-1,hano1246,202_six,xai ono,x a i # o n o,,Greenhilletal2008,1,False
-1541-203_seven-1,hano1246,203_seven,xai bitu,x a i # b i t u,,Greenhilletal2008,1,False
-1541-204_eight-1,hano1246,204_eight,ɣai vwelu,ɣ a i # vʷ e l u,,Greenhilletal2008,3,False
-1541-205_nine-1,hano1246,205_nine,sivo,s i v o,,Greenhilletal2008,5,False
-1541-206_ten-1,hano1246,206_ten,haŋvul,h a ŋ v u l,,Greenhilletal2008,5,False
-1541-207_twenty-1,hano1246,207_twenty,navu xai ɾua,n a v u # x a i # ɾ u a,,Greenhilletal2008,9,False
-1541-209_onehundred-1,hano1246,209_onehundred,vudolua,v u d o l u a,,Greenhilletal2008,16,False
 1541-20_toknowbeknowledgeable-1,hano1246,20_toknowbeknowledgeable,iloe,i l o e,,Greenhilletal2008,13,False
 1541-21_tothink-1,hano1246,21_tothink,binihi ndumwia,b i n i h i # n d u mʷ i a,,Greenhilletal2008,43,False
 1541-22_tofear-1,hano1246,22_tofear,mataxu,m a t a x u,,Greenhilletal2008,1,False
@@ -2351,7 +2259,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1541-74_tokill-1,hano1246,74_tokill,wehi bwamatea,w e h i # bʷ a m a t e a,,Greenhilletal2008,12,False
 1541-75_todiebedead-1,hano1246,75_todiebedead,mate,m a t e,,Greenhilletal2008,1,False
 1541-77_toscratch-1,hano1246,77_toscratch,taŋgaɾia,t a ŋ g a ɾ i a,,Greenhilletal2008,"12, 28",False
-1541-78_tocuthack-1,hano1246,78_tocuthack,vai,v a i,,Greenhilletal2008,,False
 1541-79_stickwood-1,hano1246,79_stickwood,xai,x a i,,Greenhilletal2008,1,False
 1541-7_tocome-1,hano1246,7_tocome,mai,m a i,,Greenhilletal2008,1,False
 1541-81_sharp-1,hano1246,81_sharp,mamaɣani,m a m a ɣ a n i,,Greenhilletal2008,14,False
@@ -2361,7 +2268,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1541-87_toswell-1,hano1246,87_toswell,mwasivi,mʷ a s i v i,,Greenhilletal2008,11?,False
 1541-88_tosqueeze-1,hano1246,88_tosqueeze,bwiɾihi-a,bʷ i ɾ i h i + a,,Greenhilletal2008,16,False
 1541-90_todig-1,hano1246,90_todig,ɣeli-a,ɣ e l i + a,,Greenhilletal2008,1,False
-1541-92_toopenuncover-1,hano1246,92_toopenuncover,vaŋia,v a ŋ i a,,Greenhilletal2008,,False
+1541-92_toopenuncover-1,hano1246,92_toopenuncover,vaŋia,v a ŋ i a,,Greenhilletal2008,24,False
 1541-94_tothrow-1,hano1246,94_tothrow,vohai ni-a,v o h a i # n i + a,,Greenhilletal2008,53,False
 1541-95_tofall-1,hano1246,95_tofall,hovi,h o v i,,Greenhilletal2008,13,False
 1541-96_dog-1,hano1246,96_dog,vwiɾiu,vʷ i ɾ i u,,Greenhilletal2008,"7,77",False
@@ -2495,13 +2402,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 456-1_hand-1,katb1237,1_hand,varan,v a r a n,,Greenhilletal2008,16,False
 456-200_four-1,katb1237,200_four,ivat,i v a t,,Greenhilletal2008,"1,65",False
 456-201_five-1,katb1237,201_five,ilim,i l i m,,Greenhilletal2008,1,False
-456-202_six-1,katb1237,202_six,sout,s o u t,,Greenhilletal2008,"31, 32",False
-456-203_seven-1,katb1237,203_seven,souru,s o u r u,,Greenhilletal2008,9,False
-456-204_eight-1,katb1237,204_eight,setl,s e t l,,Greenhilletal2008,"11, 7",False
-456-205_nine-1,katb1237,205_nine,savat,s a v a t,,Greenhilletal2008,5,False
-456-206_ten-1,katb1237,206_ten,langal,l a n g a l,,Greenhilletal2008,"5,8",False
-456-207_twenty-1,katb1237,207_twenty,ngai iru,n g a i # i r u,,Greenhilletal2008,9,False
-456-209_onehundred-1,katb1237,209_onehundred,angat,a n g a t,,Greenhilletal2008,12,False
 456-20_toknowbeknowledgeable-1,katb1237,20_toknowbeknowledgeable,rokut,r o k u t,,Greenhilletal2008,"19, 87",False
 456-210_onethousand-1,katb1237,210_onethousand,atar,a t a r,,Greenhilletal2008,13,False
 456-21_tothink-1,katb1237,21_tothink,sisien,s i s i e n,,Greenhilletal2008,39,False
@@ -2591,7 +2491,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 456-76_tolivebealive-1,katb1237,76_tolivebealive,luk,l u k,,Greenhilletal2008,23,False
 456-77_toscratch-1,katb1237,77_toscratch,yor,j o r,,Greenhilletal2008,70,False
 456-77_toscratch-2,katb1237,77_toscratch,suvsup,s u v s u p,,Greenhilletal2008,76,False
-456-78_tocuthack-1,katb1237,78_tocuthack,ter,t e r,,Greenhilletal2008,1,False
 456-79_stickwood-1,katb1237,79_stickwood,aga,a g a,,Greenhilletal2008,1,False
 456-7_tocome-1,katb1237,7_tocome,vwel,vʷ e l,,Greenhilletal2008,25,False
 456-80_tosplit-1,katb1237,80_tosplit,ngar,n g a r,,Greenhilletal2008,28,False
@@ -2707,11 +2606,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1028-1_hand-1,kwam1252,1_hand,raŋa-k,r a ŋ a + k,,Greenhilletal2008,32,False
 1028-200_four-1,kwam1252,200_four,ke-fa,k e + f a,,Greenhilletal2008,"1,65",False
 1028-201_five-1,kwam1252,201_five,kerirəm,k e r i r ə m,,Greenhilletal2008,"1,14",False
-1028-202_six-1,kwam1252,202_six,kərirəm reči,k ə r i r ə m # r e tʃ i,,Greenhilletal2008,21,False
-1028-203_seven-1,kwam1252,203_seven,kərirəm karu,k ə r i r ə m # k a r u,,Greenhilletal2008,,False
-1028-204_eight-1,kwam1252,204_eight,kərərəm kahar,k ə r ə r ə m # k a h a r,,Greenhilletal2008,,False
-1028-205_nine-1,kwam1252,205_nine,kərirəm kefa,k ə r i r ə m # k e f a,,Greenhilletal2008,,False
-1028-206_ten-1,kwam1252,206_ten,riwanimiwani,r i w a n i m i w a n i,,Greenhilletal2008,,False
 1028-20_toknowbeknowledgeable-1,kwam1252,20_toknowbeknowledgeable,-aukuran,+ a u k u r a n,,Greenhilletal2008,18,False
 1028-21_tothink-1,kwam1252,21_tothink,-atarəŋ,+ a t a r ə ŋ,,Greenhilletal2008,19,False
 1028-22_tofear-1,kwam1252,22_tofear,-ehekər,+ e h e k ə r,,Greenhilletal2008,69,False
@@ -2768,7 +2662,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1028-75_todiebedead-1,kwam1252,75_todiebedead,-em̥a,+ e m a,,Greenhilletal2008,1,False
 1028-76_tolivebealive-1,kwam1252,76_tolivebealive,-amʷuru,+ a mʷ u r u,,Greenhilletal2008,"1, 76",False
 1028-77_toscratch-1,kwam1252,77_toscratch,-aki,+ a k i,,Greenhilletal2008,13,False
-1028-78_tocuthack-1,kwam1252,78_tocuthack,-arai,+ a r a i,,Greenhilletal2008,1,False
 1028-79_stickwood-1,kwam1252,79_stickwood,nə-pari-nai,n ə + p a r i + n a i,,Greenhilletal2008,1,False
 1028-7_tocome-1,kwam1252,7_tocome,-wehe,+ w e h e,,Greenhilletal2008,25,False
 1028-80_tosplit-1,kwam1252,80_tosplit,-ausiaskini,+ a u s i a s k i n i,,Greenhilletal2008,81,False
@@ -2877,13 +2770,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1217-19_shoulder-1,labo1244,19_shoulder,nu-ᵐʙutevaxa,n u + ⁿʙ u t e v a x a,,Greenhilletal2008,"65,1",False
 1217-200_four-1,labo1244,200_four,ves,v e s,,Greenhilletal2008,"1,65",False
 1217-201_five-1,labo1244,201_five,selme,s e l m e,,Greenhilletal2008,"18, 1",False
-1217-202_six-1,labo1244,202_six,ⁿdumosoi,ⁿd u m o s o i,,Greenhilletal2008,34,False
-1217-203_seven-1,labo1244,203_seven,manaxʷo,m a n a xʷ o,,Greenhilletal2008,18,False
-1217-204_eight-1,labo1244,204_eight,manetl,m a n e t l,,Greenhilletal2008,"25, 7",False
-1217-205_nine-1,labo1244,205_nine,malaves,m a l a v e s,,Greenhilletal2008,20,False
-1217-206_ten-1,labo1244,206_ten,naðlaᵑgal sei,n a ð l a ⁿg a l # s e i,,Greenhilletal2008,"5,8",False
-1217-207_twenty-1,labo1244,207_twenty,naðlaᵑgal xowo,n a ð l a ⁿg a l # x o w o,,Greenhilletal2008,22,False
-1217-209_onehundred-1,labo1244,209_onehundred,naðlaᵑgal naðlaᵑgal ᵑgoxo utuve sei,n a ð l a ⁿg a l # n a ð l a ⁿg a l # ⁿg o x o # u t u v e # s e i,,Greenhilletal2008,47,False
 1217-20_toknowbeknowledgeable-1,labo1244,20_toknowbeknowledgeable,-xoraŋ-,+ x o r a ŋ +,,Greenhilletal2008,"19, 108",False
 1217-22_tofear-1,labo1244,22_tofear,-metaʔ,+ m e t a ʔ,,Greenhilletal2008,1,False
 1217-23_blood-1,labo1244,23_blood,naːre,n aː r e,,Greenhilletal2008,1,False
@@ -2939,7 +2825,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1217-75_todiebedead-1,labo1244,75_todiebedead,-mes,+ m e s,,Greenhilletal2008,1,False
 1217-76_tolivebealive-1,labo1244,76_tolivebealive,-mʷox,+ mʷ o x,,Greenhilletal2008,"1, 68",False
 1217-77_toscratch-1,labo1244,77_toscratch,-ox,+ o x,,Greenhilletal2008,77,False
-1217-78_tocuthack-1,labo1244,78_tocuthack,-sim,+ s i m,,Greenhilletal2008,101,False
 1217-79_stickwood-1,labo1244,79_stickwood,ne-i,n e + i,,Greenhilletal2008,1,False
 1217-7_tocome-1,labo1244,7_tocome,-ɸul,+ ɸ u l,,Greenhilletal2008,25,False
 1217-80_tosplit-1,labo1244,80_tosplit,-siᵐbax,+ s i ⁿb a x,,Greenhilletal2008,9,False
@@ -3052,11 +2937,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1107-1_hand-1,lame1260,1_hand,luma-u,l u m a + u,,Greenhilletal2008,"1, 64",False
 1107-200_four-1,lame1260,200_four,βeri,β e r i,,Greenhilletal2008,"1,65",False
 1107-201_five-1,lame1260,201_five,limæ,l i m æ,,Greenhilletal2008,1,False
-1107-202_six-1,lame1260,202_six,ara,a r a,,Greenhilletal2008,24,False
-1107-203_seven-1,lame1260,203_seven,o-loa,o + l o a,,Greenhilletal2008,2,False
-1107-204_eight-1,lame1260,204_eight,o-rol,o + r o l,,Greenhilletal2008,7,False
-1107-205_nine-1,lame1260,205_nine,o-βœr,o + β œ r,,Greenhilletal2008,20,False
-1107-206_ten-1,lame1260,206_ten,lualimæ,l u a l i m æ,,Greenhilletal2008,4,False
 1107-20_toknowbeknowledgeable-1,lame1260,20_toknowbeknowledgeable,-kilia,+ k i l i a,,Greenhilletal2008,18,False
 1107-21_tothink-1,lame1260,21_tothink,-siⁿdom,+ s i ⁿd o m,,Greenhilletal2008,"13, 51",False
 1107-22_tofear-1,lame1260,22_tofear,-merou,+ m e r o u,,Greenhilletal2008,1,False
@@ -3112,7 +2992,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1107-75_todiebedead-1,lame1260,75_todiebedead,-mære,+ m æ r e,,Greenhilletal2008,1,False
 1107-76_tolivebealive-1,lame1260,76_tolivebealive,-mal,+ m a l,,Greenhilletal2008,"1, 76",False
 1107-77_toscratch-1,lame1260,77_toscratch,-kopʷar,+ k o pʷ a r,,Greenhilletal2008,73,False
-1107-78_tocuthack-1,lame1260,78_tocuthack,-se,+ s e,,Greenhilletal2008,,False
 1107-79_stickwood-1,lame1260,79_stickwood,lak,l a k,,Greenhilletal2008,"1, 25",False
 1107-7_tocome-1,lame1260,7_tocome,-βirim,+ β i r i m,,Greenhilletal2008,"1, 25",False
 1107-80_tosplit-1,lame1260,80_tosplit,-sepa,+ s e p a,,Greenhilletal2008,9,False
@@ -3227,13 +3106,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1000-1_hand-1,lele1267,1_hand,nara,n a r a,,Greenhilletal2008,54,False
 1000-200_four-1,lele1267,200_four,pati,p a t i,,Greenhilletal2008,"1,65",False
 1000-201_five-1,lele1267,201_five,lima,l i m a,,Greenhilletal2008,1,False
-1000-202_six-1,lele1267,202_six,latsa,l a ts a,,Greenhilletal2008,20,False
-1000-203_seven-1,lele1267,203_seven,larua,l a r u a,,Greenhilletal2008,13,False
-1000-204_eight-1,lele1267,204_eight,latolu,l a t o l u,,Greenhilletal2008,"5, 7",False
-1000-205_nine-1,lele1267,205_nine,lfot,l f o t,,Greenhilletal2008,20,False
-1000-206_ten-1,lele1267,206_ten,ralma skei,r a l m a # s k e i,,Greenhilletal2008,4,False
-1000-207_twenty-1,lele1267,207_twenty,ralma rua,r a l m a # r u a,,Greenhilletal2008,"3,6",False
-1000-209_onehundred-1,lele1267,209_onehundred,p̃ontie skimau,p o n t i e # s k i m a u,,Greenhilletal2008,"4? ,24",False
 1000-20_toknowbeknowledgeable-1,lele1267,20_toknowbeknowledgeable,tae,t a e,,Greenhilletal2008,35,False
 1000-210_onethousand-1,lele1267,210_onethousand,maanu skimau,m aː n u # s k i m a u,,Greenhilletal2008,"10, 5?",False
 1000-21_tothink-1,lele1267,21_tothink,maroa,m a r o a,,Greenhilletal2008,7,False
@@ -3291,7 +3163,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1000-74_tokill-1,lele1267,74_tokill,p̃apunu,p a p u n u,,Greenhilletal2008,"63, 1",False
 1000-75_todiebedead-1,lele1267,75_todiebedead,mate,m a t e,,Greenhilletal2008,1,False
 1000-76_tolivebealive-1,lele1267,76_tolivebealive,m̃oli,m o l i,,Greenhilletal2008,"1, 76",False
-1000-78_tocuthack-1,lele1267,78_tocuthack,tae,t a e,,Greenhilletal2008,1,False
 1000-79_stickwood-1,lele1267,79_stickwood,nkasu,n k a s u,,Greenhilletal2008,1,False
 1000-7_tocome-1,lele1267,7_tocome,panmei,p a n m e i,,Greenhilletal2008,"23, 1",False
 1000-80_tosplit-1,lele1267,80_tosplit,p̃rae,p r a e,,Greenhilletal2008,1,False
@@ -3399,13 +3270,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 696-1_hand-1,leme1238,1_hand,pænæ-n,p æ n æ + n,,Greenhilletal2008,14,False
 696-200_four-1,leme1238,200_four,βøβɛʔ,β ø β ɛ ʔ,,Greenhilletal2008,"1,65",False
 696-201_five-1,leme1238,201_five,βɛlæm,β ɛ l æ m,,Greenhilletal2008,1,False
-696-202_six-1,leme1238,202_six,lɪβɪʔæ,l ɪ β ɪ ʔ æ,,Greenhilletal2008,20,False
-696-203_seven-1,leme1238,203_seven,liβiru,l i β i r u,,Greenhilletal2008,13,False
-696-204_eight-1,leme1238,204_eight,liviʔøl,l i v i ʔ ø l,,Greenhilletal2008,"5, 7",False
-696-205_nine-1,leme1238,205_nine,liβiβɛʔ,l i β i β ɛ ʔ,,Greenhilletal2008,20,False
-696-206_ten-1,leme1238,206_ten,sɒŋwul,s ɒ ŋʷ u l,,Greenhilletal2008,5,False
-696-207_twenty-1,leme1238,207_twenty,sɒŋwul ru,s ɒ ŋʷ u l # r u,,Greenhilletal2008,9,False
-696-209_onehundred-1,leme1238,209_onehundred,ŋ͡mʷɛltøl,ŋmʷ ɛ l t ø l,,Greenhilletal2008,35,False
 696-20_toknowbeknowledgeable-1,leme1238,20_toknowbeknowledgeable,ɣɒlɒl,ɣ ɒ l ɒ l,,Greenhilletal2008,18,False
 696-210_onethousand-1,leme1238,210_onethousand,ʔar,ʔ a r,,Greenhilletal2008,16,False
 696-21_tothink-1,leme1238,21_tothink,tœt,t œ t,,Greenhilletal2008,13,False
@@ -3464,8 +3328,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 696-75_todiebedead-1,leme1238,75_todiebedead,maʔ,m a ʔ,,Greenhilletal2008,1,False
 696-76_tolivebealive-1,leme1238,76_tolivebealive,ɪs,ɪ s,,Greenhilletal2008,24,False
 696-77_toscratch-1,leme1238,77_toscratch,kœrkœr,k œ r k œ r,,Greenhilletal2008,44,False
-696-78_tocuthack-1,leme1238,78_tocuthack,ʔɒr,ʔ ɒ r,,Greenhilletal2008,1,False
-696-79_stickwood-1,leme1238,79_stickwood,n-ʔɛnɣɛ,n + ʔ ɛ n ɣ ɛ,,Greenhilletal2008,,False
+696-79_stickwood-1,leme1238,79_stickwood,n-ʔɛnɣɛ,n + ʔ ɛ n ɣ ɛ,,Greenhilletal2008,1,False
 696-7_tocome-1,leme1238,7_tocome,βan mɛ,β a n # m ɛ,,Greenhilletal2008,"23, 1",False
 696-80_tosplit-1,leme1238,80_tosplit,ʔɒr wɔr,ʔ ɒ r # w ɔ r,,Greenhilletal2008,1,False
 696-81_sharp-1,leme1238,81_sharp,ŋ​͡mʷɛʔɛs,ŋmʷ ɛ ʔ ɛ s,,Greenhilletal2008,87,False
@@ -3593,11 +3456,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 162-1_hand-1,lena1238,1_hand,nelm-,n e l m +,,Greenhilletal2008,"1,64",False
 162-200_four-1,lena1238,200_four,kuver,k u v e r,,Greenhilletal2008,1,False
 162-201_five-1,lena1238,201_five,katilim,k a t i l i m,,Greenhilletal2008,"1,14",False
-162-202_six-1,lena1238,202_six,katilum karena,k a t i l u m # k a r e n a,,Greenhilletal2008,21,False
-162-203_seven-1,lena1238,203_seven,katilum kiu,k a t i l u m # k i u,,Greenhilletal2008,,False
-162-204_eight-1,lena1238,204_eight,katilum kəsil,k a t i l u m # k ə s i l,,Greenhilletal2008,,False
-162-205_nine-1,lena1238,205_nine,katilum kuvər,k a t i l u m # k u v ə r,,Greenhilletal2008,,False
-162-206_ten-1,lena1238,206_ten,katilum katilum,k a t i l u m # k a t i l u m,,Greenhilletal2008,,False
 162-20_toknowbeknowledgeable-1,lena1238,20_toknowbeknowledgeable,hinatín,h i n a t i n,,Greenhilletal2008,138,False
 162-21_tothink-1,lena1238,21_tothink,nəki-n r-ho,n ə k i + n # r + h o,,Greenhilletal2008,65,True
 162-22_tofear-1,lena1238,22_tofear,əŋn,ə ŋ n,,Greenhilletal2008,60,False
@@ -3660,7 +3518,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 162-75_todiebedead-1,lena1238,75_todiebedead,məs,m ə s,,Greenhilletal2008,1,False
 162-76_tolivebealive-1,lena1238,76_tolivebealive,amiuh,a m i u h,,Greenhilletal2008,60,False
 162-77_toscratch-1,lena1238,77_toscratch,aki,a k i,,Greenhilletal2008,13,False
-162-78_tocuthack-1,lena1238,78_tocuthack,arai,a r a i,,Greenhilletal2008,1,False
 162-79_stickwood-1,lena1238,79_stickwood,nouanək,n o u a n ə k,,Greenhilletal2008,1,False
 162-7_tocome-1,lena1238,7_tocome,va,v a,,Greenhilletal2008,25,False
 162-80_tosplit-1,lena1238,80_tosplit,arpiai,a r p i a i,,Greenhilletal2008,98,False
@@ -3771,11 +3628,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1135-1_hand-1,lewo1242,1_hand,lima-u,l i m a + u,,Greenhilletal2008,"1, 64",False
 1135-200_four-1,lewo1242,200_four,fari,f a r i,,Greenhilletal2008,"1,65",False
 1135-201_five-1,lewo1242,201_five,lima,l i m a,,Greenhilletal2008,1,False
-1135-202_six-1,lewo1242,202_six,orai,o r a i,,Greenhilletal2008,24,False
-1135-203_seven-1,lewo1242,203_seven,o-lua,o + l u a,,Greenhilletal2008,2,False
-1135-204_eight-1,lewo1242,204_eight,o-rolu,o + r o l u,,Greenhilletal2008,7,False
-1135-205_nine-1,lewo1242,205_nine,o-βari,o + β a r i,,Greenhilletal2008,20,False
-1135-206_ten-1,lewo1242,206_ten,lualima,l u a l i m a,,Greenhilletal2008,4,False
 1135-20_toknowbeknowledgeable-1,lewo1242,20_toknowbeknowledgeable,-kilia,+ k i l i a,,Greenhilletal2008,18,False
 1135-21_tothink-1,lewo1242,21_tothink,-stomʷalia,+ s t o mʷ a l i a,,Greenhilletal2008,"13, 51",False
 1135-22_tofear-1,lewo1242,22_tofear,-marau,+ m a r a u,,Greenhilletal2008,1,False
@@ -3824,7 +3676,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1135-65_rope-1,lewo1242,65_rope,kilika,k i l i k a,,Greenhilletal2008,5,False
 1135-66_totieupfasten-1,lewo1242,66_totieupfasten,-weia,+ w e i a,,Greenhilletal2008,,False
 1135-67_tosew-1,lewo1242,67_tosew,-suluia,+ s u l u i a,,Greenhilletal2008,60,False
-1135-69_tohunt-1,lewo1242,69_tohunt,-ikori,+ i k o r i,,Greenhilletal2008,,False
+1135-69_tohunt-1,lewo1242,69_tohunt,-ikori,+ i k o r i,,Greenhilletal2008,59,False
 1135-6_roadpath-1,lewo1242,6_roadpath,ⁿdepa,ⁿd e p a,,Greenhilletal2008,63,False
 1135-71_tostabpierce-1,lewo1242,71_tostabpierce,-yuria,+ j u r i a,,Greenhilletal2008,14,False
 1135-72_tohit-1,lewo1242,72_tohit,-wea,+ w e a,,Greenhilletal2008,93,False
@@ -3832,13 +3684,12 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1135-75_todiebedead-1,lewo1242,75_todiebedead,-mare,+ m a r e,,Greenhilletal2008,1,False
 1135-76_tolivebealive-1,lewo1242,76_tolivebealive,-mæli,+ m æ l i,,Greenhilletal2008,"1, 76",False
 1135-77_toscratch-1,lewo1242,77_toscratch,-kupʷaria,+ k u pʷ a r i a,,Greenhilletal2008,73,False
-1135-78_tocuthack-1,lewo1242,78_tocuthack,-tea,+ t e a,,Greenhilletal2008,1,False
 1135-79_stickwood-1,lewo1242,79_stickwood,laki,l a k i,,Greenhilletal2008,"1, 25",False
 1135-7_tocome-1,lewo1242,7_tocome,-imi,+ i m i,,Greenhilletal2008,1,False
 1135-80_tosplit-1,lewo1242,80_tosplit,-tepʷaia,+ t e pʷ a i a,,Greenhilletal2008,"4, 6",False
 1135-81_sharp-1,lewo1242,81_sharp,metoto,m e t o t o,,Greenhilletal2008,1,False
 1135-83_towork-1,lewo1242,83_towork,yumʷaena,j u mʷ a e n a,,Greenhilletal2008,"1, 89",False
-1135-88_tosqueeze-1,lewo1242,88_tosqueeze,-puŋoia,+ p u ŋ o i a,,Greenhilletal2008,,False
+1135-88_tosqueeze-1,lewo1242,88_tosqueeze,-puŋoia,+ p u ŋ o i a,,Greenhilletal2008,18,False
 1135-89_tohold-1,lewo1242,89_tohold,-laia,+ l a i a,,Greenhilletal2008,71,False
 1135-90_todig-1,lewo1242,90_todig,-kilia,+ k i l i a,,Greenhilletal2008,1,False
 1135-94_tothrow-1,lewo1242,94_tothrow,-kuania,+ k u a n i a,,Greenhilletal2008,85,False
@@ -3943,12 +3794,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1244-1_hand-1,ling1265,1_hand,nɛ-vɛɾa-,n ɛ + v ɛ ɾ a +,,Greenhilletal2008,16,False
 1244-200_four-1,ling1265,200_four,i-vas,i + v a s,,Greenhilletal2008,"1,65",False
 1244-201_five-1,ling1265,201_five,i-lim,i + l i m,,Greenhilletal2008,1,False
-1244-202_six-1,ling1265,202_six,ⁿt͡sos,ⁿts o s,,Greenhilletal2008,31,False
-1244-203_seven-1,ling1265,203_seven,ⁿt͡soru,ⁿts o r u,,Greenhilletal2008,9,False
-1244-204_eight-1,ling1265,204_eight,ⁿt͡sotɬ,ⁿts o t ɬ,,Greenhilletal2008,"11, 7",False
-1244-205_nine-1,ling1265,205_nine,ⁿt͡sovas,ⁿts o v a s,,Greenhilletal2008,5,False
-1244-206_ten-1,ling1265,206_ten,nɐŋaβul,n ɐ ŋ a β u l,,Greenhilletal2008,5,False
-1244-207_twenty-1,ling1265,207_twenty,nɐŋaβul iru,n ɐ ŋ a β u l # i r u,,Greenhilletal2008,9,False
 1244-21_tothink-1,ling1265,21_tothink,-sis-,+ s i s +,,Greenhilletal2008,39,False
 1244-22_tofear-1,ling1265,22_tofear,-lis,+ l i s,,Greenhilletal2008,73,False
 1244-23_blood-1,ling1265,23_blood,nɛ-ⁿdʳe,n ɛ + ⁿdʳ e,,Greenhilletal2008,1,False
@@ -4002,14 +3847,13 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1244-69_tohunt-1,ling1265,69_tohunt,-koko,+ k o k o,,Greenhilletal2008,77,False
 1244-6_roadpath-1,ling1265,6_roadpath,nɛ-sal,n ɛ + s a l,,Greenhilletal2008,1,False
 1244-70_toshoot-1,ling1265,70_toshoot,-ᵐbulu,+ ⁿb u l u,,Greenhilletal2008,,False
-1244-71_tostabpierce-1,ling1265,71_tostabpierce,-sop,+ s o p,,Greenhilletal2008,,False
+1244-71_tostabpierce-1,ling1265,71_tostabpierce,-sop,+ s o p,,Greenhilletal2008,17,False
 1244-72_tohit-1,ling1265,72_tohit,-te,+ t e,,Greenhilletal2008,133,False
 1244-72_tohit-2,ling1265,72_tohit,-te,+ t e,,Greenhilletal2008,133,False
 1244-73_tosteal-1,ling1265,73_tosteal,-lapinoqi,+ l a p i n o q i,,Greenhilletal2008,"1,58",False
 1244-74_tokill-1,ling1265,74_tokill,-teimas,+ t e i m a s,,Greenhilletal2008,"89, 2",False
 1244-75_todiebedead-1,ling1265,75_todiebedead,-mas,+ m a s,,Greenhilletal2008,1,False
 1244-76_tolivebealive-1,ling1265,76_tolivebealive,-maor,+ m a o r,,Greenhilletal2008,"1, 76",False
-1244-78_tocuthack-1,ling1265,78_tocuthack,-ᵐbute,+ ⁿb u t e,,Greenhilletal2008,,False
 1244-79_stickwood-1,ling1265,79_stickwood,na-xa,n a + x a,,Greenhilletal2008,1,False
 1244-7_tocome-1,ling1265,7_tocome,-lɛm,+ l ɛ m,,Greenhilletal2008,"1,25",False
 1244-81_sharp-1,ling1265,81_sharp,-maᵑgal,+ m a ⁿg a l,,Greenhilletal2008,"14, 79, 81",False
@@ -4085,7 +3929,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 457-14_belly-1,litz1237,14_belly,dabaan,d a b aː n,,Greenhilletal2008,"36, 99",False
 457-150_yellow-1,litz1237,150_yellow,yangayang,j a n g a j a n g,,Greenhilletal2008,9,False
 457-151_green-1,litz1237,151_green,xansxansen,x a n s x a n s e n,,Greenhilletal2008,8,False
-457-153_big-1,litz1237,153_big,bolo,b o l o,,Greenhilletal2008,,False
+457-153_big-1,litz1237,153_big,bolo,b o l o,,Greenhilletal2008,111,False
 457-153_big-2,litz1237,153_big,təleb,t ə l e b,,Greenhilletal2008,10,False
 457-154_short-1,litz1237,154_short,buxubuɣ,b u x u b u ɣ,,Greenhilletal2008,3,False
 457-155_long-1,litz1237,155_long,iber,i b e r,,Greenhilletal2008,16,False
@@ -4137,12 +3981,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 457-1_hand-1,litz1237,1_hand,nəverən,n ə v e r ə n,,Greenhilletal2008,16,False
 457-200_four-1,litz1237,200_four,ives,i v e s,,Greenhilletal2008,"1,65",False
 457-201_five-1,litz1237,201_five,iləm,i l ə m,,Greenhilletal2008,1,False
-457-203_seven-1,litz1237,203_seven,nsuru,n s u r u,,Greenhilletal2008,9,False
-457-204_eight-1,litz1237,204_eight,nsutəl,n s u t ə l,,Greenhilletal2008,"11,7",False
-457-205_nine-1,litz1237,205_nine,nsoves,n s o v e s,,Greenhilletal2008,5,False
-457-206_ten-1,litz1237,206_ten,sangavəl,s a n g a v ə l,,Greenhilletal2008,5,False
-457-207_twenty-1,litz1237,207_twenty,ngavəl iru,n g a v ə l # i r u,,Greenhilletal2008,9,False
-457-209_onehundred-1,litz1237,209_onehundred,nongot,n o n g o t,,Greenhilletal2008,12,False
 457-20_toknowbeknowledgeable-1,litz1237,20_toknowbeknowledgeable,rongdur,r o n g d u r,,Greenhilletal2008,"19, 91",False
 457-21_tothink-1,litz1237,21_tothink,nsəmnsəm,n s ə m n s ə m,,Greenhilletal2008,13,False
 457-21_tothink-2,litz1237,21_tothink,var,v a r,,Greenhilletal2008,40,False
@@ -4223,8 +4061,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 457-76_tolivebealive-2,litz1237,76_tolivebealive,leg,l e g,,Greenhilletal2008,23,False
 457-76_tolivebealive-3,litz1237,76_tolivebealive,mour,m o u r,,Greenhilletal2008,"1, 76",False
 457-77_toscratch-1,litz1237,77_toscratch,xorxor,x o r x o r,,Greenhilletal2008,12,False
-457-78_tocuthack-1,litz1237,78_tocuthack,bət,b ə t,,Greenhilletal2008,,False
-457-78_tocuthack-2,litz1237,78_tocuthack,təbe,t ə b e,,Greenhilletal2008,40,False
 457-79_stickwood-1,litz1237,79_stickwood,naxe,n a x e,,Greenhilletal2008,1,False
 457-7_tocome-1,litz1237,7_tocome,vale,v a l e,,Greenhilletal2008,25,False
 457-7_tocome-2,litz1237,7_tocome,velet,v e l e t,,Greenhilletal2008,25,False
@@ -4293,7 +4129,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1026-142_heavy-1,lonw1238,142_heavy,memap,m e m a p,,Greenhilletal2008,46,False
 1026-143_fire-1,lonw1238,143_fire,hafæŋ,h a f æ ŋ,,Greenhilletal2008,21,False
 1026-144_toburn-1,lonw1238,144_toburn,-fane,+ f a n e,,Greenhilletal2008,83,False
-1026-145_smoke-1,lonw1238,145_smoke,hikun,h i k u n,,Greenhilletal2008,,False
+1026-145_smoke-1,lonw1238,145_smoke,hikun,h i k u n,,Greenhilletal2008,96,False
 1026-146_ashes-1,lonw1238,146_ashes,pumʷirip,p u mʷ i r i p,,Greenhilletal2008,,False
 1026-147_black-1,lonw1238,147_black,mi-mirmir,m i + m i r m i r,,Greenhilletal2008,1,False
 1026-148_white-1,lonw1238,148_white,mʷafifœ,mʷ a f i f œ,,Greenhilletal2008,97,False
@@ -4327,7 +4163,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1026-188_what-1,lonw1238,188_what,sa,s a,,Greenhilletal2008,1,False
 1026-189_who-1,lonw1238,189_who,si,s i,,Greenhilletal2008,1,False
 1026-18_breast-1,lonw1238,18_breast,susu,s u s u,,Greenhilletal2008,1,False
-1026-194_how-1,lonw1238,194_how,miᵐbe,m i ⁿb e,,Greenhilletal2008,,False
+1026-194_how-1,lonw1238,194_how,miᵐbe,m i ⁿb e,,Greenhilletal2008,18,False
 1026-196_tocount-1,lonw1238,196_tocount,-kulumte,+ k u l u m t e,,Greenhilletal2008,95,False
 1026-197_one-1,lonw1238,197_one,sup,s u p,,Greenhilletal2008,28,False
 1026-198_two-1,lonw1238,198_two,ru,r u,,Greenhilletal2008,1,False
@@ -4336,11 +4172,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1026-1_hand-1,lonw1238,1_hand,wera-k,w e r a + k,,Greenhilletal2008,16,False
 1026-200_four-1,lonw1238,200_four,βir,β i r,,Greenhilletal2008,"1,65",False
 1026-201_five-1,lonw1238,201_five,lim,l i m,,Greenhilletal2008,1,False
-1026-202_six-1,lonw1238,202_six,milipče,m i l i p tʃ e,,Greenhilletal2008,33,False
-1026-203_seven-1,lonw1238,203_seven,milip-ru,m i l i p + r u,,Greenhilletal2008,13,False
-1026-204_eight-1,lonw1238,204_eight,milip-čul,m i l i p + tʃ u l,,Greenhilletal2008,"5, 7",False
-1026-205_nine-1,lonw1238,205_nine,mila-fer,m i l a + f e r,,Greenhilletal2008,20,False
-1026-206_ten-1,lonw1238,206_ten,saŋaβül,s a ŋ a β u l,,Greenhilletal2008,5,False
 1026-20_toknowbeknowledgeable-1,lonw1238,20_toknowbeknowledgeable,-kerpʷere,+ k e r pʷ e r e,,Greenhilletal2008,100,False
 1026-21_tothink-1,lonw1238,21_tothink,-nornorni,+ n o r n o r n i,,Greenhilletal2008,77,False
 1026-22_tofear-1,lonw1238,22_tofear,halumʷinek,h a l u mʷ i n e k,,Greenhilletal2008,32,False
@@ -4396,7 +4227,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1026-75_todiebedead-1,lonw1238,75_todiebedead,-mer,+ m e r,,Greenhilletal2008,1,False
 1026-76_tolivebealive-1,lonw1238,76_tolivebealive,-mæu,+ m æ u,,Greenhilletal2008,"1, 76",False
 1026-77_toscratch-1,lonw1238,77_toscratch,-koro,+ k o r o,,Greenhilletal2008,1,False
-1026-78_tocuthack-1,lonw1238,78_tocuthack,-tae,+ t a e,,Greenhilletal2008,1,False
 1026-79_stickwood-1,lonw1238,79_stickwood,lihe,l i h e,,Greenhilletal2008,28,False
 1026-7_tocome-1,lonw1238,7_tocome,-me,+ m e,,Greenhilletal2008,1,False
 1026-80_tosplit-1,lonw1238,80_tosplit,-tawoka,+ t a w o k a,,Greenhilletal2008,4,False
@@ -4504,13 +4334,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1319-1_hand-1,maee1241,1_hand,vra-,v r a +,,Greenhilletal2008,16,False
 1319-200_four-1,maee1241,200_four,i-vat,i + v a t,,Greenhilletal2008,"1,65",False
 1319-201_five-1,maee1241,201_five,i-lin,i + l i n,,Greenhilletal2008,1,False
-1319-202_six-1,maee1241,202_six,i-ɣoɛn,i + ɣ o ɛ n,,Greenhilletal2008,1,False
-1319-203_seven-1,maee1241,203_seven,i-ɣɛⁿdit,i + ɣ ɛ ⁿd i t,,Greenhilletal2008,1,False
-1319-204_eight-1,maee1241,204_eight,i-ɣewel,i + ɣ e w e l,,Greenhilletal2008,3,False
-1319-205_nine-1,maee1241,205_nine,i-ɣesiɸ,i + ɣ e s i ɸ,,Greenhilletal2008,5,False
-1319-206_ten-1,maee1241,206_ten,i-hiŋavil,i + h i ŋ a v i l,,Greenhilletal2008,5,False
-1319-207_twenty-1,maee1241,207_twenty,i-ŋovilru,i + ŋ o v i l r u,,Greenhilletal2008,9,False
-1319-209_onehundred-1,maee1241,209_onehundred,i-ŋosiŋavil,i + ŋ o s i ŋ a v i l,,Greenhilletal2008,40,False
 1319-22_tofear-1,maee1241,22_tofear,-mtaɣit,+ m t a ɣ i t,,Greenhilletal2008,1,False
 1319-23_blood-1,maee1241,23_blood,na-ⁿdʳe,n a + ⁿdʳ e,,Greenhilletal2008,1,False
 1319-24_head-1,maee1241,24_head,ᵐbɪt-,ⁿb ɪ t +,,Greenhilletal2008,9,False
@@ -4564,7 +4387,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1319-75_todiebedead-1,maee1241,75_todiebedead,-nɛʰ,+ n ɛ h,,Greenhilletal2008,1,False
 1319-76_tolivebealive-1,maee1241,76_tolivebealive,-seliɸ,+ s e l i ɸ,,Greenhilletal2008,57,False
 1319-77_toscratch-1,maee1241,77_toscratch,-koskosi,+ k o s k o s i,,Greenhilletal2008,69,False
-1319-78_tocuthack-1,maee1241,78_tocuthack,-tɛsi,+ t ɛ s i,,Greenhilletal2008,29,False
 1319-79_stickwood-1,maee1241,79_stickwood,na-ɣa,n a + ɣ a,,Greenhilletal2008,1,False
 1319-7_tocome-1,maee1241,7_tocome,-mɛ,+ m ɛ,,Greenhilletal2008,1,False
 1319-80_tosplit-1,maee1241,80_tosplit,-ⁿdʳeri,+ ⁿdʳ e r i,,Greenhilletal2008,62,False
@@ -4645,7 +4467,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1125-155_long-1,mafe1237,155_long,p̈araβu,p a r a β u,,Greenhilletal2008,16,False
 1125-15_bone-1,mafe1237,15_bone,fakari-,f a k a r i +,,Greenhilletal2008,27,False
 1125-160_painfulsick-1,mafe1237,160_painfulsick,sao,s a o,,Greenhilletal2008,1,False
-1125-162_old-1,mafe1237,162_old,maŋa,m a ŋ a,,Greenhilletal2008,,False
+1125-162_old-1,mafe1237,162_old,maŋa,m a ŋ a,,Greenhilletal2008,142,False
 1125-163_new-1,mafe1237,163_new,lparo,l p a r o,,Greenhilletal2008,"1, 47",False
 1125-164_good-1,mafe1237,164_good,ṭu,ṭ u,,Greenhilletal2008,,False
 1125-165_badevil-1,mafe1237,165_badevil,isati,i s a t i,,Greenhilletal2008,1,False
@@ -4673,11 +4495,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1125-1_hand-1,mafe1237,1_hand,faraŋo,f a r a ŋ o,,Greenhilletal2008,"16, 57",False
 1125-200_four-1,mafe1237,200_four,v̈ati,v a t i,,Greenhilletal2008,"1,65",False
 1125-201_five-1,mafe1237,201_five,lim̈a,l i m a,,Greenhilletal2008,1,False
-1125-202_six-1,mafe1237,202_six,m̈a-rav̈a,m a + r a v a,,Greenhilletal2008,35,False
-1125-203_seven-1,mafe1237,203_seven,rav̈e-rua,r a v e + r u a,,Greenhilletal2008,13,False
-1125-204_eight-1,mafe1237,204_eight,rat-tol,r a t + t o l,,Greenhilletal2008,"5, 7",False
-1125-205_nine-1,mafe1237,205_nine,rap̈-p̈ati,r a p + p a t i,,Greenhilletal2008,20,False
-1125-206_ten-1,mafe1237,206_ten,saŋaβulu,s a ŋ a β u l u,,Greenhilletal2008,5,False
 1125-20_toknowbeknowledgeable-1,mafe1237,20_toknowbeknowledgeable,ntaseia,n t a s e i a,,Greenhilletal2008,45,False
 1125-21_tothink-1,mafe1237,21_tothink,ṭuseia,ṭ u s e i a,,Greenhilletal2008,39?,False
 1125-22_tofear-1,mafe1237,22_tofear,ntau,n t a u,,Greenhilletal2008,1,False
@@ -4707,7 +4524,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1125-45_eye-1,mafe1237,45_eye,mata-,m a t a +,,Greenhilletal2008,1,False
 1125-46_tosee-1,mafe1237,46_tosee,ntaia,n t a i a,,Greenhilletal2008,8,False
 1125-48_tosleep-1,mafe1237,48_tosleep,suruβ,s u r u β,,Greenhilletal2008,32,False
-1125-49_toliedown-1,mafe1237,49_toliedown,lpolipo,l p o l i p o,,Greenhilletal2008,,False
+1125-49_toliedown-1,mafe1237,49_toliedown,lpolipo,l p o l i p o,,Greenhilletal2008,63,False
 1125-4_legfoot-1,mafe1237,4_legfoot,letu-,l e t u +,,Greenhilletal2008,37?,False
 1125-51_tosit-1,mafe1237,51_tosit,to,t o,,Greenhilletal2008,80,False
 1125-52_tostand-1,mafe1237,52_tostand,turi,t u r i,,Greenhilletal2008,"2, 69",False
@@ -4728,7 +4545,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1125-74_tokill-1,mafe1237,74_tokill,lsua,l s u a,,Greenhilletal2008,59,False
 1125-76_tolivebealive-1,mafe1237,76_tolivebealive,m̈auri,m a u r i,,Greenhilletal2008,"1, 76",False
 1125-77_toscratch-1,mafe1237,77_toscratch,arosia,a r o s i a,,Greenhilletal2008,"1, 88",False
-1125-78_tocuthack-1,mafe1237,78_tocuthack,ap̈ea,a p e a,,Greenhilletal2008,100?,False
 1125-79_stickwood-1,mafe1237,79_stickwood,masa,m a s a,,Greenhilletal2008,24,False
 1125-7_tocome-1,mafe1237,7_tocome,m̈a,m a,,Greenhilletal2008,1,False
 1125-80_tosplit-1,mafe1237,80_tosplit,soŋoa,s o ŋ o a,,Greenhilletal2008,54,False
@@ -4836,11 +4652,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1048-1_hand-1,malo1243,1_hand,lima,l i m a,,Greenhilletal2008,"1, 64",False
 1048-200_four-1,malo1243,200_four,a-βati,a + β a t i,,Greenhilletal2008,"1,65",False
 1048-201_five-1,malo1243,201_five,a-lima,a + l i m a,,Greenhilletal2008,1,False
-1048-202_six-1,malo1243,202_six,ayono,a j o n o,,Greenhilletal2008,1,False
-1048-203_seven-1,malo1243,203_seven,a-ᵐbitu,a + ⁿb i t u,,Greenhilletal2008,1,False
-1048-204_eight-1,malo1243,204_eight,a-walu,a + w a l u,,Greenhilletal2008,3,False
-1048-205_nine-1,malo1243,205_nine,a-suwa,a + s u w a,,Greenhilletal2008,5,False
-1048-206_ten-1,malo1243,206_ten,saŋaβulu,s a ŋ a β u l u,,Greenhilletal2008,5,False
 1048-20_toknowbeknowledgeable-1,malo1243,20_toknowbeknowledgeable,roŋoβosai,r o ŋ o β o s a i,,Greenhilletal2008,"19, 90",False
 1048-21_tothink-1,malo1243,21_tothink,domdom,d o m d o m,,Greenhilletal2008,13,False
 1048-22_tofear-1,malo1243,22_tofear,mataxu,m a t a x u,,Greenhilletal2008,1,False
@@ -4896,7 +4707,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1048-75_todiebedead-1,malo1243,75_todiebedead,mate,m a t e,,Greenhilletal2008,1,False
 1048-76_tolivebealive-1,malo1243,76_tolivebealive,mauru,m a u r u,,Greenhilletal2008,"1, 76",False
 1048-77_toscratch-1,malo1243,77_toscratch,xarosi,x a r o s i,,Greenhilletal2008,"1, 88",False
-1048-78_tocuthack-1,malo1243,78_tocuthack,tai,t a i,,Greenhilletal2008,1,False
 1048-79_stickwood-1,malo1243,79_stickwood,sobʷe βuxai,s o bʷ e # β u x a i,,Greenhilletal2008,28,False
 1048-7_tocome-1,malo1243,7_tocome,mai,m a i,,Greenhilletal2008,1,False
 1048-80_tosplit-1,malo1243,80_tosplit,madare,m a d a r e,,Greenhilletal2008,62,False
@@ -4914,7 +4724,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1048-9_toswim-1,malo1243,9_toswim,loloso,l o l o s o,,Greenhilletal2008,8,False
 1318-100_wing-1,malu1245,100_wing,naɣpen,n a ɣ p e n,,Greenhilletal2008,"1, 12",False
 1318-101_tofly-1,malu1245,101_tofly,-ɣiɣamp,+ ɣ i ɣ a m p,,Greenhilletal2008,"14, 78",False
-1318-102_rat-1,malu1245,102_rat,ɣalɪᵐbit͡soŋ,ɣ a l ɪ ⁿb i ts o ŋ,,Greenhilletal2008,,False
+1318-102_rat-1,malu1245,102_rat,ɣalɪᵐbit͡soŋ,ɣ a l ɪ ⁿb i ts o ŋ,,Greenhilletal2008,18,False
 1318-103_meatflesh-1,malu1245,103_meatflesh,ᵐbisɣohina,ⁿb i s ɣ o h i n a,,Greenhilletal2008,10,False
 1318-105_tail-1,malu1245,105_tail,walɣena,w a l ɣ e n a,,Greenhilletal2008,60,False
 1318-106_snake-1,malu1245,106_snake,nə-mat,n ə + m a t,,Greenhilletal2008,12,False
@@ -5002,13 +4812,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1318-1_hand-1,malu1245,1_hand,navɛɾ,n a v ɛ ɾ,,Greenhilletal2008,16,False
 1318-200_four-1,malu1245,200_four,i-vat,i + v a t,,Greenhilletal2008,"1,65",False
 1318-201_five-1,malu1245,201_five,i-lim,i + l i m,,Greenhilletal2008,1,False
-1318-202_six-1,malu1245,202_six,xɔn,x ɔ n,,Greenhilletal2008,1,False
-1318-203_seven-1,malu1245,203_seven,xɛᵐbit,x ɛ ⁿb i t,,Greenhilletal2008,1,False
-1318-204_eight-1,malu1245,204_eight,xuil,x u i l,,Greenhilletal2008,3,False
-1318-205_nine-1,malu1245,205_nine,ɣɛsiv,ɣ ɛ s i v,,Greenhilletal2008,5,False
-1318-206_ten-1,malu1245,206_ten,sɛŋavil,s ɛ ŋ a v i l,,Greenhilletal2008,5,False
-1318-207_twenty-1,malu1245,207_twenty,moviliru,m o v i l i r u,,Greenhilletal2008,"6, 25",False
-1318-209_onehundred-1,malu1245,209_onehundred,movsaŋavil,m o v s a ŋ a v i l,,Greenhilletal2008,41,False
 1318-22_tofear-1,malu1245,22_tofear,-mtaɣut,+ m t a ɣ u t,,Greenhilletal2008,1,False
 1318-23_blood-1,malu1245,23_blood,na-re,n a + r e,,Greenhilletal2008,1,False
 1318-24_head-1,malu1245,24_head,ᵐbat-,ⁿb a t +,,Greenhilletal2008,9,False
@@ -5064,7 +4867,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1318-75_todiebedead-1,malu1245,75_todiebedead,-mɛs,+ m ɛ s,,Greenhilletal2008,1,False
 1318-76_tolivebealive-1,malu1245,76_tolivebealive,-meɾuɸ,+ m e ɾ u ɸ,,Greenhilletal2008,"1, 76",False
 1318-77_toscratch-1,malu1245,77_toscratch,-kʊt͡skʊt͡s,+ k ʊ ts k ʊ ts,,Greenhilletal2008,69,False
-1318-78_tocuthack-1,malu1245,78_tocuthack,-tɪt͡s,+ t ɪ ts,,Greenhilletal2008,29,False
 1318-79_stickwood-1,malu1245,79_stickwood,na-ɣa,n a + ɣ a,,Greenhilletal2008,1,False
 1318-7_tocome-1,malu1245,7_tocome,-ma,+ m a,,Greenhilletal2008,1,False
 1318-81_sharp-1,malu1245,81_sharp,-mʷon,+ mʷ o n,,Greenhilletal2008,24,False
@@ -5121,7 +4923,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 460-12_skin-1,mara1399,12_skin,lil pekən,l i l # p e k ə n,,Greenhilletal2008,104,False
 460-12_skin-2,mara1399,12_skin,nilən,n i l ə n,,Greenhilletal2008,,False
 460-130_star-1,mara1399,130_star,məji,m ə j i,,Greenhilletal2008,13,False
-460-131_cloud-1,mara1399,131_cloud,pekren,p e k r e n,,Greenhilletal2008,,False
+460-131_cloud-1,mara1399,131_cloud,pekren,p e k r e n,,Greenhilletal2008,94,False
 460-132_fog-1,mara1399,132_fog,təngting ne nuis,t ə n g t i n g # n e # n u i s,,Greenhilletal2008,101,False
 460-133_rain-1,mara1399,133_rain,iu,i u,,Greenhilletal2008,1,False
 460-134_thunder-1,mara1399,134_thunder,belevər,b e l e v ə r,,Greenhilletal2008,"15, 38",False
@@ -5207,12 +5009,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 460-1_hand-1,mara1399,1_hand,ləmen,l ə m e n,,Greenhilletal2008,"1, 64",False
 460-200_four-1,mara1399,200_four,ives,i v e s,,Greenhilletal2008,"1,65",False
 460-201_five-1,mara1399,201_five,iləm,i l ə m,,Greenhilletal2008,1,False
-460-202_six-1,mara1399,202_six,ləmjis,l ə m j i s,,Greenhilletal2008,20,False
-460-203_seven-1,mara1399,203_seven,jiru,j i r u,,Greenhilletal2008,2,False
-460-204_eight-1,mara1399,204_eight,jitəl,j i t ə l,,Greenhilletal2008,7,False
-460-205_nine-1,mara1399,205_nine,jevet,j e v e t,,Greenhilletal2008,20?,False
-460-206_ten-1,mara1399,206_ten,isngel,i s n g e l,,Greenhilletal2008,5,False
-460-207_twenty-1,mara1399,207_twenty,ingelru,i n g e l r u,,Greenhilletal2008,9,False
 460-20_toknowbeknowledgeable-1,mara1399,20_toknowbeknowledgeable,rəngdo,r ə n g d o,,Greenhilletal2008,"19, 91",False
 460-21_tothink-1,mara1399,21_tothink,vərəng,v ə r ə n g,,Greenhilletal2008,10,False
 460-22_tofear-1,mara1399,22_tofear,dədəngen,d ə d ə n g e n,,Greenhilletal2008,25,False
@@ -5279,7 +5075,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 460-75_todiebedead-1,mara1399,75_todiebedead,mes,m e s,,Greenhilletal2008,1,False
 460-76_tolivebealive-1,mara1399,76_tolivebealive,jiləp,j i l ə p,,Greenhilletal2008,57,False
 460-77_toscratch-1,mara1399,77_toscratch,xər,x ə r,,Greenhilletal2008,12,False
-460-78_tocuthack-1,mara1399,78_tocuthack,jej,j e j,,Greenhilletal2008,,False
 460-79_stickwood-1,mara1399,79_stickwood,ne,n e,,Greenhilletal2008,1,False
 460-7_tocome-1,mara1399,7_tocome,mo,m o,,Greenhilletal2008,1,False
 460-80_tosplit-1,mara1399,80_tosplit,jej bəri,j e j # b ə r i,,Greenhilletal2008,1,False
@@ -5379,7 +5174,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1583-163_new-1,mari1426,163_new,xaraᵏpʷa,x a r a kpʷ a,,Greenhilletal2008,9,False
 1583-164_good-1,mari1426,164_good,wia,w i a,,Greenhilletal2008,1,False
 1583-165_badevil-1,mari1426,165_badevil,seseta,s e s e t a,,Greenhilletal2008,1,False
-1583-166_correcttrue-1,mari1426,166_correcttrue,harawia,h a r a w i a,,Greenhilletal2008,,False
+1583-166_correcttrue-1,mari1426,166_correcttrue,harawia,h a r a w i a,,Greenhilletal2008,136,False
 1583-167_night-1,mari1426,167_night,ᵑgʷoŋi,ⁿgʷ o ŋ i,,Greenhilletal2008,1,False
 1583-168_day-1,mari1426,168_day,marani,m a r a n i,,Greenhilletal2008,6,False
 1583-169_year-1,mari1426,169_year,tau,t a u,,Greenhilletal2008,1,False
@@ -5416,14 +5211,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1583-1_hand-1,mari1426,1_hand,lima-i,l i m a + i,,Greenhilletal2008,"1, 64",False
 1583-200_four-1,mari1426,200_four,ɸati,ɸ a t i,,Greenhilletal2008,"1,65",False
 1583-201_five-1,mari1426,201_five,taβalima,t a β a l i m a,,Greenhilletal2008,1,False
-1583-202_six-1,mari1426,202_six,laβatea,l a β a t e a,,Greenhilletal2008,20,False
-1583-203_seven-1,mari1426,203_seven,laβarua,l a β a r u a,,Greenhilletal2008,13,False
-1583-204_eight-1,mari1426,204_eight,laβatolu,l a β a t o l u,,Greenhilletal2008,"5,7",False
-1583-205_nine-1,mari1426,205_nine,laβat,l a β a t,,Greenhilletal2008,20,False
-1583-206_ten-1,mari1426,206_ten,saŋʷul,s a ŋʷ u l,,Greenhilletal2008,5,False
-1583-207_twenty-1,mari1426,207_twenty,sawul rua,s a w u l # r u a,,Greenhilletal2008,,False
-1583-208_fifty-1,mari1426,208_fifty,sawul taβalima,s a w u l # t a β a l i m a,,Greenhilletal2008,,False
-1583-209_onehundred-1,mari1426,209_onehundred,ŋʷel ⁿdolu,ŋʷ e l # ⁿd o l u,,Greenhilletal2008,,False
 1583-20_toknowbeknowledgeable-1,mari1426,20_toknowbeknowledgeable,ɣiɣilea,ɣ i ɣ i l e a,,Greenhilletal2008,18,False
 1583-210_onethousand-1,mari1426,210_onethousand,tari,t a r i,,Greenhilletal2008,,False
 1583-21_tothink-1,mari1426,21_tothink,ⁿdoⁿdomana,ⁿd o ⁿd o m a n a,,Greenhilletal2008,13,False
@@ -5488,8 +5275,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1583-75_todiebedead-1,mari1426,75_todiebedead,mate,m a t e,,Greenhilletal2008,1,False
 1583-76_tolivebealive-1,mari1426,76_tolivebealive,awe,a w e,,Greenhilletal2008,58,False
 1583-77_toscratch-1,mari1426,77_toscratch,takaria,t a k a r i a,,Greenhilletal2008,"12,28",False
-1583-78_tocuthack-1,mari1426,78_tocuthack,taia,t a i a,,Greenhilletal2008,1,False
-1583-78_tocuthack-2,mari1426,78_tocuthack,teβe,t e β e,,Greenhilletal2008,40,False
 1583-79_stickwood-1,mari1426,79_stickwood,xaiɣa,x a i ɣ a,,Greenhilletal2008,1,False
 1583-7_tocome-1,mari1426,7_tocome,sumai,s u m a i,,Greenhilletal2008,1,False
 1583-80_tosplit-1,mari1426,80_tosplit,titia,t i t i a,,Greenhilletal2008,6,False
@@ -5552,8 +5337,8 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1412-130_star-2,mask1242,130_star,mʷezɔ,mʷ e z ɔ,,Greenhilletal2008,13,False
 1412-131_cloud-1,mask1242,131_cloud,mariuŋ,m a r i u ŋ,,Greenhilletal2008,34,False
 1412-133_rain-1,mask1242,133_rain,na-us,n a + u s,,Greenhilletal2008,1,False
-1412-134_thunder-1,mask1242,134_thunder,næ-ᵐbʷil urur,n æ + ⁿbʷ i l # u r u r,,Greenhilletal2008,,False
-1412-134_thunder-2,mask1242,134_thunder,næ- pulurur,n æ + # p u l u r u r,,Greenhilletal2008,,False
+1412-134_thunder-1,mask1242,134_thunder,næ-ᵐbʷil urur,n æ + ⁿbʷ i l # u r u r,,Greenhilletal2008,"2,84",False
+1412-134_thunder-2,mask1242,134_thunder,næ- pulurur,n æ + # p u l u r u r,,Greenhilletal2008,"2,84",False
 1412-135_lightning-1,mask1242,135_lightning,kaᵐbil,k a ⁿb i l,,Greenhilletal2008,"26, 70, 71",False
 1412-136_wind-1,mask1242,136_wind,nɛ-lan,n ɛ + l a n,,Greenhilletal2008,"1, 77",False
 1412-137_toblow-1,mask1242,137_toblow,e-vuv,e + v u v,,Greenhilletal2008,4,False
@@ -5624,11 +5409,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1412-1_hand-1,mask1242,1_hand,vɪla-m,v ɪ l a + m,,Greenhilletal2008,16,False
 1412-200_four-1,mask1242,200_four,i-vat,i + v a t,,Greenhilletal2008,"1,65",False
 1412-201_five-1,mask1242,201_five,ɛ-rim,ɛ + r i m,,Greenhilletal2008,1,False
-1412-202_six-1,mask1242,202_six,murɛp-tɛs,m u r ɛ p + t ɛ s,,Greenhilletal2008,20,False
-1412-203_seven-1,mask1242,203_seven,mɪlɛv-ru,m ɪ l ɛ v + r u,,Greenhilletal2008,13,False
-1412-204_eight-1,mask1242,204_eight,mɪlɛv-tor,m ɪ l ɛ v + t o r,,Greenhilletal2008,"5, 7",False
-1412-205_nine-1,mask1242,205_nine,mɪla-pað,m ɪ l a + p a ð,,Greenhilletal2008,20,False
-1412-206_ten-1,mask1242,206_ten,sɪŋavur,s ɪ ŋ a v u r,,Greenhilletal2008,5,False
 1412-22_tofear-1,mask1242,22_tofear,mɪtax,m ɪ t a x,,Greenhilletal2008,1,False
 1412-23_blood-1,mask1242,23_blood,nɪ-nda,n ɪ + n d a,,Greenhilletal2008,1,False
 1412-24_head-1,mask1242,24_head,kaⁿdʳu-m,k a ⁿdʳ u + m,,Greenhilletal2008,28,False
@@ -5688,7 +5468,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1412-75_todiebedead-1,mask1242,75_todiebedead,-mæt,+ m æ t,,Greenhilletal2008,1,False
 1412-76_tolivebealive-1,mask1242,76_tolivebealive,-maur,+ m a u r,,Greenhilletal2008,"1, 76",False
 1412-77_toscratch-1,mask1242,77_toscratch,-harowi,+ h a r o w i,,Greenhilletal2008,"1, 87",False
-1412-78_tocuthack-1,mask1242,78_tocuthack,-tai,+ t a i,,Greenhilletal2008,1,False
 1412-79_stickwood-1,mask1242,79_stickwood,na-xai,n a + x a i,,Greenhilletal2008,1,False
 1412-7_tocome-1,mask1242,7_tocome,ho-mai,h o + m a i,,Greenhilletal2008,1,False
 1412-80_tosplit-1,mask1242,80_tosplit,-tafuli,+ t a f u l i,,Greenhilletal2008,1,False
@@ -5740,7 +5519,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 470-125_salt-1,mere1242,125_salt,manai|solo,m a n a i | s o l o,,Greenhilletal2008,,True
 470-126_lake-1,mere1242,126_lake,tubu,t u b u,,Greenhilletal2008,,False
 470-126_lake-2,mere1242,126_lake,lamma,l a mː a,,Greenhilletal2008,8,False
-470-126_lake-3,mere1242,126_lake,paloai,p a l o a i,,Greenhilletal2008,,False
+470-126_lake-3,mere1242,126_lake,paloai,p a l o a i,,Greenhilletal2008,21,False
 470-127_woodsforest-1,mere1242,127_woodsforest,laduluau,l a d u l u a u,,Greenhilletal2008,61,False
 470-128_sky-1,mere1242,128_sky,laŋot,l a ŋ o t,,Greenhilletal2008,1,False
 470-129_moon-1,mere1242,129_moon,vla,v l a,,Greenhilletal2008,1,False
@@ -5819,13 +5598,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 470-1_hand-1,mere1242,1_hand,lma,l m a,,Greenhilletal2008,"1, 64",False
 470-200_four-1,mere1242,200_four,vat,v a t,,Greenhilletal2008,"1,65",False
 470-201_five-1,mere1242,201_five,lima,l i m a,,Greenhilletal2008,1,False
-470-202_six-1,mere1242,202_six,maravo,m a r a v o,,Greenhilletal2008,35,False
-470-203_seven-1,mere1242,203_seven,ravorua,r a v o r u a,,Greenhilletal2008,"2,4",False
-470-204_eight-1,mere1242,204_eight,raptol,r a p t o l,,Greenhilletal2008,"5,7",False
-470-205_nine-1,mere1242,205_nine,raitat,r a i t a t,,Greenhilletal2008,20,False
-470-206_ten-1,mere1242,206_ten,saŋavul,s a ŋ a v u l,,Greenhilletal2008,5,False
-470-207_twenty-1,mere1242,207_twenty,ŋavul-rua,ŋ a v u l + r u a,,Greenhilletal2008,9,False
-470-209_onehundred-1,mere1242,209_onehundred,lavul,l a v u l,,Greenhilletal2008,23?,False
 470-20_toknowbeknowledgeable-1,mere1242,20_toknowbeknowledgeable,tau|vin,t a u | v i n,,Greenhilletal2008,1,False
 470-21_tothink-1,mere1242,21_tothink,domdom,d o m d o m,,Greenhilletal2008,13,False
 470-22_tofear-1,mere1242,22_tofear,matau,m a t a u,,Greenhilletal2008,1,False
@@ -5885,7 +5657,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 470-75_todiebedead-1,mere1242,75_todiebedead,mate,m a t e,,Greenhilletal2008,1,False
 470-76_tolivebealive-1,mere1242,76_tolivebealive,tabei,t a b e i,,Greenhilletal2008,59,False
 470-77_toscratch-1,mere1242,77_toscratch,garum,g a r u m,,Greenhilletal2008,59,False
-470-78_tocuthack-1,mere1242,78_tocuthack,tevei,t e v e i,,Greenhilletal2008,40,False
 470-79_stickwood-1,mere1242,79_stickwood,wuiau,w u i a u,,Greenhilletal2008,29,False
 470-7_tocome-1,mere1242,7_tocome,sio|ma,s i o | m a,,Greenhilletal2008,1,False
 470-7_tocome-2,mere1242,7_tocome,sa|ma,s a | m a,,Greenhilletal2008,1,False
@@ -5907,7 +5678,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1092-101_tofly-1,mota1237,101_tofly,ɣaβa,ɣ a β a,,Greenhilletal2008,14,False
 1092-102_rat-1,mota1237,102_rat,ɣasuwe,ɣ a s u w e,,Greenhilletal2008,3,False
 1092-103_meatflesh-1,mota1237,103_meatflesh,βisoɣoi,β i s o ɣ o i,,Greenhilletal2008,10,False
-1092-104_fatgrease-1,mota1237,104_fatgrease,wetamurmur,w e t a m u r m u r,,Greenhilletal2008,,False
+1092-104_fatgrease-1,mota1237,104_fatgrease,wetamurmur,w e t a m u r m u r,,Greenhilletal2008,72,False
 1092-105_tail-1,mota1237,105_tail,ɣoloi,ɣ o l o i,,Greenhilletal2008,24,False
 1092-106_snake-1,mota1237,106_snake,mʷata,mʷ a t a,,Greenhilletal2008,12,False
 1092-108_louse-1,mota1237,108_louse,wut,w u t,,Greenhilletal2008,1,False
@@ -5997,11 +5768,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1092-1_hand-1,mota1237,1_hand,pane-k,p a n e + k,,Greenhilletal2008,14,False
 1092-200_four-1,mota1237,200_four,ni-βat,n i + β a t,,Greenhilletal2008,"1,65",False
 1092-201_five-1,mota1237,201_five,taβe-lima,t a β e + l i m a,,Greenhilletal2008,1,False
-1092-202_six-1,mota1237,202_six,laβea-tea,l a β e a + t e a,,Greenhilletal2008,20,False
-1092-203_seven-1,mota1237,203_seven,laβea-rua,l a β e a + r u a,,Greenhilletal2008,13,False
-1092-204_eight-1,mota1237,204_eight,laβea-tol,l a β e a + t o l,,Greenhilletal2008,"5, 7",False
-1092-205_nine-1,mota1237,205_nine,laβea-βat,l a β e a + β a t,,Greenhilletal2008,20,False
-1092-206_ten-1,mota1237,206_ten,saŋaβul,s a ŋ a β u l,,Greenhilletal2008,5,False
 1092-20_toknowbeknowledgeable-1,mota1237,20_toknowbeknowledgeable,ɣilala,ɣ i l a l a,,Greenhilletal2008,18,False
 1092-21_tothink-1,mota1237,21_tothink,nonomia,n o n o m i a,,Greenhilletal2008,13,False
 1092-22_tofear-1,mota1237,22_tofear,xoɣolo,x o ɣ o l o,,Greenhilletal2008,57,False
@@ -6053,7 +5819,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1092-65_rope-1,mota1237,65_rope,ɣae,ɣ a e,,Greenhilletal2008,25,False
 1092-66_totieupfasten-1,mota1237,66_totieupfasten,liɣo,l i ɣ o,,Greenhilletal2008,"1,39",False
 1092-67_tosew-1,mota1237,67_tosew,susur,s u s u r,,Greenhilletal2008,"15, 59",False
-1092-69_tohunt-1,mota1237,69_tohunt,ɣanaɣana,ɣ a n a ɣ a n a,,Greenhilletal2008,,False
+1092-69_tohunt-1,mota1237,69_tohunt,ɣanaɣana,ɣ a n a ɣ a n a,,Greenhilletal2008,59,False
 1092-6_roadpath-1,mota1237,6_roadpath,mate-sala,m a t e + s a l a,,Greenhilletal2008,"1, 43",False
 1092-71_tostabpierce-1,mota1237,71_tostabpierce,sis,s i s,,Greenhilletal2008,1,False
 1092-71_tostabpierce-2,mota1237,71_tostabpierce,as,a s,,Greenhilletal2008,34,False
@@ -6062,7 +5828,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1092-75_todiebedead-1,mota1237,75_todiebedead,mate,m a t e,,Greenhilletal2008,1,False
 1092-76_tolivebealive-1,mota1237,76_tolivebealive,es,e s,,Greenhilletal2008,24,False
 1092-77_toscratch-1,mota1237,77_toscratch,kar,k a r,,Greenhilletal2008,12,False
-1092-78_tocuthack-1,mota1237,78_tocuthack,tara,t a r a,,Greenhilletal2008,1,False
 1092-79_stickwood-1,mota1237,79_stickwood,tan-ɣae,t a n + ɣ a e,,Greenhilletal2008,1,False
 1092-7_tocome-1,mota1237,7_tocome,βa ma,β a # m a,,Greenhilletal2008,"23, 1",False
 1092-80_tosplit-1,mota1237,80_tosplit,xarwora,x a rʷ o r a,,Greenhilletal2008,1,False
@@ -6190,13 +5955,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 376-1_hand-1,motl1237,1_hand,na-mnɪ-k,n a + m n ɪ + k,,Greenhilletal2008,14,False
 376-200_four-1,motl1237,200_four,ßɪ-ßɛt,β ɪ + β ɛ t,,Greenhilletal2008,"1,65",False
 376-201_five-1,motl1237,201_five,tɪßɪlɪm,t ɪ β ɪ l ɪ m,,Greenhilletal2008,1,False
-376-202_six-1,motl1237,202_six,lɛßɛtɛ,l ɛ β ɛ t ɛ,,Greenhilletal2008,20,False
-376-203_seven-1,motl1237,203_seven,lißiyʊ,l i β i j ʊ,,Greenhilletal2008,13,False
-376-204_eight-1,motl1237,204_eight,lɛßɛtɪl,l ɛ β ɛ t ɪ l,,Greenhilletal2008,"5,7",False
-376-205_nine-1,motl1237,205_nine,lɛßɛßɛt,l ɛ β ɛ β ɛ t,,Greenhilletal2008,20,False
-376-206_ten-1,motl1237,206_ten,sɔŋwul,s ɔ ŋʷ u l,,Greenhilletal2008,5,False
-376-207_twenty-1,motl1237,207_twenty,sɔŋwul yʊ,s ɔ ŋʷ u l # j ʊ,,Greenhilletal2008,9,False
-376-209_onehundred-1,motl1237,209_onehundred,ŋmʷɛldɪl ßaɣ-tiwaɣ,ŋ mʷ ɛ l d ɪ l # β a ɣ + t i w a ɣ,,Greenhilletal2008,35,False
 376-20_toknowbeknowledgeable-1,motl1237,20_toknowbeknowledgeable,ɪɣlal,ɪ ɣ l a l,,Greenhilletal2008,18,False
 376-20_toknowbeknowledgeable-2,motl1237,20_toknowbeknowledgeable,nɔ-lɔlmɛyɛn,n ɔ + l ɔ l m ɛ j ɛ n,,Greenhilletal2008,86,False
 376-210_onethousand-1,motl1237,210_onethousand,tɛy ßaɣ-tiwaɣ,t ɛ j # β a ɣ + t i w a ɣ,,Greenhilletal2008,13,False
@@ -6266,7 +6024,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 376-75_todiebedead-1,motl1237,75_todiebedead,mat,m a t,,Greenhilletal2008,1,False
 376-76_tolivebealive-1,motl1237,76_tolivebealive,n-ɪh,n + ɪ h,,Greenhilletal2008,24,False
 376-77_toscratch-1,motl1237,77_toscratch,ɣayɣay,ɣ a j ɣ a j,,Greenhilletal2008,1,False
-376-78_tocuthack-1,motl1237,78_tocuthack,tɔt,t ɔ t,,Greenhilletal2008,3,False
 376-79_stickwood-1,motl1237,79_stickwood,nɪ-kpʷɪtɪnɣɛ,n ɪ + k pʷ ɪ t ɪ n ɣ ɛ,,Greenhilletal2008,1,False
 376-7_tocome-1,motl1237,7_tocome,ßan mɛ,β a n # m ɛ,,Greenhilletal2008,"23,1",False
 376-80_tosplit-1,motl1237,80_tosplit,Vb1 + wɔy, # + # w ɔ j,,Greenhilletal2008,1,False
@@ -6405,13 +6162,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 475-1_hand-1,nama1268,1_hand,lima,l i m a,,Greenhilletal2008,"1, 64",False
 475-200_four-1,nama1268,200_four,ivat,i v a t,,Greenhilletal2008,"1,65",False
 475-201_five-1,nama1268,201_five,ilim,i l i m,,Greenhilletal2008,1,False
-475-202_six-1,nama1268,202_six,lateh,l a t e h,,Greenhilletal2008,20,False
-475-203_seven-1,nama1268,203_seven,laru,l a r u,,Greenhilletal2008,13,False
-475-204_eight-1,nama1268,204_eight,latol,l a t o l,,Greenhilletal2008,"5,7",False
-475-205_nine-1,nama1268,205_nine,lovet,l o v e t,,Greenhilletal2008,20,False
-475-206_ten-1,nama1268,206_ten,na-dualim,n a + d u a l i m,,Greenhilletal2008,4,False
-475-207_twenty-1,nama1268,207_twenty,na-dualim iru,n a + d u a l i m # i r u,,Greenhilletal2008,"3,6",False
-475-209_onehundred-1,nama1268,209_onehundred,na-ponati,n a + p o n a t i,,Greenhilletal2008,29,False
 475-20_toknowbeknowledgeable-1,nama1268,20_toknowbeknowledgeable,'ata',ʔ a t a ʔ,,Greenhilletal2008,35,False
 475-210_onethousand-1,nama1268,210_onethousand,na-man,n a + m a n,,Greenhilletal2008,2,False
 475-21_tothink-1,nama1268,21_tothink,mi|dodo,m i | d o d o,,Greenhilletal2008,"13, 72",False
@@ -6483,7 +6233,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 475-75_todiebedead-1,nama1268,75_todiebedead,mat,m a t,,Greenhilletal2008,1,False
 475-76_tolivebealive-1,nama1268,76_tolivebealive,ma'ir,m a ʔ i r,,Greenhilletal2008,"1, 76",False
 475-77_toscratch-1,nama1268,77_toscratch,ŋerah,ŋ e r a h,,Greenhilletal2008,1?,False
-475-78_tocuthack-1,nama1268,78_tocuthack,da',d a ʔ,,Greenhilletal2008,1,False
 475-79_stickwood-1,nama1268,79_stickwood,ka,k a,,Greenhilletal2008,1,False
 475-7_tocome-1,nama1268,7_tocome,mah,m a h,,Greenhilletal2008,1,False
 475-7_tocome-2,nama1268,7_tocome,dah,d a h,,Greenhilletal2008,30,False
@@ -6613,14 +6362,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1229-1_hand-1,nati1244,1_hand,vara-,v a r a +,,Greenhilletal2008,16,False
 1229-200_four-1,nati1244,200_four,i-vɛs,i + v ɛ s,,Greenhilletal2008,"1,65",False
 1229-201_five-1,nati1244,201_five,i-lim,i + l i m,,Greenhilletal2008,1,False
-1229-202_six-1,nati1244,202_six,seosiʔ,s e o s i ʔ,,Greenhilletal2008,31,False
-1229-203_seven-1,nati1244,203_seven,seoru,s e o r u,,Greenhilletal2008,9,False
-1229-204_eight-1,nati1244,204_eight,seotʉl,s e o t ʉ l,,Greenhilletal2008,"11, 7",False
-1229-205_nine-1,nati1244,205_nine,seove,s e o v e,,Greenhilletal2008,5,False
-1229-206_ten-1,nati1244,206_ten,laŋaβəl,l a ŋ a β ə l,,Greenhilletal2008,"5,8",False
-1229-207_twenty-1,nati1244,207_twenty,morlala ise,m o r l a l a # i s e,,Greenhilletal2008,13,False
-1229-208_fifty-1,nati1244,208_fifty,morlala iru noʔoron i-laŋavəl,m o r l a l a # i r u # n o ʔ o r o n # i + l a ŋ a v ə l,,Greenhilletal2008,,False
-1229-209_onehundred-1,nati1244,209_onehundred,morlala ilim,m o r l a l a # i l i m,,Greenhilletal2008,13,False
 1229-20_toknowbeknowledgeable-1,nati1244,20_toknowbeknowledgeable,-ⁿdʳoŋ-,+ ⁿdʳ o ŋ +,,Greenhilletal2008,19,False
 1229-210_onethousand-1,nati1244,210_onethousand,morlalaʔ ilaŋavəl,m o r l a l a ʔ # i l a ŋ a v ə l,,Greenhilletal2008,39,False
 1229-21_tothink-1,nati1244,21_tothink,-ⁿdʳimⁿdʳim,+ ⁿdʳ i m ⁿdʳ i m,,Greenhilletal2008,13,False
@@ -6685,7 +6426,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1229-75_todiebedead-2,nati1244,75_todiebedead,-mɛs,+ m ɛ s,,Greenhilletal2008,1,False
 1229-76_tolivebealive-1,nati1244,76_tolivebealive,-meor,+ m e o r,,Greenhilletal2008,"1, 76",False
 1229-77_toscratch-1,nati1244,77_toscratch,-ᵑgoi,+ ⁿg o i,,Greenhilletal2008,71,False
-1229-78_tocuthack-1,nati1244,78_tocuthack,-ᵑgurus,+ ⁿg u r u s,,Greenhilletal2008,102,False
 1229-79_stickwood-1,nati1244,79_stickwood,na-ʔai,n a + ʔ a i,,Greenhilletal2008,1,False
 1229-79_stickwood-2,nati1244,79_stickwood,na-ʔai,n a + ʔ a i,,Greenhilletal2008,1,False
 1229-7_tocome-1,nati1244,7_tocome,-ᵐbʷiliŋ,+ ⁿbʷ i l i ŋ,,Greenhilletal2008,25,False
@@ -6763,7 +6503,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 459-151_green-1,nese1235,151_green,nalakhej,n a l a kʰ e j,,Greenhilletal2008,"43,8",False
 459-153_big-1,nese1235,153_big,lab',l a b ʔ,,Greenhilletal2008,10,False
 459-154_short-1,nese1235,154_short,murrol,m u rː o l,,Greenhilletal2008,32,False
-459-155_long-1,nese1235,155_long,darav,d a r a v,,Greenhilletal2008,,False
+459-155_long-1,nese1235,155_long,darav,d a r a v,,Greenhilletal2008,16,False
 459-156_thin-1,nese1235,156_thin,marraj,m a rː a j,,Greenhilletal2008,13,False
 459-15_bone-1,nese1235,15_bone,nejin-,n e j i n +,,Greenhilletal2008,1,False
 459-160_painfulsick-1,nese1235,160_painfulsick,rroj,rː o j,,Greenhilletal2008,32,False
@@ -6800,12 +6540,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 459-1_hand-1,nese1235,1_hand,navarra-,n a v a rː a +,,Greenhilletal2008,16,False
 459-200_four-1,nese1235,200_four,v'at,v ʔ a t,,Greenhilletal2008,"1,65",False
 459-201_five-1,nese1235,201_five,line,l i n e,,Greenhilletal2008,1,False
-459-202_six-1,nese1235,202_six,kh|on,kʰ | o n,,Greenhilletal2008,1,False
-459-203_seven-1,nese1235,203_seven,kho|dit,kʰ o | d i t,,Greenhilletal2008,1,False
-459-204_eight-1,nese1235,204_eight,kho|al,kʰ o | a l,,Greenhilletal2008,3,False
-459-205_nine-1,nese1235,205_nine,khe|sve,kʰ e | s v e,,Greenhilletal2008,5,False
-459-206_ten-1,nese1235,206_ten,sangav'il,s a n g a v ʔ i l,,Greenhilletal2008,5,False
-459-207_twenty-1,nese1235,207_twenty,ngavulrru,n g a v u l rː u,,Greenhilletal2008,9,False
 459-20_toknowbeknowledgeable-1,nese1235,20_toknowbeknowledgeable,rrong usong,rː o n g # u s o n g,,Greenhilletal2008,19,False
 459-21_tothink-1,nese1235,21_tothink,rrumrrum,rː u m rː u m,,Greenhilletal2008,13,False
 459-22_tofear-1,nese1235,22_tofear,lukho,l u kʰ o,,Greenhilletal2008,19,False
@@ -6868,7 +6602,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 459-76_tolivebealive-1,nese1235,76_tolivebealive,norrwo,n o rː w o,,Greenhilletal2008,"1, 76",False
 459-77_toscratch-1,nese1235,77_toscratch,koji,k o j i,,Greenhilletal2008,69,False
 459-77_toscratch-2,nese1235,77_toscratch,kojikoji,k o j i k o j i,,Greenhilletal2008,69,False
-459-78_tocuthack-1,nese1235,78_tocuthack,side,s i d e,,Greenhilletal2008,,False
 459-79_stickwood-1,nese1235,79_stickwood,nakha,n a kʰ a,,Greenhilletal2008,1,False
 459-7_tocome-1,nese1235,7_tocome,ma,m a,,Greenhilletal2008,1,False
 459-80_tosplit-1,nese1235,80_tosplit,tavakh,t a v a kʰ,,Greenhilletal2008,43,False
@@ -6945,11 +6678,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1166-1_hand-1,noku1237,1_hand,lima-ʔu,l i m a + ʔ u,,Greenhilletal2008,"1, 64",False
 1166-200_four-1,noku1237,200_four,βati,β a t i,,Greenhilletal2008,"1,65",False
 1166-201_five-1,noku1237,201_five,lima,l i m a,,Greenhilletal2008,1,False
-1166-202_six-1,noku1237,202_six,ono,o n o,,Greenhilletal2008,1,False
-1166-203_seven-1,noku1237,203_seven,pitu,p i t u,,Greenhilletal2008,1,False
-1166-204_eight-1,noku1237,204_eight,ali,a l i,,Greenhilletal2008,3,False
-1166-205_nine-1,noku1237,205_nine,tˢiwa,ts i w a,,Greenhilletal2008,5,False
-1166-206_ten-1,noku1237,206_ten,sonowul,s o n o w u l,,Greenhilletal2008,5,False
 1166-23_blood-1,noku1237,23_blood,mekeβi-ˀu,m e k e β i + ʔ u,,Greenhilletal2008,52,False
 1166-24_head-1,noku1237,24_head,putu-ʔu,p u t u + ʔ u,,Greenhilletal2008,9,False
 1166-25_neck-1,noku1237,25_neck,alo-ʔu,a l o + ʔ u,,Greenhilletal2008,42,False
@@ -7097,14 +6825,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1659-1_hand-1,nort2836,1_hand,naruna,n a r u n a,,Greenhilletal2008,54,False
 1659-200_four-1,nort2836,200_four,pa:ti,p aː t i,,Greenhilletal2008,"1,65",False
 1659-201_five-1,nort2836,201_five,lima,l i m a,,Greenhilletal2008,1,False
-1659-202_six-1,nort2836,202_six,la:tesa,l aː t e s a,,Greenhilletal2008,20,False
-1659-203_seven-1,nort2836,203_seven,la:rua,l aː r u a,,Greenhilletal2008,13,False
-1659-204_eight-1,nort2836,204_eight,lotolu,l o t o l u,,Greenhilletal2008,"5,7",False
-1659-205_nine-1,nort2836,205_nine,lovɛti,l o v ɛ t i,,Greenhilletal2008,20,False
-1659-206_ten-1,nort2836,206_ten,lualima,l u a l i m a,,Greenhilletal2008,4,False
-1659-207_twenty-1,nort2836,207_twenty,rualima dua,r u a l i m a # d u a,,Greenhilletal2008,,False
-1659-208_fifty-1,nort2836,208_fifty,rualima lima,r u a l i m a # l i m a,,Greenhilletal2008,,False
-1659-209_onehundred-1,nort2836,209_onehundred,ponotia sikaj,p o n o t i a # s i k a j,,Greenhilletal2008,,False
 1659-20_toknowbeknowledgeable-1,nort2836,20_toknowbeknowledgeable,na:atajan,n aː a t a j a n,,Greenhilletal2008,35,False
 1659-210_onethousand-1,nort2836,210_onethousand,maⁿdavilivil,m a ⁿd a v i l i v i l,,Greenhilletal2008,,False
 1659-21_tothink-1,nort2836,21_tothink,e miⁿdoⁿdoa,e # m i ⁿd o ⁿd o a,,Greenhilletal2008,"13, 72",False
@@ -7118,7 +6838,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1659-29_tosniffsmell-1,nort2836,29_tosniffsmell,e sʊiⁿdoŋgea,e # s ʊ i ⁿd o ŋ g e a,,Greenhilletal2008,62,False
 1659-2_left-1,nort2836,2_left,mahu,m a h u,,Greenhilletal2008,"1,59",False
 1659-30_mouth-1,nort2836,30_mouth,naⁿgonena,n a ⁿg o n e n a,,Greenhilletal2008,7,False
-1659-31_tooth-1,nort2836,31_tooth,naᵐ batina,n a � # ⁿb a t i n a,,Greenhilletal2008,6,False
+1659-31_tooth-1,nort2836,31_tooth,na ᵐbatina,n a # ⁿb a t i n a,,Greenhilletal2008,6,False
 1659-32_tongue-1,nort2836,32_tongue,na menana,n a # m e n a n a,,Greenhilletal2008,"7, 40",False
 1659-33_tolaugh-1,nort2836,33_tolaugh,ɛ muru,ɛ # m u r u,,Greenhilletal2008,13,False
 1659-34_tocry-1,nort2836,34_tocry,ɛŋgaj,ɛ ŋ g a j,,Greenhilletal2008,57,False
@@ -7169,7 +6889,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1659-75_todiebedead-1,nort2836,75_todiebedead,ɛmate,ɛ m a t e,,Greenhilletal2008,1,False
 1659-76_tolivebealive-1,nort2836,76_tolivebealive,ɛmaʰuri,ɛ m a h u r i,,Greenhilletal2008,"1, 76",False
 1659-77_toscratch-1,nort2836,77_toscratch,ɛ ŋg̥arokaro,ɛ # ŋ g̊ a r o k a r o,,Greenhilletal2008,44,False
-1659-78_tocuthack-1,nort2836,78_tocuthack,ɛ ⁿdaja,ɛ # ⁿd a j a,,Greenhilletal2008,1,False
 1659-79_stickwood-1,nort2836,79_stickwood,nkahu,n k a h u,,Greenhilletal2008,1,False
 1659-7_tocome-1,nort2836,7_tocome,ka umaj,k a # u m a j,,Greenhilletal2008,1,False
 1659-80_tosplit-1,nort2836,80_tosplit,dajparajun,d a j p a r a j u n,,Greenhilletal2008,1,False
@@ -7281,11 +7000,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1131-1_hand-1,nort2839,1_hand,wera-ŋ,w e r a + ŋ,,Greenhilletal2008,16,False
 1131-200_four-1,nort2839,200_four,wit,w i t,,Greenhilletal2008,"1,65",False
 1131-201_five-1,nort2839,201_five,lim,l i m,,Greenhilletal2008,1,False
-1131-202_six-1,nort2839,202_six,liuse,l i u s e,,Greenhilletal2008,20,False
-1131-203_seven-1,nort2839,203_seven,liu-ru,l i u + r u,,Greenhilletal2008,13,False
-1131-204_eight-1,nort2839,204_eight,liu-sul,l i u + s u l,,Greenhilletal2008,"5, 7",False
-1131-205_nine-1,nort2839,205_nine,lia-fer,l i a + f e r,,Greenhilletal2008,20,False
-1131-206_ten-1,nort2839,206_ten,saŋul,s a ŋ u l,,Greenhilletal2008,5,False
 1131-20_toknowbeknowledgeable-1,nort2839,20_toknowbeknowledgeable,-keia,+ k e i a,,Greenhilletal2008,18,False
 1131-21_tothink-1,nort2839,21_tothink,-ⁿdiⁿdine,+ ⁿd i ⁿd i n e,,Greenhilletal2008,76,False
 1131-22_tofear-1,nort2839,22_tofear,lu-m romœr,l u + m # r o m œ r,,Greenhilletal2008,70,False
@@ -7343,7 +7057,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1131-75_todiebedead-1,nort2839,75_todiebedead,-mæran,+ m æ r a n,,Greenhilletal2008,1,False
 1131-76_tolivebealive-1,nort2839,76_tolivebealive,-mür,+ m u r,,Greenhilletal2008,"1, 76",False
 1131-77_toscratch-1,nort2839,77_toscratch,-karmu,+ k a r m u,,Greenhilletal2008,59,False
-1131-78_tocuthack-1,nort2839,78_tocuthack,-re,+ r e,,Greenhilletal2008,1,False
 1131-79_stickwood-1,nort2839,79_stickwood,ruru-lie,r u r u + l i e,,Greenhilletal2008,28,False
 1131-7_tocome-1,nort2839,7_tocome,-me,+ m e,,Greenhilletal2008,1,False
 1131-80_tosplit-1,nort2839,80_tosplit,-tapa,+ t a p a,,Greenhilletal2008,"4, 6",False
@@ -7444,11 +7157,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1083-1_hand-1,nort2847,1_hand,ne-lma-k,n e + l m a + k,,Greenhilletal2008,"1, 64",False
 1083-200_four-1,nort2847,200_four,kə-wet,k ə + w e t,,Greenhilletal2008,1,False
 1083-201_five-1,nort2847,201_five,kariləm,k a r i l ə m,,Greenhilletal2008,"1,14",False
-1083-202_six-1,nort2847,202_six,kariləm kəčiyah,k a r i l ə m # k ə tʃ i j a h,,Greenhilletal2008,21,False
-1083-203_seven-1,nort2847,203_seven,kariləm kaiu,k a r i l ə m # k a i u,,Greenhilletal2008,,False
-1083-204_eight-1,nort2847,204_eight,kariləm kəsəl,k a r i l ə m # k ə s ə l,,Greenhilletal2008,,False
-1083-205_nine-1,nort2847,205_nine,kariləm kəwet,k a r i l ə m # k ə w e t,,Greenhilletal2008,,False
-1083-206_ten-1,nort2847,206_ten,kariləm kariləm,k a r i l ə m # k a r i l ə m,,Greenhilletal2008,,False
 1083-20_toknowbeknowledgeable-1,nort2847,20_toknowbeknowledgeable,-itun,+ i t u n,,Greenhilletal2008,18,False
 1083-21_tothink-1,nort2847,21_tothink,-atæliŋin,+ a t æ l i ŋ i n,,Greenhilletal2008,19,False
 1083-22_tofear-1,nort2847,22_tofear,-akanaŋən,+ a k a n a ŋ ə n,,Greenhilletal2008,60,False
@@ -7504,7 +7212,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1083-75_todiebedead-1,nort2847,75_todiebedead,-məs,+ m ə s,,Greenhilletal2008,1,False
 1083-76_tolivebealive-1,nort2847,76_tolivebealive,-ameŋah,+ a m e ŋ a h,,Greenhilletal2008,60,False
 1083-77_toscratch-1,nort2847,77_toscratch,-ak,+ a k,,Greenhilletal2008,13,False
-1083-78_tocuthack-1,nort2847,78_tocuthack,-ete,+ e t e,,Greenhilletal2008,1,False
 1083-79_stickwood-1,nort2847,79_stickwood,n-əŋ,n + ə ŋ,,Greenhilletal2008,1,False
 1083-7_tocome-1,nort2847,7_tocome,-ua,+ u a,,Greenhilletal2008,25,False
 1083-80_tosplit-1,nort2847,80_tosplit,-an̥təp,+ a n̥ t ə p,,Greenhilletal2008,98,False
@@ -7565,7 +7272,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1003-143_fire-1,paam1238,143_fire,ahaŋ,a h a ŋ,,Greenhilletal2008,21,False
 1003-144_toburn-1,paam1238,144_toburn,-niti,+ n i t i,,Greenhilletal2008,86,False
 1003-145_smoke-1,paam1238,145_smoke,eas,e a s,,Greenhilletal2008,2,False
-1003-146_ashes-1,paam1238,146_ashes,meneihaŋ,m e n e i h a ŋ,,Greenhilletal2008,,False
+1003-146_ashes-1,paam1238,146_ashes,meneihaŋ,m e n e i h a ŋ,,Greenhilletal2008,109,False
 1003-147_black-1,paam1238,147_black,malikelik,m a l i k e l i k,,Greenhilletal2008,41,False
 1003-148_white-1,paam1238,148_white,muoh,m u o h,,Greenhilletal2008,98,False
 1003-149_red-1,paam1238,149_red,βihili,β i h i l i,,Greenhilletal2008,18,False
@@ -7612,11 +7319,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1003-1_hand-1,paam1238,1_hand,hi-k,h i + k,,Greenhilletal2008,10,False
 1003-200_four-1,paam1238,200_four,e-hat,e + h a t,,Greenhilletal2008,"1,65",False
 1003-201_five-1,paam1238,201_five,e-lim,e + l i m,,Greenhilletal2008,1,False
-1003-202_six-1,paam1238,202_six,ahitai,a h i t a i,,Greenhilletal2008,20,False
-1003-203_seven-1,paam1238,203_seven,ou-lu,o u + l u,,Greenhilletal2008,2,False
-1003-204_eight-1,paam1238,204_eight,ou-tel,o u + t e l,,Greenhilletal2008,7,False
-1003-205_nine-1,paam1238,205_nine,ou-hat,o u + h a t,,Greenhilletal2008,20,False
-1003-206_ten-1,paam1238,206_ten,halualim,h a l u a l i m,,Greenhilletal2008,4,False
 1003-20_toknowbeknowledgeable-1,paam1238,20_toknowbeknowledgeable,-kilea,+ k i l e a,,Greenhilletal2008,18,False
 1003-21_tothink-1,paam1238,21_tothink,-reⁿdem,+ r e ⁿd e m,,Greenhilletal2008,13,False
 1003-22_tofear-1,paam1238,22_tofear,-metau,+ m e t a u,,Greenhilletal2008,1,False
@@ -7674,7 +7376,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1003-75_todiebedead-1,paam1238,75_todiebedead,-mat,+ m a t,,Greenhilletal2008,1,False
 1003-76_tolivebealive-1,paam1238,76_tolivebealive,-moul,+ m o u l,,Greenhilletal2008,"1, 76",False
 1003-77_toscratch-1,paam1238,77_toscratch,-kali,+ k a l i,,Greenhilletal2008,12,False
-1003-78_tocuthack-1,paam1238,78_tocuthack,-tei,+ t e i,,Greenhilletal2008,1,False
 1003-79_stickwood-1,paam1238,79_stickwood,maβuliai,m a β u l i a i,,Greenhilletal2008,28,False
 1003-7_tocome-1,paam1238,7_tocome,-amai,+ a m a i,,Greenhilletal2008,1,False
 1003-80_tosplit-1,paam1238,80_tosplit,-bas,+ b a s,,Greenhilletal2008,,False
@@ -7777,14 +7478,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1321-1_hand-1,port1285,1_hand,vea-,v e a +,,Greenhilletal2008,"16,72",False
 1321-200_four-1,port1285,200_four,ɛ-vaʧ,ɛ + v a tʃ,,Greenhilletal2008,"1,65",False
 1321-201_five-1,port1285,201_five,ɛ-rim,ɛ + r i m,,Greenhilletal2008,1,False
-1321-202_six-1,port1285,202_six,ɛ-moʧukai,ɛ + m o tʃ u k a i,,Greenhilletal2008,29,False
-1321-203_seven-1,port1285,203_seven,ɛ-moɣʉ,ɛ + m o ɣ ʉ,,Greenhilletal2008,,False
-1321-204_eight-1,port1285,204_eight,ɛ-moɣuroi,ɛ + m o ɣ u r o i,,Greenhilletal2008,27,False
-1321-205_nine-1,port1285,205_nine,ɛ-moɣupaʧ,ɛ + m o ɣ u p a tʃ,,Greenhilletal2008,20,False
-1321-206_ten-1,port1285,206_ten,e-sɪŋeaβ,e + s ɪ ŋ e a β,,Greenhilletal2008,5,False
-1321-208_fifty-1,port1285,208_fifty,baleʉ,b a l e ʉ,,Greenhilletal2008,,False
-1321-208_fifty-2,port1285,208_fifty,baleʉ,b a l e ʉ,,Greenhilletal2008,,False
-1321-209_onehundred-1,port1285,209_onehundred,belerim,b e l e r i m,,Greenhilletal2008,,False
 1321-210_onethousand-1,port1285,210_onethousand,balesɪŋeaɸ,b a l e s ɪ ŋ e a ɸ,,Greenhilletal2008,,False
 1321-22_tofear-1,port1285,22_tofear,marax,m a r a x,,Greenhilletal2008,1,False
 1321-23_blood-1,port1285,23_blood,na-ⁿdʳe,n a + ⁿdʳ e,,Greenhilletal2008,1,False
@@ -7837,7 +7530,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1321-75_todiebedead-1,port1285,75_todiebedead,-mɛʧ,+ m ɛ tʃ,,Greenhilletal2008,1,False
 1321-76_tolivebealive-1,port1285,76_tolivebealive,-maur,+ m a u r,,Greenhilletal2008,"1, 76",False
 1321-77_toscratch-1,port1285,77_toscratch,-kalumi,+ k a l u m i,,Greenhilletal2008,59,False
-1321-78_tocuthack-1,port1285,78_tocuthack,-ʧavi,+ tʃ a v i,,Greenhilletal2008,40,False
 1321-79_stickwood-1,port1285,79_stickwood,na-ɣai,n a + ɣ a i,,Greenhilletal2008,1,False
 1321-7_tocome-1,port1285,7_tocome,-vanim,+ v a n i m,,Greenhilletal2008,"1, 23",False
 1321-80_tosplit-1,port1285,80_tosplit,-tepai,+ t e p a i,,Greenhilletal2008,"4, 6",False
@@ -7951,12 +7643,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1246-1_hand-1,rere1240,1_hand,fɛra-,f ɛ r a +,,Greenhilletal2008,16,False
 1246-200_four-1,rere1240,200_four,xɛβɛt͡ʃ,x ɛ β ɛ tʃ,,Greenhilletal2008,"1,65",False
 1246-201_five-1,rere1240,201_five,xerim xeʒim,x e r i m # x e ʒ i m,,Greenhilletal2008,1,False
-1246-202_six-1,rere1240,202_six,ruptes,r u p t e s,,Greenhilletal2008,20,False
-1246-203_seven-1,rere1240,203_seven,ruβru,r u β r u,,Greenhilletal2008,13,False
-1246-204_eight-1,rere1240,204_eight,ruptos,r u p t o s,,Greenhilletal2008,24,False
-1246-206_ten-1,rere1240,206_ten,saŋaβʊl,s a ŋ a β ʊ l,,Greenhilletal2008,5,False
-1246-207_twenty-1,rere1240,207_twenty,naβulgeru,n a β u l g e r u,,Greenhilletal2008,9,False
-1246-209_onehundred-1,rere1240,209_onehundred,nugutvarsoɣo,n u g u t v a r s o ɣ o,,Greenhilletal2008,"12, 45",False
 1246-20_toknowbeknowledgeable-1,rere1240,20_toknowbeknowledgeable,-rok-,+ r o k +,,Greenhilletal2008,19,False
 1246-210_onethousand-1,rere1240,210_onethousand,ɣutɣut͡sarvaɣsoxo,ɣ u t ɣ u ts a r v a ɣ s o x o,,Greenhilletal2008,40,False
 1246-210_onethousand-2,rere1240,210_onethousand,wutwutt͡sarvaxsoɣo,w u tʷ u t ts a r v a x s o ɣ o,,Greenhilletal2008,40,False
@@ -8014,7 +7700,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1246-75_todiebedead-1,rere1240,75_todiebedead,-met͡ʃ,+ m e tʃ,,Greenhilletal2008,1,False
 1246-76_tolivebealive-1,rere1240,76_tolivebealive,-maur,+ m a u r,,Greenhilletal2008,"1, 76",False
 1246-77_toscratch-1,rere1240,77_toscratch,-topei,+ t o p e i,,Greenhilletal2008,,False
-1246-78_tocuthack-1,rere1240,78_tocuthack,-te,+ t e,,Greenhilletal2008,1,False
 1246-79_stickwood-1,rere1240,79_stickwood,ni-gɛ,n i + g ɛ,,Greenhilletal2008,1,False
 1246-7_tocome-1,rere1240,7_tocome,-finɛ,+ f i n ɛ,,Greenhilletal2008,23,False
 1246-80_tosplit-1,rere1240,80_tosplit,-tɛvarei,+ t ɛ v a r e i,,Greenhilletal2008,1,False
@@ -8129,7 +7814,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 643-180_far-1,saaa1241,180_far,reôtêtê,r e oː t eː t eː,,Greenhilletal2008,,False
 643-181_where-1,saaa1241,181_where,bê,b eː,,Greenhilletal2008,3?,False
 643-182_i-1,saaa1241,182_i,nê,n eː,,Greenhilletal2008,"1,21,22",False
-643-183_thou-1,saaa1241,183_thou,o,o,,Greenhilletal2008,,False
+643-183_thou-1,saaa1241,183_thou,o,o,,Greenhilletal2008,1,False
 643-184_heshe-1,saaa1241,184_heshe,i,i,,Greenhilletal2008,1,False
 643-186_you-1,saaa1241,186_you,gimi,g i m i,,Greenhilletal2008,"1,13",False
 643-186_you-2,saaa1241,186_you,-gmi,+ g m i,,Greenhilletal2008,"1,13",False
@@ -8151,15 +7836,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 643-1_hand-2,saaa1241,1_hand,kêlênra-,k eː l eː n r a +,,Greenhilletal2008,16,False
 643-200_four-1,saaa1241,200_four,-êt,+ eː t,,Greenhilletal2008,"1,65",False
 643-201_five-1,saaa1241,201_five,-lim,+ l i m,,Greenhilletal2008,1,False
-643-202_six-1,saaa1241,202_six,-lijia,+ l i j i a,,Greenhilletal2008,20,False
-643-202_six-2,saaa1241,202_six,-lesu,+ l e s u,,Greenhilletal2008,20?,False
-643-203_seven-1,saaa1241,203_seven,-lêôru,+ l eː oː r u,,Greenhilletal2008,13,False
-643-204_eight-1,saaa1241,204_eight,-lêtêl,+ l eː t eː l,,Greenhilletal2008,"5,7",False
-643-205_nine-1,saaa1241,205_nine,-liapat,+ l i a p a t,,Greenhilletal2008,20,False
-643-206_ten-1,saaa1241,206_ten,sôngul,s oː n g u l,,Greenhilletal2008,5,False
-643-207_twenty-1,saaa1241,207_twenty,nul be-ru,n u l # b e + r u,,Greenhilletal2008,9,False
-643-209_onehundred-1,saaa1241,209_onehundred,nul sôngul su,n u l # s oː n g u l # s u,,Greenhilletal2008,17,False
-643-209_onehundred-2,saaa1241,209_onehundred,môrôban,m oː r oː b a n,,Greenhilletal2008,13,False
 643-20_toknowbeknowledgeable-1,saaa1241,20_toknowbeknowledgeable,-klê,+ k l eː,,Greenhilletal2008,18,False
 643-210_onethousand-1,saaa1241,210_onethousand,mamtar,m a m t a r,,Greenhilletal2008,10?,False
 643-21_tothink-1,saaa1241,21_tothink,-dmê,+ d m eː,,Greenhilletal2008,13,False
@@ -8239,7 +7915,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 643-75_todiebedead-1,saaa1241,75_todiebedead,mat,m a t,,Greenhilletal2008,1,False
 643-76_tolivebealive-1,saaa1241,76_tolivebealive,mur,m u r,,Greenhilletal2008,"1, 76",False
 643-77_toscratch-1,saaa1241,77_toscratch,-krumsê,+ k r u m s eː,,Greenhilletal2008,,False
-643-78_tocuthack-1,saaa1241,78_tocuthack,-dê,+ d eː,,Greenhilletal2008,1,False
 643-7_tocome-1,saaa1241,7_tocome,-ma,+ m a,,Greenhilletal2008,1,False
 643-7_tocome-2,saaa1241,7_tocome,bama,b a m a,,Greenhilletal2008,"23, 1",False
 643-80_tosplit-1,saaa1241,80_tosplit,-gbwasê,+ g bʷ a s eː,,Greenhilletal2008,4?,False
@@ -8486,14 +8161,13 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 230-6_roadpath-1,saka1289,6_roadpath,hal,h a l,,Greenhilletal2008,1,False
 230-70_toshoot-1,saka1289,70_toshoot,sɔn,s ɔ n,,Greenhilletal2008,,False
 230-71_tostabpierce-1,saka1289,71_tostabpierce,sy,s j,,Greenhilletal2008,"1, 8",False
-230-72_tohit-1,saka1289,72_tohit,rɒs,r ɒ s,,Greenhilletal2008,,False
+230-72_tohit-1,saka1289,72_tohit,rɒs,r ɒ s,,Greenhilletal2008,94,False
 230-73_tosteal-1,saka1289,73_tosteal,kysø,k j s ø,,Greenhilletal2008,50,False
 230-73_tosteal-2,saka1289,73_tosteal,kɛsø,k ɛ s ø,,Greenhilletal2008,50,False
 230-74_tokill-1,saka1289,74_tokill,jil sœβ,j i l # s œ β,,Greenhilletal2008,,False
 230-75_todiebedead-1,saka1289,75_todiebedead,nɛð,n ɛ ð,,Greenhilletal2008,1,False
 230-76_tolivebealive-1,saka1289,76_tolivebealive,hɛ,h ɛ,,Greenhilletal2008,58,False
 230-77_toscratch-1,saka1289,77_toscratch,kœrœð,k œ r œ ð,,Greenhilletal2008,44,False
-230-78_tocuthack-1,saka1289,78_tocuthack,to,t o,,Greenhilletal2008,1,False
 230-79_stickwood-1,saka1289,79_stickwood,mas,m a s,,Greenhilletal2008,24,False
 230-7_tocome-1,saka1289,7_tocome,lam,l a m,,Greenhilletal2008,"1,25",False
 230-80_tosplit-1,saka1289,80_tosplit,sar,s a r,,Greenhilletal2008,,False
@@ -8513,7 +8187,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 230-92_toopenuncover-1,saka1289,92_toopenuncover,wu,w u,,Greenhilletal2008,1,False
 230-94_tothrow-1,saka1289,94_tothrow,pɨtjø,p ɨ t j ø,,Greenhilletal2008,135,False
 230-95_tofall-1,saka1289,95_tofall,ʀer,ʀ e r,,Greenhilletal2008,13,False
-230-96_dog-1,saka1289,96_dog,rɛwyr,r ɛ w j r,,Greenhilletal2008,,False
+230-96_dog-1,saka1289,96_dog,rɛwyr,r ɛ w j r,,Greenhilletal2008,"7,75,80",False
 230-97_bird-1,saka1289,97_bird,nɛs,n ɛ s,,Greenhilletal2008,24,False
 230-98_egg-1,saka1289,98_egg,atɨly-ɣ,a t ɨ l y + ɣ,,Greenhilletal2008,1,False
 230-98_egg-2,saka1289,98_egg,atœlœ-n,a t œ l œ + n,,Greenhilletal2008,1,False
@@ -8562,7 +8236,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 645-131_cloud-1,seke1241,131_cloud,bni azav,b n i # a z a v,,Greenhilletal2008,1,False
 645-132_fog-1,seke1241,132_fog,kav,k a v,,Greenhilletal2008,1,False
 645-133_rain-1,seke1241,133_rain,ôh,oː h,,Greenhilletal2008,1,False
-645-134_thunder-1,seke1241,134_thunder,vwetrurvar,vʷ e t r u r v a r,,Greenhilletal2008,,False
+645-134_thunder-1,seke1241,134_thunder,vwetrurvar,vʷ e t r u r v a r,,Greenhilletal2008,84,False
 645-135_lightning-1,seke1241,135_lightning,bêl,b eː l,,Greenhilletal2008,26,False
 645-136_wind-1,seke1241,136_wind,leŋ,l e ŋ,,Greenhilletal2008,"1, 77",False
 645-137_toblow-1,seke1241,137_toblow,riv,r i v,,Greenhilletal2008,40,False
@@ -8643,15 +8317,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 645-1_hand-1,seke1241,1_hand,ŋiê-,ŋ i eː +,,Greenhilletal2008,27,False
 645-200_four-1,seke1241,200_four,aviêt,a v i eː t,,Greenhilletal2008,"1,65",False
 645-201_five-1,seke1241,201_five,alim,a l i m,,Greenhilletal2008,1,False
-645-202_six-1,seke1241,202_six,lavwal,l a vʷ a l,,Greenhilletal2008,15,False
-645-202_six-2,seke1241,202_six,lavial,l a v i a l,,Greenhilletal2008,15,False
-645-203_seven-1,seke1241,203_seven,livru,l i v r u,,Greenhilletal2008,13,False
-645-204_eight-1,seke1241,204_eight,liptôl,l i p t oː l,,Greenhilletal2008,"5,7",False
-645-205_nine-1,seke1241,205_nine,liapet,l i a p e t,,Greenhilletal2008,20,False
-645-206_ten-1,seke1241,206_ten,sebrenok,s e b r e n o k,,Greenhilletal2008,14,False
-645-207_twenty-1,seke1241,207_twenty,mavwul aru,m a vʷ u l # a r u,,Greenhilletal2008,9,False
-645-209_onehundred-1,seke1241,209_onehundred,mavwul sebrenok,m a vʷ u l # s e b r e n o k,,Greenhilletal2008,18,False
-645-209_onehundred-2,seke1241,209_onehundred,amrôb,a m r oː b,,Greenhilletal2008,19,False
 645-20_toknowbeknowledgeable-1,seke1241,20_toknowbeknowledgeable,-glia,+ g l i a,,Greenhilletal2008,18,False
 645-210_onethousand-1,seke1241,210_onethousand,atar,a t a r,,Greenhilletal2008,13,False
 645-21_tothink-1,seke1241,21_tothink,dodme,d o d m e,,Greenhilletal2008,13,False
@@ -8723,8 +8388,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 645-75_todiebedead-1,seke1241,75_todiebedead,mat,m a t,,Greenhilletal2008,1,False
 645-76_tolivebealive-1,seke1241,76_tolivebealive,mur,m u r,,Greenhilletal2008,"1, 76",False
 645-77_toscratch-1,seke1241,77_toscratch,gavre,g a v r e,,Greenhilletal2008,,False
-645-78_tocuthack-1,seke1241,78_tocuthack,dal,d a l,,Greenhilletal2008,1,False
-645-78_tocuthack-2,seke1241,78_tocuthack,dalê,d a l eː,,Greenhilletal2008,38,False
 645-79_stickwood-1,seke1241,79_stickwood,undia,u n d i a,,Greenhilletal2008,1,False
 645-7_tocome-1,seke1241,7_tocome,me,m e,,Greenhilletal2008,1,False
 645-80_tosplit-1,seke1241,80_tosplit,dalpre,d a l p r e,,Greenhilletal2008,"1,62",False
@@ -8855,11 +8518,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 463-1_hand-1,siee1239,1_hand,noru-,n o r u +,,Greenhilletal2008,32,False
 463-200_four-1,siee1239,200_four,ndvat,n d v a t,,Greenhilletal2008,1,False
 463-201_five-1,siee1239,201_five,sukrim,s u k r i m,,Greenhilletal2008,"1, 13",False
-463-202_six-1,siee1239,202_six,mehikai,m e h i k a i,,Greenhilletal2008,9,False
-463-203_seven-1,siee1239,203_seven,sukrimnduru,s u k r i m n d u r u,,Greenhilletal2008,,False
-463-204_eight-1,siee1239,204_eight,sukrimndehel,s u k r i m n d e h e l,,Greenhilletal2008,,False
-463-205_nine-1,siee1239,205_nine,sukrimendvat,s u k r i m e n d v a t,,Greenhilletal2008,,False
-463-206_ten-1,siee1239,206_ten,narwolem,n a rʷ o l e m,,Greenhilletal2008,4,False
 463-20_toknowbeknowledgeable-1,siee1239,20_toknowbeknowledgeable,okili,o k i l i,,Greenhilletal2008,18,False
 463-21_tothink-1,siee1239,21_tothink,taru,t a r u,,Greenhilletal2008,35,False
 463-22_tofear-1,siee1239,22_tofear,emtitoŋi,e m t i t o ŋ i,,Greenhilletal2008,1,False
@@ -8928,7 +8586,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 463-75_todiebedead-1,siee1239,75_todiebedead,mah,m a h,,Greenhilletal2008,1,False
 463-76_tolivebealive-1,siee1239,76_tolivebealive,omurep,o m u r e p,,Greenhilletal2008,"1, 76",False
 463-77_toscratch-1,siee1239,77_toscratch,orei,o r e i,,Greenhilletal2008,74,False
-463-78_tocuthack-1,siee1239,78_tocuthack,etai,e t a i,,Greenhilletal2008,1,False
 463-79_stickwood-1,siee1239,79_stickwood,nei,n e i,,Greenhilletal2008,1,False
 463-7_tocome-1,siee1239,7_tocome,velam,v e l a m,,Greenhilletal2008,"1,25",False
 463-7_tocome-2,siee1239,7_tocome,velom,v e l o m,,Greenhilletal2008,"1,25",False
@@ -9059,16 +8716,9 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 322-198_two-1,sout2856,198_two,inru,i n r u,,Greenhilletal2008,1,False
 322-199_three-1,sout2856,199_three,itol,i t o l,,Greenhilletal2008,1,False
 322-19_shoulder-1,sout2856,19_shoulder,npam,n p a m,,Greenhilletal2008,79,False
-322-1_hand-1,sout2856,1_hand,nar,n a r,,Greenhilletal2008,54,False
+322-1_hand-1,sout2856,1_hand,nar,n a r,,Greenhilletal2008,"13,103",False
 322-200_four-1,sout2856,200_four,ipat,i p a t,,Greenhilletal2008,"1,65",False
 322-201_five-1,sout2856,201_five,ilim,i l i m,,Greenhilletal2008,1,False
-322-202_six-1,sout2856,202_six,ilates,i l a t e s,,Greenhilletal2008,20,False
-322-203_seven-1,sout2856,203_seven,ilaru,i l a r u,,Greenhilletal2008,13,False
-322-204_eight-1,sout2856,204_eight,ilatol,i l a t o l,,Greenhilletal2008,"5, 7",False
-322-205_nine-1,sout2856,205_nine,ilfot,i l f o t,,Greenhilletal2008,20,False
-322-206_ten-1,sout2856,206_ten,ralim,r a l i m,,Greenhilletal2008,4,False
-322-207_twenty-1,sout2856,207_twenty,ralim inru,r a l i m # i n r u,,Greenhilletal2008,"3,6",False
-322-209_onehundred-1,sout2856,209_onehundred,tifli,t i f l i,,Greenhilletal2008,25,False
 322-20_toknowbeknowledgeable-1,sout2856,20_toknowbeknowledgeable,tae,t a e,,Greenhilletal2008,35,False
 322-210_onethousand-1,sout2856,210_onethousand,p̃on,p o n,,Greenhilletal2008,22?,False
 322-21_tothink-1,sout2856,21_tothink,mro,m r o,,Greenhilletal2008,"13, 72",False
@@ -9132,7 +8782,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 322-75_todiebedead-1,sout2856,75_todiebedead,mat,m a t,,Greenhilletal2008,1,False
 322-76_tolivebealive-1,sout2856,76_tolivebealive,m̃ol,m o l,,Greenhilletal2008,"1, 76",False
 322-77_toscratch-1,sout2856,77_toscratch,kar,k a r,,Greenhilletal2008,12,False
-322-78_tocuthack-1,sout2856,78_tocuthack,tai,t a i,,Greenhilletal2008,1,False
 322-79_stickwood-1,sout2856,79_stickwood,nra nkas,n r a # n k a s,,Greenhilletal2008,1,False
 322-7_tocome-1,sout2856,7_tocome,mai,m a i,,Greenhilletal2008,1,False
 322-80_tosplit-1,sout2856,80_tosplit,pkafu,p k a f u,,Greenhilletal2008,,False
@@ -9148,7 +8797,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 322-90_todig-1,sout2856,90_todig,kil,k i l,,Greenhilletal2008,1,False
 322-91_tobuy-1,sout2856,91_tobuy,pakot,p a k o t,,Greenhilletal2008,9,False
 322-92_toopenuncover-1,sout2856,92_toopenuncover,p̃elgat,p e l g a t,,Greenhilletal2008,13,False
-322-94_tothrow-1,sout2856,94_tothrow,nep,n e p,,Greenhilletal2008,,False
+322-94_tothrow-1,sout2856,94_tothrow,nep,n e p,,Greenhilletal2008,54,False
 322-95_tofall-1,sout2856,95_tofall,tarup̃,t a r u p,,Greenhilletal2008,96,False
 322-96_dog-1,sout2856,96_dog,kori,k o r i,,Greenhilletal2008,7,False
 322-97_bird-1,sout2856,97_bird,man,m a n,,Greenhilletal2008,1,False
@@ -9256,14 +8905,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 453-1_hand-1,sout2857,1_hand,ßara-,β a r a +,,Greenhilletal2008,16,False
 453-200_four-1,sout2857,200_four,ves,v e s,,Greenhilletal2008,"1,65",False
 453-201_five-1,sout2857,201_five,lim,l i m,,Greenhilletal2008,1,False
-453-202_six-1,sout2857,202_six,sow-siq,s o w + s i q,,Greenhilletal2008,31?,False
-453-203_seven-1,sout2857,203_seven,sow-ru,s o w + r u,,Greenhilletal2008,9,False
-453-204_eight-1,sout2857,204_eight,sow-tul,s o w + t u l,,Greenhilletal2008,"11,7",False
-453-205_nine-1,sout2857,205_nine,sow-vey,s o w + v e j,,Greenhilletal2008,5,False
-453-206_ten-1,sout2857,206_ten,laŋavul,l a ŋ a v u l,,Greenhilletal2008,"5,8",False
-453-207_twenty-1,sout2857,207_twenty,morlalaʔ,m o r l a l a ʔ,,Greenhilletal2008,13,False
-453-208_fifty-1,sout2857,208_fifty,morlalaʔ iru noʔoron ilaŋavul,m o r l a l a ʔ # i r u # n o ʔ o r o n # i l a ŋ a v u l,,Greenhilletal2008,,False
-453-209_onehundred-1,sout2857,209_onehundred,morlalaʔ ilim,m o r l a l a ʔ # i l i m,,Greenhilletal2008,13,False
 453-20_toknowbeknowledgeable-1,sout2857,20_toknowbeknowledgeable,roŋhur,r o ŋ h u r,,Greenhilletal2008,"19, 92",False
 453-21_tothink-1,sout2857,21_tothink,ndimndim,n d i m n d i m,,Greenhilletal2008,13,False
 453-22_tofear-1,sout2857,22_tofear,mataʔ,m a t a ʔ,,Greenhilletal2008,1,False
@@ -9330,7 +8971,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 453-75_todiebedead-1,sout2857,75_todiebedead,mes,m e s,,Greenhilletal2008,1,False
 453-76_tolivebealive-1,sout2857,76_tolivebealive,mewur,m e w u r,,Greenhilletal2008,"1, 76",False
 453-77_toscratch-1,sout2857,77_toscratch,ŋgarum,ŋ g a r u m,,Greenhilletal2008,59,False
-453-78_tocuthack-1,sout2857,78_tocuthack,terej,t e r e j,,Greenhilletal2008,1,False
 453-79_stickwood-1,sout2857,79_stickwood,naʔaj,n a ʔ a j,,Greenhilletal2008,1,False
 453-7_tocome-1,sout2857,7_tocome,ßweleŋ,β w e l e ŋ,,Greenhilletal2008,25,False
 453-80_tosplit-1,sout2857,80_tosplit,tarpor,t a r p o r,,Greenhilletal2008,1,False
@@ -9419,7 +9059,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1142-169_year-1,sout2859,169_year,huram,h u r a m,,Greenhilletal2008,30,False
 1142-16_intestines-1,sout2859,16_intestines,tino-x,t i n o + x,,Greenhilletal2008,1,False
 1142-170_when-1,sout2859,170_when,βiliah,β i l i a h,,Greenhilletal2008,74,False
-1142-179_near-1,sout2859,179_near,saŋas,s a ŋ a s,,Greenhilletal2008,,False
+1142-179_near-1,sout2859,179_near,saŋas,s a ŋ a s,,Greenhilletal2008,90,False
 1142-17_liver-1,sout2859,17_liver,liet no-x,l i e t # n o + x,,Greenhilletal2008,38,False
 1142-181_where-1,sout2859,181_where,iᵐbe,i ⁿb e,,Greenhilletal2008,3,False
 1142-182_i-1,sout2859,182_i,inau,i n a u,,Greenhilletal2008,"1,21,22",False
@@ -9440,11 +9080,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1142-1_hand-1,sout2859,1_hand,heo-x,h e o + x,,Greenhilletal2008,"16,72",False
 1142-200_four-1,sout2859,200_four,hat,h a t,,Greenhilletal2008,"1,65",False
 1142-201_five-1,sout2859,201_five,lim,l i m,,Greenhilletal2008,1,False
-1142-202_six-1,sout2859,202_six,tehetisaβ,t e h e t i s a β,,Greenhilletal2008,42,False
-1142-203_seven-1,sout2859,203_seven,luhetisaβ,l u h e t i s a β,,Greenhilletal2008,28,False
-1142-204_eight-1,sout2859,204_eight,tolhetisaβ,t o lʰ e t i s a β,,Greenhilletal2008,14,False
-1142-205_nine-1,sout2859,205_nine,hathetisaβ,h a tʰ e t i s a β,,Greenhilletal2008,30,False
-1142-206_ten-1,sout2859,206_ten,hexalu,h e x a l u,,Greenhilletal2008,5,False
 1142-20_toknowbeknowledgeable-1,sout2859,20_toknowbeknowledgeable,-kila,+ k i l a,,Greenhilletal2008,18,False
 1142-21_tothink-1,sout2859,21_tothink,-nenemi,+ n e n e m i,,Greenhilletal2008,28,False
 1142-22_tofear-1,sout2859,22_tofear,ulu-x kakan,u l u + x # k a k a n,,Greenhilletal2008,71,False
@@ -9501,7 +9136,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1142-75_todiebedead-1,sout2859,75_todiebedead,-mæt,+ m æ t,,Greenhilletal2008,1,False
 1142-76_tolivebealive-1,sout2859,76_tolivebealive,-meul,+ m e u l,,Greenhilletal2008,"1, 76",False
 1142-77_toscratch-1,sout2859,77_toscratch,-kale,+ k a l e,,Greenhilletal2008,12,False
-1142-78_tocuthack-1,sout2859,78_tocuthack,-tei,+ t e i,,Greenhilletal2008,1,False
 1142-79_stickwood-1,sout2859,79_stickwood,liei,l i e i,,Greenhilletal2008,28,False
 1142-7_tocome-1,sout2859,7_tocome,-amai,+ a m a i,,Greenhilletal2008,1,False
 1142-80_tosplit-1,sout2859,80_tosplit,-taxotehi,+ t a x o t e h i,,Greenhilletal2008,6,False
@@ -9599,9 +9233,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1043-1_hand-1,sout2869,1_hand,kʷa-lmə-k,kʷ a + l m ə + k,,Greenhilletal2008,"1, 64",False
 1043-200_four-1,sout2869,200_four,ku-was,k u + w a s,,Greenhilletal2008,"1,65",False
 1043-201_five-1,sout2869,201_five,kəlkəlip,k ə l k ə l i p,,Greenhilletal2008,"1,14",False
-1043-202_six-1,sout2869,202_six,kələkəlip mʷəkilikian,k ə l ə k ə l i p # mʷ ə k i l i k i a n,,Greenhilletal2008,21,False
-1043-203_seven-1,sout2869,203_seven,kələkəlip kəlalu,k ə l ə k ə l i p # k ə l a l u,,Greenhilletal2008,,False
-1043-205_nine-1,sout2869,205_nine,kələkəlip kuwas,k ə l ə k ə l i p # k u w a s,,Greenhilletal2008,,False
 1043-21_tothink-1,sout2869,21_tothink,liki-m lul̥u,l i k i + m # l u l̥ u,,Greenhilletal2008,65,False
 1043-22_tofear-1,sout2869,22_tofear,-əŋən,+ ə ŋ ə n,,Greenhilletal2008,60,False
 1043-23_blood-1,sout2869,23_blood,nə-tawu-k,n ə + t a w u + k,,Greenhilletal2008,1,False
@@ -9655,7 +9286,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1043-75_todiebedead-1,sout2869,75_todiebedead,-am̥ʷa,+ a mʷ a,,Greenhilletal2008,1,False
 1043-76_tolivebealive-1,sout2869,76_tolivebealive,-əmlaŋ,+ ə m l a ŋ,,Greenhilletal2008,60,False
 1043-77_toscratch-1,sout2869,77_toscratch,-akiaki,+ a k i a k i,,Greenhilletal2008,13,False
-1043-78_tocuthack-1,sout2869,78_tocuthack,-ælai,+ æ l a i,,Greenhilletal2008,1,False
 1043-79_stickwood-1,sout2869,79_stickwood,n-ai,n + a i,,Greenhilletal2008,1,False
 1043-7_tocome-1,sout2869,7_tocome,-ua,+ u a,,Greenhilletal2008,25,False
 1043-80_tosplit-1,sout2869,80_tosplit,-hoplai,+ h o p l a i,,Greenhilletal2008,98,False
@@ -9751,11 +9381,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1027-1_hand-1,tang1347,1_hand,lim̈a,l i m a,,Greenhilletal2008,"1, 64",False
 1027-200_four-1,tang1347,200_four,mo-v̈ati,m o + v a t i,,Greenhilletal2008,"1,65",False
 1027-201_five-1,tang1347,201_five,mo-lim̈a,m o + l i m a,,Greenhilletal2008,1,False
-1027-202_six-1,tang1347,202_six,mo-lim̈a-raβe,m o + l i m a + r a β e,,Greenhilletal2008,35,False
-1027-203_seven-1,tang1347,203_seven,raβe-ruwa,r a β e + r u w a,,Greenhilletal2008,13,False
-1027-204_eight-1,tang1347,204_eight,rap-tolu,r a p + t o l u,,Greenhilletal2008,"5, 7",False
-1027-205_nine-1,tang1347,205_nine,ra-v̈ati,r a + v a t i,,Greenhilletal2008,20,False
-1027-206_ten-1,tang1347,206_ten,saŋaβulu,s a ŋ a β u l u,,Greenhilletal2008,5,False
 1027-21_tothink-1,tang1347,21_tothink,romromi,r o m r o m i,,Greenhilletal2008,13,False
 1027-22_tofear-1,tang1347,22_tofear,m̈ataxu,m a t a x u,,Greenhilletal2008,1,False
 1027-23_blood-1,tang1347,23_blood,rae-,r a e +,,Greenhilletal2008,1,False
@@ -9808,7 +9433,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1027-74_tokill-1,tang1347,74_tokill,βili,β i l i,,Greenhilletal2008,67,False
 1027-75_todiebedead-1,tang1347,75_todiebedead,m̈ate,m a t e,,Greenhilletal2008,1,False
 1027-77_toscratch-1,tang1347,77_toscratch,xarosi,x a r o s i,,Greenhilletal2008,"1, 88",False
-1027-78_tocuthack-1,tang1347,78_tocuthack,taia,t a i a,,Greenhilletal2008,1,False
 1027-79_stickwood-1,tang1347,79_stickwood,v̈ip̈axai,v i p a x a i,,Greenhilletal2008,1,False
 1027-7_tocome-1,tang1347,7_tocome,m̈ai,m a i,,Greenhilletal2008,1,False
 1027-88_tosqueeze-1,tang1347,88_tosqueeze,p̈irip̈iri,p i r i p i r i,,Greenhilletal2008,16,False
@@ -9894,11 +9518,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1152-1_hand-2,tolo1255,1_hand,lina-,l i n a +,,Greenhilletal2008,"1, 64",False
 1152-200_four-1,tolo1255,200_four,βati,β a t i,,Greenhilletal2008,"1,65",False
 1152-201_five-1,tolo1255,201_five,lima,l i m a,,Greenhilletal2008,1,False
-1152-202_six-1,tolo1255,202_six,lina-raβe,l i n a + r a β e,,Greenhilletal2008,35,False
-1152-203_seven-1,tolo1255,203_seven,lina-raβe-rua,l i n a + r a β e + r u a,,Greenhilletal2008,13,False
-1152-204_eight-1,tolo1255,204_eight,lina-raβe-tolu,l i n a + r a β e + t o l u,,Greenhilletal2008,"5, 7",False
-1152-205_nine-1,tolo1255,205_nine,lina-ra-tati,l i n a + r a + t a t i,,Greenhilletal2008,20,False
-1152-206_ten-1,tolo1255,206_ten,ɣaβula tea,ɣ a β u l a # t e a,,Greenhilletal2008,5,False
 1152-20_toknowbeknowledgeable-1,tolo1255,20_toknowbeknowledgeable,tinisi-a,t i n i s i + a,,Greenhilletal2008,5,False
 1152-21_tothink-1,tolo1255,21_tothink,ninina,n i n i n a,,Greenhilletal2008,16,False
 1152-22_tofear-1,tolo1255,22_tofear,kine,k i n e,,Greenhilletal2008,75,False
@@ -9948,7 +9567,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1152-74_tokill-1,tolo1255,74_tokill,losi-neteia,l o s i + n e t e i a,,Greenhilletal2008,"59, 2",False
 1152-75_todiebedead-1,tolo1255,75_todiebedead,nate,n a t e,,Greenhilletal2008,1,False
 1152-76_tolivebealive-1,tolo1255,76_tolivebealive,nauri,n a u r i,,Greenhilletal2008,"1, 76",False
-1152-78_tocuthack-1,tolo1255,78_tocuthack,tˢini-a,ts i n i + a,,Greenhilletal2008,,False
 1152-79_stickwood-1,tolo1255,79_stickwood,matˢa,m a ts a,,Greenhilletal2008,24,False
 1152-7_tocome-1,tolo1255,7_tocome,sonai,s o n a i,,Greenhilletal2008,1,False
 1152-81_sharp-1,tolo1255,81_sharp,ɣani,ɣ a n i,,Greenhilletal2008,14,False
@@ -10016,7 +9634,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1011-163_new-1,tutu1241,163_new,inoparo,i n o p a r o,,Greenhilletal2008,"1, 47",False
 1011-164_good-1,tutu1241,164_good,ⁿḍui,ⁿḍ u i,,Greenhilletal2008,116,False
 1011-165_badevil-1,tutu1241,165_badevil,siate,s i a t e,,Greenhilletal2008,1,False
-1011-166_correcttrue-1,tutu1241,166_correcttrue,maso,m a s o,,Greenhilletal2008,,False
+1011-166_correcttrue-1,tutu1241,166_correcttrue,maso,m a s o,,Greenhilletal2008,130,False
 1011-167_night-1,tutu1241,167_night,ⁿḍoⁿḍo,ⁿḍ o ⁿḍ o,,Greenhilletal2008,68,False
 1011-168_day-1,tutu1241,168_day,rani,r a n i,,Greenhilletal2008,6,False
 1011-169_year-1,tutu1241,169_year,siao,s i a o,,Greenhilletal2008,66,False
@@ -10040,11 +9658,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1011-1_hand-1,tutu1241,1_hand,lima-,l i m a +,,Greenhilletal2008,"1, 64",False
 1011-200_four-1,tutu1241,200_four,e-βati,e + β a t i,,Greenhilletal2008,"1,65",False
 1011-201_five-1,tutu1241,201_five,e-lima,e + l i m a,,Greenhilletal2008,1,False
-1011-202_six-1,tutu1241,202_six,eono,e o n o,,Greenhilletal2008,1,False
-1011-203_seven-1,tutu1241,203_seven,epitu,e p i t u,,Greenhilletal2008,1,False
-1011-204_eight-1,tutu1241,204_eight,oalo,o a l o,,Greenhilletal2008,3,False
-1011-205_nine-1,tutu1241,205_nine,esua,e s u a,,Greenhilletal2008,5,False
-1011-206_ten-1,tutu1241,206_ten,saŋaβulu,s a ŋ a β u l u,,Greenhilletal2008,5,False
 1011-20_toknowbeknowledgeable-1,tutu1241,20_toknowbeknowledgeable,ⁿḍaβsaia,ⁿḍ a β s a i a,,Greenhilletal2008,45,False
 1011-21_tothink-1,tutu1241,21_tothink,ⁿḍoβsaia,ⁿḍ o β s a i a,,Greenhilletal2008,13?,False
 1011-22_tofear-1,tutu1241,22_tofear,ntau,n t a u,,Greenhilletal2008,1,False
@@ -10085,7 +9698,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1011-60_father-1,tutu1241,60_father,tama-,t a m a +,,Greenhilletal2008,1,False
 1011-61_house-1,tutu1241,61_house,ima,i m a,,Greenhilletal2008,1,False
 1011-63_name-1,tutu1241,63_name,isa-,i s a +,,Greenhilletal2008,"1,18",False
-1011-64_tosay-1,tutu1241,64_tosay,retilna,r e t i l n a,,Greenhilletal2008,,False
+1011-64_tosay-1,tutu1241,64_tosay,retilna,r e t i l n a,,Greenhilletal2008,117,False
 1011-65_rope-1,tutu1241,65_rope,asi,a s i,,Greenhilletal2008,58,False
 1011-66_totieupfasten-1,tutu1241,66_totieupfasten,talitaliai,t a l i t a l i a i,,Greenhilletal2008,79,False
 1011-6_roadpath-1,tutu1241,6_roadpath,sala,s a l a,,Greenhilletal2008,1,False
@@ -10094,7 +9707,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1011-74_tokill-1,tutu1241,74_tokill,lsua,l s u a,,Greenhilletal2008,59,False
 1011-76_tolivebealive-1,tutu1241,76_tolivebealive,mauri,m a u r i,,Greenhilletal2008,"1, 76",False
 1011-77_toscratch-1,tutu1241,77_toscratch,arosia,a r o s i a,,Greenhilletal2008,"1, 88",False
-1011-78_tocuthack-1,tutu1241,78_tocuthack,saloa,s a l o a,,Greenhilletal2008,129,False
 1011-79_stickwood-1,tutu1241,79_stickwood,βiai,β i a i,,Greenhilletal2008,29,False
 1011-7_tocome-1,tutu1241,7_tocome,mae,m a e,,Greenhilletal2008,1,False
 1011-80_tosplit-1,tutu1241,80_tosplit,soŋoa,s o ŋ o a,,Greenhilletal2008,54,False
@@ -10156,7 +9768,7 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1247-144_toburn-1,unua1237,144_toburn,-paŋ,+ p a ŋ,,Greenhilletal2008,"39, 91",False
 1247-145_smoke-1,unua1237,145_smoke,us,u s,,Greenhilletal2008,2,False
 1247-145_smoke-2,unua1237,145_smoke,us,u s,,Greenhilletal2008,2,False
-1247-146_ashes-1,unua1237,146_ashes,ᵐʙugas,ⁿʙ u g a s,,Greenhilletal2008,,False
+1247-146_ashes-1,unua1237,146_ashes,ᵐʙugas,ⁿʙ u g a s,,Greenhilletal2008,56,False
 1247-147_black-1,unua1237,147_black,-mɛt,+ m ɛ t,,Greenhilletal2008,1,False
 1247-148_white-1,unua1237,148_white,-poɾo,+ p o ɾ o,,Greenhilletal2008,3,False
 1247-149_red-1,unua1237,149_red,-pɛrpɛre,+ p ɛ r p ɛ r e,,Greenhilletal2008,90,False
@@ -10206,13 +9818,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1247-1_hand-1,unua1237,1_hand,nɛ-var-,n ɛ + v a r +,,Greenhilletal2008,16,False
 1247-200_four-1,unua1237,200_four,xɛvɛt͡ʃ,x ɛ v ɛ tʃ,,Greenhilletal2008,"1,65",False
 1247-201_five-1,unua1237,201_five,xɛʒim,x ɛ ʒ i m,,Greenhilletal2008,1,False
-1247-202_six-1,unua1237,202_six,mɪrovtɛs,m ɪ r o v t ɛ s,,Greenhilletal2008,20,False
-1247-203_seven-1,unua1237,203_seven,mɪrovɾu,m ɪ r o v ɾ u,,Greenhilletal2008,13,False
-1247-204_eight-1,unua1237,204_eight,mɪrovtuʒ,m ɪ r o v t u ʒ,,Greenhilletal2008,"5, 7?",False
-1247-205_nine-1,unua1237,205_nine,mɪropit͡ʃ,m ɪ r o p i tʃ,,Greenhilletal2008,20,False
-1247-206_ten-1,unua1237,206_ten,saŋaβʉʒ,s a ŋ a β ʉ ʒ,,Greenhilletal2008,5,False
-1247-207_twenty-1,unua1237,207_twenty,ŋaβulgeɾu,ŋ a β u l g e ɾ u,,Greenhilletal2008,9,False
-1247-209_onehundred-1,unua1237,209_onehundred,iŋotvarsoɣa,i ŋ o t v a r s o ɣ a,,Greenhilletal2008,"12, 45",False
 1247-20_toknowbeknowledgeable-1,unua1237,20_toknowbeknowledgeable,-rivs-,+ r i v s +,,Greenhilletal2008,90,False
 1247-210_onethousand-1,unua1237,210_onethousand,iɳotɳort͡ʃer farsoɣa,i ɳ o t ɳ o r tʃ e r # f a r s o ɣ a,,Greenhilletal2008,40,False
 1247-21_tothink-1,unua1237,21_tothink,-fa-,+ f a +,,Greenhilletal2008,73,False
@@ -10272,7 +9877,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1247-74_tokill-1,unua1237,74_tokill,-reriᵐʙuni,+ r e r i ⁿʙ u n i,,Greenhilletal2008,"74, 1?",False
 1247-75_todiebedead-1,unua1237,75_todiebedead,-mit͡ʃ,+ m i tʃ,,Greenhilletal2008,1,False
 1247-76_tolivebealive-1,unua1237,76_tolivebealive,-maur,+ m a u r,,Greenhilletal2008,"1, 76",False
-1247-78_tocuthack-1,unua1237,78_tocuthack,-tai,+ t a i,,Greenhilletal2008,1,False
 1247-79_stickwood-1,unua1237,79_stickwood,ni-xe,n i + x e,,Greenhilletal2008,1,False
 1247-7_tocome-1,unua1237,7_tocome,-fɛna,+ f ɛ n a,,Greenhilletal2008,23,False
 1247-80_tosplit-1,unua1237,80_tosplit,-tirvarai,+ t i r v a r a i,,Greenhilletal2008,1,False
@@ -10395,11 +9999,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 464-1_hand-2,urav1235,1_hand,leŋe-,l e ŋ e +,,Greenhilletal2008,32,False
 464-200_four-1,urav1235,200_four,lemelu,l e m e l u,,Greenhilletal2008,8,False
 464-201_five-1,urav1235,201_five,suworem,s u w o r e m,,Greenhilletal2008,"1,13",False
-464-202_six-1,urav1235,202_six,misai,m i s a i,,Greenhilletal2008,9,False
-464-203_seven-1,urav1235,203_seven,sinelu,s i n e l u,,Greenhilletal2008,,False
-464-204_eight-1,urav1235,204_eight,sinehli,s i n e h l i,,Greenhilletal2008,,False
-464-205_nine-1,urav1235,205_nine,sinivat,s i n i v a t,,Greenhilletal2008,,False
-464-206_ten-1,urav1235,206_ten,durem,d u r e m,,Greenhilletal2008,4,False
 464-20_toknowbeknowledgeable-1,urav1235,20_toknowbeknowledgeable,ocori,o c o r i,,Greenhilletal2008,18,False
 464-21_tothink-1,urav1235,21_tothink,daro,d a r o,,Greenhilletal2008,35,False
 464-22_tofear-1,urav1235,22_tofear,ivani,i v a n i,,Greenhilletal2008,26,False
@@ -10462,7 +10061,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 464-75_todiebedead-1,urav1235,75_todiebedead,imis,i m i s,,Greenhilletal2008,1,False
 464-76_tolivebealive-1,urav1235,76_tolivebealive,omorop,o m o r o p,,Greenhilletal2008,"1, 76",False
 464-77_toscratch-1,urav1235,77_toscratch,elei,e l e i,,Greenhilletal2008,74,False
-464-78_tocuthack-1,urav1235,78_tocuthack,arvi,a r v i,,Greenhilletal2008,143,False
 464-79_stickwood-1,urav1235,79_stickwood,ni,n i,,Greenhilletal2008,1,False
 464-7_tocome-1,urav1235,7_tocome,venim,v e n i m,,Greenhilletal2008,"1,25",False
 464-80_tosplit-1,urav1235,80_tosplit,arek,a r e k,,Greenhilletal2008,,False
@@ -10573,13 +10171,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1325-1_hand-1,urip1239,1_hand,nɛvɛrɛ-,n ɛ v ɛ r ɛ +,,Greenhilletal2008,16,False
 1325-200_four-1,urip1239,200_four,a-vʉt͡s,a + v ʉ ts,,Greenhilletal2008,"1,65",False
 1325-201_five-1,urip1239,201_five,ɛ-lim,ɛ + l i m,,Greenhilletal2008,1,False
-1325-202_six-1,urip1239,202_six,owɔn,o w ɔ n,,Greenhilletal2008,1,False
-1325-203_seven-1,urip1239,203_seven,ɛ-pʉt,ɛ + p ʉ t,,Greenhilletal2008,1,False
-1325-204_eight-1,urip1239,204_eight,ewɪl,e w ɪ l,,Greenhilletal2008,3,False
-1325-205_nine-1,urip1239,205_nine,ɛ-siʉ,ɛ + s i ʉ,,Greenhilletal2008,5,False
-1325-206_ten-1,urip1239,206_ten,asɪŋavʉl,a s ɪ ŋ a v ʉ l,,Greenhilletal2008,5,False
-1325-207_twenty-1,urip1239,207_twenty,oŋol oru,o ŋ o l # o r u,,Greenhilletal2008,24,False
-1325-209_onehundred-1,urip1239,209_onehundred,oŋosɪŋavʉl,o ŋ o s ɪ ŋ a v ʉ l,,Greenhilletal2008,40,False
 1325-22_tofear-1,urip1239,22_tofear,-mɛto,+ m ɛ t o,,Greenhilletal2008,1,False
 1325-23_blood-1,urip1239,23_blood,ra,r a,,Greenhilletal2008,1,False
 1325-24_head-1,urip1239,24_head,batu-,b a t u +,,Greenhilletal2008,9,False
@@ -10635,7 +10226,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1325-75_todiebedead-1,urip1239,75_todiebedead,-mɪʧ,+ m ɪ tʃ,,Greenhilletal2008,1,False
 1325-76_tolivebealive-1,urip1239,76_tolivebealive,-maur,+ m a u r,,Greenhilletal2008,"1, 76",False
 1325-77_toscratch-1,urip1239,77_toscratch,-rʃi,+ r ʃ i,,Greenhilletal2008,68,False
-1325-78_tocuthack-1,urip1239,78_tocuthack,-tai,+ t a i,,Greenhilletal2008,1,False
 1325-79_stickwood-1,urip1239,79_stickwood,na-i,n a + i,,Greenhilletal2008,1,False
 1325-7_tocome-1,urip1239,7_tocome,-mɛ,+ m ɛ,,Greenhilletal2008,1,False
 1325-80_tosplit-1,urip1239,80_tosplit,-taxwari,+ t a xʷ a r i,,Greenhilletal2008,"4, 6?",False
@@ -10746,11 +10336,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1077-1_hand-1,vera1241,1_hand,ᵐbini-k,ⁿb i n i + k,,Greenhilletal2008,14,False
 1077-200_four-1,vera1241,200_four,βo-βeˀ,β o + β e ʔ,,Greenhilletal2008,"1,65",False
 1077-201_five-1,vera1241,201_five,βe-lime,β e + l i m e,,Greenhilletal2008,1,False
-1077-202_six-1,vera1241,202_six,liβi-ˀie,l i β i + ʔ i e,,Greenhilletal2008,20,False
-1077-203_seven-1,vera1241,203_seven,liβi-ruo,l i β i + r u o,,Greenhilletal2008,13,False
-1077-204_eight-1,vera1241,204_eight,liβi-ˀol,l i β i + ʔ o l,,Greenhilletal2008,"5, 7",False
-1077-205_nine-1,vera1241,205_nine,liβi-βaˀ,l i β i + β a ˀ/ʔ,,Greenhilletal2008,20,False
-1077-206_ten-1,vera1241,206_ten,saŋʷul,s a ŋʷ u l,,Greenhilletal2008,5,False
 1077-20_toknowbeknowledgeable-1,vera1241,20_toknowbeknowledgeable,xalala,x a l a l a,,Greenhilletal2008,18,False
 1077-21_tothink-1,vera1241,21_tothink,ⁿdoⁿdomia,ⁿd o ⁿd o m i a,,Greenhilletal2008,13,False
 1077-22_tofear-1,vera1241,22_tofear,maˀaɣ,m a ˀ/ʔ a ɣ,,Greenhilletal2008,1,False
@@ -10807,7 +10392,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1077-75_todiebedead-1,vera1241,75_todiebedead,maˀ,m a ˀ/ʔ,,Greenhilletal2008,1,False
 1077-76_tolivebealive-1,vera1241,76_tolivebealive,es,e s,,Greenhilletal2008,24,False
 1077-77_toscratch-1,vera1241,77_toscratch,kor,k o r,,Greenhilletal2008,12,False
-1077-78_tocuthack-1,vera1241,78_tocuthack,ˀar,ʔ a r,,Greenhilletal2008,1,False
 1077-79_stickwood-1,vera1241,79_stickwood,weˀexi,w e ʔ e x i,,Greenhilletal2008,,False
 1077-7_tocome-1,vera1241,7_tocome,βan ma,β a n # m a,,Greenhilletal2008,"23, 1",False
 1077-80_tosplit-1,vera1241,80_tosplit,ˀar woro,ʔ a r # w o r o,,Greenhilletal2008,1,False
@@ -10945,13 +10529,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 484-1_hand-1,vinm1237,1_hand,nevera-,n e v e r a +,,Greenhilletal2008,16,False
 484-200_four-1,vinm1237,200_four,ivah,i v a h,,Greenhilletal2008,"1,65",False
 484-201_five-1,vinm1237,201_five,ilim,i l i m,,Greenhilletal2008,1,False
-484-202_six-1,vinm1237,202_six,nsouh,n s o u h,,Greenhilletal2008,31,False
-484-203_seven-1,vinm1237,203_seven,nsuru,n s u r u,,Greenhilletal2008,9,False
-484-204_eight-1,vinm1237,204_eight,nsutl,n s u t l,,Greenhilletal2008,"11,7",False
-484-205_nine-1,vinm1237,205_nine,nsavah,n s a v a h,,Greenhilletal2008,5,False
-484-206_ten-1,vinm1237,206_ten,naŋavil,n a ŋ a v i l,,Greenhilletal2008,5,False
-484-207_twenty-1,vinm1237,207_twenty,naŋavil iru,n a ŋ a v i l # i r u,,Greenhilletal2008,9,False
-484-209_onehundred-1,vinm1237,209_onehundred,naŋat sevaɣ,n a ŋ a t # s e v a ɣ,,Greenhilletal2008,"12, 44",False
 484-20_toknowbeknowledgeable-1,vinm1237,20_toknowbeknowledgeable,ro|gulel,r o | g u l e l,,Greenhilletal2008,"19, 18",False
 484-210_onethousand-1,vinm1237,210_onethousand,netar sevaɣ,n e t a r # s e v a ɣ,,Greenhilletal2008,13,False
 484-21_tothink-1,vinm1237,21_tothink,sisien,s i s i e n,,Greenhilletal2008,39,False
@@ -11025,7 +10602,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 484-75_todiebedead-1,vinm1237,75_todiebedead,mah,m a h,,Greenhilletal2008,1,False
 484-76_tolivebealive-1,vinm1237,76_tolivebealive,mour,m o u r,,Greenhilletal2008,"1, 76",False
 484-77_toscratch-1,vinm1237,77_toscratch,tegerev,t e g e r e v,,Greenhilletal2008,"12, 28",False
-484-78_tocuthack-1,vinm1237,78_tocuthack,tetar,t e t a r,,Greenhilletal2008,1,False
 484-79_stickwood-1,vinm1237,79_stickwood,na'ai,n a ʔ a i,,Greenhilletal2008,1,False
 484-7_tocome-1,vinm1237,7_tocome,vwelem,vʷ e l e m,,Greenhilletal2008,"1,25",False
 484-80_tosplit-1,vinm1237,80_tosplit,ŋar,ŋ a r,,Greenhilletal2008,28,False
@@ -11148,11 +10724,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1065-1_hand-1,vure1239,1_hand,pini-k,p i n i + k,,Greenhilletal2008,14,False
 1065-200_four-1,vure1239,200_four,ni-βet,n i + β e t,,Greenhilletal2008,"1,65",False
 1065-201_five-1,vure1239,201_five,teβe-lim,t e β e + l i m,,Greenhilletal2008,1,False
-1065-202_six-1,vure1239,202_six,leβe-te,l e β e + t e,,Greenhilletal2008,20,False
-1065-203_seven-1,vure1239,203_seven,luβu-ru,l u β u + r u,,Greenhilletal2008,13,False
-1065-204_eight-1,vure1239,204_eight,luβu-tul,l u β u + t u l,,Greenhilletal2008,"5, 7",False
-1065-205_nine-1,vure1239,205_nine,luβu-βet,l u β u + β e t,,Greenhilletal2008,20,False
-1065-206_ten-1,vure1239,206_ten,saŋʷul,s a ŋʷ u l,,Greenhilletal2008,5,False
 1065-20_toknowbeknowledgeable-1,vure1239,20_toknowbeknowledgeable,alal,a l a l,,Greenhilletal2008,18,False
 1065-21_tothink-1,vure1239,21_tothink,nunum,n u n u m,,Greenhilletal2008,13,False
 1065-22_tofear-1,vure1239,22_tofear,ᵏpʷeneɣ,kpʷ e n e ɣ,,Greenhilletal2008,32,False
@@ -11209,7 +10780,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1065-75_todiebedead-1,vure1239,75_todiebedead,mat,m a t,,Greenhilletal2008,1,False
 1065-76_tolivebealive-1,vure1239,76_tolivebealive,ɣais,ɣ a i s,,Greenhilletal2008,24,False
 1065-77_toscratch-1,vure1239,77_toscratch,kor,k o r,,Greenhilletal2008,12,False
-1065-78_tocuthack-1,vure1239,78_tocuthack,tar,t a r,,Greenhilletal2008,1,False
 1065-79_stickwood-1,vure1239,79_stickwood,rekeᵑke,r e k e ⁿk e,,Greenhilletal2008,"1,25",False
 1065-7_tocome-1,vure1239,7_tocome,βan me,β a n # m e,,Greenhilletal2008,"23, 1",False
 1065-80_tosplit-1,vure1239,80_tosplit,tar wor,t a r # w o r,,Greenhilletal2008,1,False
@@ -11312,11 +10882,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1139-1_hand-1,whit1269,1_hand,na-l̥ima-k,n a + l̥ i m a + k,,Greenhilletal2008,"1, 64",False
 1139-200_four-1,whit1269,200_four,ku-et,k u + e t,,Greenhilletal2008,1,False
 1139-201_five-1,whit1269,201_five,kariləm,k a r i l ə m,,Greenhilletal2008,"1,14",False
-1139-202_six-1,whit1269,202_six,kariləm katiah,k a r i l ə m # k a t i a h,,Greenhilletal2008,21,False
-1139-203_seven-1,whit1269,203_seven,kariləm kaiu,k a r i l ə m # k a i u,,Greenhilletal2008,,False
-1139-204_eight-1,whit1269,204_eight,kariləm kəsəl,k a r i l ə m # k ə s ə l,,Greenhilletal2008,,False
-1139-205_nine-1,whit1269,205_nine,kariləm kuet,k a r i l ə m # k u e t,,Greenhilletal2008,,False
-1139-206_ten-1,whit1269,206_ten,kariləm kariləm,k a r i l ə m # k a r i l ə m,,Greenhilletal2008,,False
 1139-20_toknowbeknowledgeable-1,whit1269,20_toknowbeknowledgeable,-iakaruru,+ i a k a r u r u,,Greenhilletal2008,18,False
 1139-21_tothink-1,whit1269,21_tothink,-ataləŋ,+ a t a l ə ŋ,,Greenhilletal2008,19,False
 1139-22_tofear-1,whit1269,22_tofear,-aŋən,+ a ŋ ə n,,Greenhilletal2008,60,False
@@ -11371,7 +10936,6 @@ ID,Language_ID,Parameter_ID,Form,Segments,Comment,Source,Cognacy,Loan
 1139-74_tokill-1,whit1269,74_tokill,-uh,+ u h,,Greenhilletal2008,,False
 1139-75_todiebedead-1,whit1269,75_todiebedead,-imis,+ i m i s,,Greenhilletal2008,1,False
 1139-77_toscratch-1,whit1269,77_toscratch,-akiaki,+ a k i a k i,,Greenhilletal2008,13,False
-1139-78_tocuthack-1,whit1269,78_tocuthack,-atei,+ a t e i,,Greenhilletal2008,1,False
 1139-79_stickwood-1,whit1269,79_stickwood,n-əŋi,n + ə ŋ i,,Greenhilletal2008,1,False
 1139-7_tocome-1,whit1269,7_tocome,-βæ,+ β æ,,Greenhilletal2008,25,False
 1139-80_tosplit-1,whit1269,80_tosplit,-atahtœ,+ a t a h t œ,,Greenhilletal2008,,False

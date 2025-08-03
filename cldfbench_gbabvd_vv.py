@@ -25,25 +25,25 @@ from segments import Profile, Tokenizer
 # ignore these words as they are hard to identify cognates in vanuatu (& elsewhere)
 # following discussions with MR/BE/MW
 ABVD_PARAMETERS_TO_IGNORE = [
-    'to turn',
-    'dirty',
-    'small',
-    'narrow',
-    'wide',
-    'in, inside',
-    'we',
-    'other',
-    'all',
-    'if',
-    'six',
-    'seven',
-    'eight',
-    'nine',
-    'ten',
-    'twenty',
-    'fifty',
-    'one hundred',
-    'one thousand',
+    '8_toturn',
+    '10_dirty',
+    '78_tocuthack',
+    '152_small',
+    '158_narrow',
+    '159_wide',
+    '174_ininside',
+    '185_we',
+    '190_other',
+    '191_all',
+    '193_if',
+    '202_six',
+    '203_seven',
+    '204_eight',
+    '205_nine',
+    '206_ten',
+    '207_twenty',
+    '208_fifty',
+    '209_onehundred',
 ]
 
 
@@ -176,7 +176,7 @@ class Dataset(BaseDataset):
             # add ABVD parameters
             badword_ids = set()
             for p in abvd.objects('ParameterTable'):
-                if p.cldf.name not in ABVD_PARAMETERS_TO_IGNORE:
+                if p.cldf.id not in ABVD_PARAMETERS_TO_IGNORE:
                     ds.objects['ParameterTable'].append({
                         'ID': p.cldf.id,
                         'Name': p.cldf.name,
